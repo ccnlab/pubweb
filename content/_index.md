@@ -4,6 +4,7 @@ title: "Main Page"
 
 {{< fig src="ccnlab_logo.png" width="500" >}}
 
+The public website for our lab is: https://ccnlab.org
 
 We have just moved from CU Boulder to UC Davis, and are now based at the [Center for Neuroscience](https://neuroscience.sf.ucdavis.edu) at UC Davis.
 

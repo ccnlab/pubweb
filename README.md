@@ -1,6 +1,6 @@
 # CCNLab at UC Davis Public Web Pages
 
-This is the source code for our lab's public web page, which is then rendered into html by Hugo: https://gohugo.io 
+This is the source code for our lab's public web page: https://ccnlab.org, which is then rendered into html by Hugo: https://gohugo.io 
 
 You can navigate directly to the [content directory on GitHub](https://github.com/CCNLab/pubweb/tree/master/content) to view the web pages, which will render partially here as regular markdown pages without all the extra formatting and navigation help etc.
 
