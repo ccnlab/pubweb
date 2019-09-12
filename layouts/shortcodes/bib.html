@@ -1,0 +1,4 @@
+{{ if eq (len .Params) 1 }}<span class="wikibib" data-citekey="{{ .Get 0 }}"></span>{{ else }}{{ range $index, $element := .Params }}
+<li> <span class="wikibib" data-citekey="{{ $element }}"></span>
+{{ end }}
+{{ end }}

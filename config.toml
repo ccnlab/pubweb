@@ -1,0 +1,80 @@
+title = "CCN Lab"
+baseurl = "https://grey.colorado.edu/ccnlab/"
+MetaDataFormat = "yaml"
+pluralizeListTitles = false
+paginate = 10
+EnableGitInfo = true
+
+[blackfriday]
+  plainIDAnchors = true
+  fractions = false
+  extensions = ["noIntraEmphasis"]
+
+[params]
+  description = "Computational Cognitive Neuroscience Lab at UC Davis"
+  mainIcon = "{{ .Site.BaseUrl }}img/ccnlab.png"
+  author = "CCNLab Members"
+  release = "0.0.1"
+  giturl = "https://github.com/CCNLab/pubweb"
+  gituser = "CCNLab"
+  gitproj = "pubweb"
+  toc = true
+  
+
+[taxonomies]
+  tag = "tags"
+  group = "groups"
+
+[[menu.main]]
+    name = "Main"
+    pre = "<i class='fa fa-home'></i>"
+    url = "/index.html"
+    weight = -1000
+[[menu.main]]
+    name = "People"
+    identifier = "people"
+    pre = "<i class='fa fa-user'></i>"
+    url = "/people/"
+    weight = -990
+[[menu.main]]
+    name = "Join Us!"
+    identifier = "join"
+    pre = "<i class='fa fa-group'></i>"
+    url = "/join/"
+    weight = -980
+[[menu.main]]
+    name = "Research"
+    identifier = "research"
+    pre = "<i class='fa fa-cogs'></i>"
+    url = "/research/"
+    weight = -890
+[[menu.main]]
+    name = "Publications"
+    identifier = "publications"
+    pre = "<i class='fa fa-book'></i>"
+    url = "/pubs/"
+    weight = -880
+[[menu.main]]
+    name = "Talk Videos, Slides"
+    identifier = "talks"
+    pre = "<i class='fa fa-file-movie-o'></i>"
+    url = "/talks/"
+    weight = -790
+[[menu.main]]
+    name = "Media Coverage"
+    pre = "<i class='fa fa-bullhorn'></i>"
+    url = "/media/"
+    weight = -780
+[[menu.main]]
+    name = "Funding"
+    identifier = "funding"
+    pre = "<i class='fa fa-gift'></i>"
+    url = "/funding/"
+    weight = -690
+[[menu.main]]
+    name = "Links & Contact"
+    identifier = "links"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/links/"
+    weight = -590
+

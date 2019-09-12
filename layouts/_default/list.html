@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ with .Content }}
+{{ . }}
+{{ end }}
+
+<h1> All Pages </h1>
+
+{{ partial "sections-tree.html" . }}
+
+<h1> Recent Changes </h1>
+
+{{ partial "recent-changes.html" . }}
+
+{{ end }}

@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+{{ if .Params.notoc }}
+{{block "main" .}}{{end}}
+{{ else }}
+<div id="toc" class="toc {{ if gt (len .TableOfContents) 2500 }}compact{{ end }}">
+    {{ .TableOfContents }}
+</div>
+<!-- this causes the toc to indent everything -->
+<!-- <div class="col-lg-8 col-md-12"> -->
+<div>
+{{block "main" .}}{{end}}
+</div>
+{{ end }}
+{{ partial "footer.html" . }}

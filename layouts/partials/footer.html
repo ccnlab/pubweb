@@ -1,0 +1,63 @@
+                    <div class="row">
+                        <div class="footer-panel">
+                    <p>Last revision: {{ .Lastmod.Format "January 2, 2006" }}
+<!-- .GitInfo.AuthorName .GitInfo.Subject -- not currently working!! -->
+                          <span style="float: right;">CCNLab Lab Wiki</span>
+                        </p>
+                        {{ with  getenv "REPOSITORY_URL" -}}
+                        <a href="https://www.netlify.com" style="float: right; padding-right: 20px;">
+                        <img src="https://www.netlify.com/img/global/badges/netlify-color-bg.svg"/>
+                        </a>
+                        {{- end }}
+                        </div>
+                    </div>
+
+                    </div>
+                    </section>
+
+                    </div>
+
+                <div class="col-md-1">
+                    {{ if .IsPage }}
+                    {{ with .GetParam "next" }}
+                    <a class="navigation next" href="{{.}}">
+                        <i class="fa fa-angle-right"> </i>
+                    </a>
+                    {{ end }}
+                    {{ end }}
+                </div>
+              </div>
+              <!-- page start-->
+          </section>
+      </section>
+     <!--main content end-->
+  </section>
+  <!-- container section end -->
+
+    <!-- javascripts -->
+    <script type="text/javascript" src="{{ .Site.BaseURL }}js/wikicite.js"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/github.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+                
+    <script type="text/javascript" src="{{ .Site.BaseURL }}vendor/flesler/js/jquery.scrollTo.min.js"></script>
+    <script type="text/javascript" src="{{ .Site.BaseURL }}vendor/twitter/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+        //    displayAlign: 'left'
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+    <!--custom script for all page-->
+    <script type="text/javascript" src="{{ .Site.BaseURL }}js/scripts.js"></script>
+  </body>
+</html>

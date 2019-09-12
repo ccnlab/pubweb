@@ -1,2 +1,33 @@
-# pubweb
-Public-facing web page for CCN Lab
+# CCNLab at CU Boulder Lab Wiki
+
+This is the source code for the wiki, which is then rendered into html by Hugo: https://gohugo.io 
+
+You can use the [editor on GitHub](https://github.com/CCNLabCU/labwiki/edit/master/README.md) to edit this readme file!
+
+And you can navigate directly to the [content directory on GitHub](https://github.com/CCNLabCU/labwiki/tree/master/content) to view the wiki pages, which will render partially here as regular markdown pages without all the extra formatting and navigation help etc.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+

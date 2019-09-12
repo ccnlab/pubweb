@@ -1,0 +1,31 @@
+{{ $home := .Page }}
+<div class="css-treeview box">
+	<ul>
+	{{ template "section-tree-nav" $home }}
+	</ul>
+</div>
+{{ define "section-tree-nav" }}
+{{ range .Sections }}
+<li><input type="checkbox" class="fa fa-folder-open" id="item-0-0" /><label for="item-0-0">&nbsp;&nbsp;{{ .Title }}</label>
+	<ul>
+		{{ range .Pages }}
+		<li><a href="{{ .RelPermalink}}">{{ .Title }}</a></li>
+		{{ end }}
+		<ul>
+		{{ template "section-tree-nav" . }}
+		</ul>
+	</ul>
+
+</li>
+</li>
+{{ end }}
+{{ end }}
+
+	<ul>
+		{{ range .Pages }}
+		<li><a href="{{ .RelPermalink}}">{{ .Title }}</a></li>
+		{{ end }}
+        </ul>
+                
+
+                

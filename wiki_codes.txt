@@ -1,0 +1,14 @@
+These are the key wiki codes -- can store them to emacs text registers for example..
+
+{{< load-photoswipe >}}
+{{< gallery >}}
+{{< figure src="" width="300" caption="" >}}
+{{< /gallery >}}
+
+{{< page "" >}}
+
+{{< cite "" >}}
+
+---
+title: ""
+---
