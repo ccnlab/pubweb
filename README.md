@@ -1,10 +1,8 @@
-# CCNLab at CU Boulder Lab Wiki
+# CCNLab at UC Davis Public Web Pages
 
-This is the source code for the wiki, which is then rendered into html by Hugo: https://gohugo.io 
+This is the source code for our lab's public web page, which is then rendered into html by Hugo: https://gohugo.io 
 
-You can use the [editor on GitHub](https://github.com/CCNLabCU/labwiki/edit/master/README.md) to edit this readme file!
-
-And you can navigate directly to the [content directory on GitHub](https://github.com/CCNLabCU/labwiki/tree/master/content) to view the wiki pages, which will render partially here as regular markdown pages without all the extra formatting and navigation help etc.
+You can navigate directly to the [content directory on GitHub](https://github.com/CCNLab/pubweb/tree/master/content) to view the web pages, which will render partially here as regular markdown pages without all the extra formatting and navigation help etc.
 
 ### Markdown
 
