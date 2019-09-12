@@ -12,6 +12,6 @@ Our lab develops computational and formal models of the biological bases of cogn
 
 We release our research projects, papers, etc in public repositories on our lab github page: https://github.com/CCNLab
 
-This webpage source is at: https://github.com/CCNLab/pubweb (powered by [Hugo](https://gohugo.io))
+This webpage source is at: https://github.com/CCNLab/pubweb (powered by [Hugo](https://gohugo.io) and [Netlify](https://netlify.com))
 
 
