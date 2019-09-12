@@ -4,7 +4,7 @@ title: "Research"
 
 *last updated 6/29/2014*
 
-The [Publications]({{< ref "pubs" >}}) page offers an up-to-date summary of recent lab publications.  The [CCN Online Textbook](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) provides an overview of our approach in the first chapter and extensive mentions of prior research.
+The [Publications]({{< ref "/pubs" >}}) page offers an up-to-date summary of recent lab publications.  The [CCN Online Textbook](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) provides an overview of our approach in the first chapter and extensive mentions of prior research.
 
 # Overall Approach
 
