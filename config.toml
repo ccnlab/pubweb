@@ -1,5 +1,5 @@
 title = "CCN Lab"
-baseurl = "https://ccnlab.org/"
+baseurl = "https://ccnlab.netlify.com/"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
 paginate = 10
