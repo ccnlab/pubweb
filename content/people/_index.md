@@ -4,7 +4,7 @@ title: "People"
 
 # Director
 
-* [Dr. Randall C. O'Reilly](https://psychology.ucdavis.edu/people/oreilly) 
+* [Dr. Randall C. O'Reilly]({{< ref "people/oreilly" >}})
     + {{< page "people/oreilly/cv" >}} and {{< page "people/oreilly/bio" >}}
 
 # Senior Research Associates

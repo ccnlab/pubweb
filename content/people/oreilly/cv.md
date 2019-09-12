@@ -11,16 +11,17 @@ Last updated: 9/12/2019
 [University of California, Davis](https://www.ucdavis.edu)  
 [Center for Neuroscience](https://neuroscience.sf.ucdavis.edu)  
 1544 Newton Ct, Davis, CA 95816  
-Phone: (530) 757-8870
+Phone: (530) 757-8870  
 Email: oreilly@ucdavis.edu  
 WWW: https://ccnlab.org/people/oreilly/cv/
 
 # Employment
 
-* Professor, Department of Psychology & Neuroscience, Institute of Cognitive Science, Center for Neuroscience, University of Colorado Boulder, 2008-present.
+* Professor, Department of Psychology, Computer Science, and Center for Neuroscience, University of California Davis, 2019-present.
+* Professor, Department of Psychology & Neuroscience, Institute of Cognitive Science, Center for Neuroscience, University of Colorado Boulder, 2008-2019.
 * Associate Professor, Department of Psychology, Institute of Cognitive Science, Center for Neuroscience, University of Colorado Boulder, 2002-2008.
 * Assistant Professor, Department of Psychology, Institute of Cognitive Science, Center for Neuroscience, University of Colorado Boulder, 1997-2002.
-* Chief Scientist, eCortex Inc, www.e-cortex.com, 2006-present.
+* Chief Scientist, eCortex Inc, http://e-cortex.com, 2006-present.
 
 # Degrees
 
