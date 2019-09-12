@@ -1,5 +1,5 @@
 title = "CCN Lab"
-baseurl = "https://grey.colorado.edu/ccnlab/"
+baseurl = "https://ccnlab.org/"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
 paginate = 10
