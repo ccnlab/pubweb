@@ -2,6 +2,8 @@
 title: "Randall C. O'Reilly"
 ---
 
+{{< fig src="fig_randy_me_my_face.png" width="500" >}}
+
 Dr. Randall C. O'Reilly:
 
 * [UC Davis Psychology Page](https://psychology.ucdavis.edu/people/oreilly)
@@ -14,5 +16,5 @@ Dr. Randall C. O'Reilly:
 1544 Newton Ct, Davis, CA 95816  
 Phone: (530) 757-8870  
 Email: oreilly@ucdavis.edu  
-WWW: https://ccnlab.org/people/oreilly/cv/
+WWW: https://ccnlab.org/people/oreilly
 
