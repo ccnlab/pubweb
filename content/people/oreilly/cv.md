@@ -13,7 +13,7 @@ Last updated: 9/12/2019
 1544 Newton Ct, Davis, CA 95816  
 phone: (530) 757-8870  
 email: oreilly@ucdavis.edu  
-www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/static/files/oreilly-CV.pdf)  
+www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/oreilly-CV.pdf)  
 
 # Employment
 
