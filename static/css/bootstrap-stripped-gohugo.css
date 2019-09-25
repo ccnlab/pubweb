@@ -160,6 +160,7 @@ td,
 th {
   padding: 0;
 }
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -167,9 +168,17 @@ th {
   *:after {
     color: #000 !important;
     text-shadow: none !important;
+    font-size: 11pt !important;
+    line-height: 1.2 !important;
     background: transparent !important;
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
+  }
+  .no-print, .no-print * {
+      display: none !important;
+  }
+  .toc {
+      display: none !important;
   }
   a,
   a:visited {
