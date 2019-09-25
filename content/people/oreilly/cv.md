@@ -11,9 +11,9 @@ Last updated: 9/12/2019
 [University of California, Davis](https://www.ucdavis.edu)  
 [Center for Neuroscience](https://neuroscience.sf.ucdavis.edu)  
 1544 Newton Ct, Davis, CA 95816  
-Phone: (530) 757-8870  
-Email: oreilly@ucdavis.edu  
-WWW: https://ccnlab.org/people/oreilly/cv/
+phone: (530) 757-8870  
+email: oreilly@ucdavis.edu  
+www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/static/files/oreilly-CV.pdf)  
 
 # Employment
 
