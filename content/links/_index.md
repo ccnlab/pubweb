@@ -21,4 +21,5 @@ We have now migrated almost everything over to opensource and cloud-based servic
 
 * Email lists are on [google groups](https://groups.google.com)
 
+* [Zotero CCNLab](https://www.zotero.org/groups/340666/ccnlab) -- you are welcome to join our group and tap into roughly 30k citations of all the best research :)  Lots of PDF's in there.  We use [Better Bibtex](https://github.com/retorquere/zotero-better-bibtex) and http://zotfile.com/ plugins to work with LaTeX / BibTeX -- great tools.
 
