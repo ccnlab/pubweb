@@ -4,6 +4,13 @@ title: "Media"
 
 Media Coverage of research
 
+# Procrastination and goal-engaged vs. goal-selection value function differences
+
+{{< cite "OReillyHazyMollickEtAl14" >}}
+
+* [Denver ABC 7: New Year's Resolutions](https://www.thedenverchannel.com/news/local-news/heres-how-to-stick-to-your-2019-new-years-resolution)
+* [CU Story on Spring Cleaning](https://www.colorado.edu/today/2018/03/27/daunted-spring-cleaning-blame-your-brain-professor-says)
+
 # Structure in randomness and gambler's fallacy
 
 {{< cite "SunOReillyBhattacharyyaEtAl15" >}}
