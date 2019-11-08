@@ -23,3 +23,19 @@ We have now migrated almost everything over to opensource and cloud-based servic
 
 * [Zotero CCNLab](https://www.zotero.org/groups/340666/ccnlab) -- you are welcome to join our group and tap into roughly 30k citations of all the best research :)  Lots of PDF's in there.  We use [Better Bibtex](https://github.com/retorquere/zotero-better-bibtex) and http://zotfile.com/ plugins to work with LaTeX / BibTeX -- great tools.
 
+# Zotero config
+
+Notes for anyone using the CCNLab zotero setup:
+
+0. For first sync with the client to desktop, probably better to set Sync to `as needed` to get the library downloaded quickly, and then do `at sync time` if you want later and let it churn overnight with a good network connection.
+
+1. Install Better Bibtex: https://retorque.re/zotero-better-bibtex/  (install in `Tools/Add Ons`) -- this adds a `Citekey` field which we use to track all references and cite in bibtex -- provides a handy way to refer to a paper.
+
+2. Configure citation key in `Preferences / Better Bibtex` as `[authors3][shortyear]`
+
+3. Install Zotfile: http://zotfile.com/ and set `Tools / ZotFile preferences / Renaming Rules` `Renaming format` to `{%b}` (for all item types except patents -- we don't care about patents so leave as is).
+
+4. Set `General / Preferences` to `Automatically rename attachment files using parent metadata` -- this in conjunction with Zotfile renames pdf's using citekey.
+
+5. Be sure to check for an existing entry before adding, and if you accidentally add a duplicate (it will end with `a` in the citekey as a clue) please delete it or merge it using `Duplicate items` section.
+
