@@ -31,7 +31,11 @@ Notes for anyone using the CCNLab zotero setup:
 
 1. Install Better Bibtex: https://retorque.re/zotero-better-bibtex/  (install in `Tools/Add Ons`) -- this adds a `Citekey` field which we use to track all references and cite in bibtex -- provides a handy way to refer to a paper.
 
-2. Configure citation key in `Preferences / Better Bibtex` as `[authors3][shortyear]`
+2. Configure citation key in `Preferences / Better Bibtex` as:
+
+```
+[authors3][shortyear]
+```
 
 3. Install Zotfile: http://zotfile.com/ and set `Tools / ZotFile preferences / Renaming Rules` `Renaming format` to `{%b}` (for all item types except patents -- we don't care about patents so leave as is).
 
