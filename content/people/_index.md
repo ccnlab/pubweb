@@ -86,13 +86,13 @@ title: "People"
 
 * Tanaya Mankand -- http://e-cortex.com
 
-
-## Former Undergrads
+## Former Undergrads, RA's
 
 * Kenneth Latimer (now grad student at UT Austin)
 * Elizabeth Chan
 * Alexandra E. Clark
 * Shelby Imes
+* Andrew Szabados, PhD. 2012-2014.
 
 ## Former Interns
 
@@ -101,5 +101,6 @@ title: "People"
 * Juan Marin, MD, Sept-Nov 2012
 * Sebastian Musslick, Oct, 2012 - April 2013
 * Hailey Egidio-Betancourt, Summer 2015, SMART scholar
+
 
 
