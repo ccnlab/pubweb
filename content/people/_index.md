@@ -22,9 +22,15 @@ title: "People"
 * Mary Zolfaghar, Cog Neuro PhD Student, Fall 2016 - present
 * Jake Russin, Cog Neuro PhD Student, Fall 2017 - present
 
-# Undergrads
+# Junior Specialists
 
-# Interns
+* Taiqi He, Fall 2019 - present
+* Andrew Carlson, Winter 2020 - present
+
+# Visitors
+
+* Yuichi Ito (Postdoc at Keio University Japan), Fall 2019 - Spring 2020
+* Satoru Nishiyama (Kyoto University Japan, PhD student), Fall 2019 - Spring 2020
 
 # Business Partners
 
@@ -32,18 +38,32 @@ title: "People"
 
 # Main Collaborators
 
-* Dr. Marie Banich (CU Psych)
-* Dr. Erie Boorman (UC Davis)
-* Dr. Todd Braver (Washington University, St. Louis)
+UC Davis (a few initial collaborations among various other potential ones):
+
+* [Dr. Erie Boorman](http://ldm.ucdavis.edu)
+* [Dr. Cam Carter](https://carterlab.ucdavis.edu/front/index.php)
+* [Dr. Tim Hanks](https://hankslab.faculty.ucdavis.edu)
+* [Dr. Charan Ranganath](http://dml.ucdavis.edu)
+* [Dr. Ignacio Saez](https://saez.faculty.ucdavis.edu)
+* [Dr. Brian Wiltgen](https://wiltgenlab.sf.ucdavis.edu)
+* [Dr. Andy Yonelineas](https://yonelinas.faculty.ucdavis.edu)
+
+CU Boulder:
+
+* Dr. Marie Banich
+* Dr. Tim Curran
+* Dr. Akira Miyake 
+* Dr. Michael Mozer
+* Dr. Yuko Munakata 
+* Dr. Jerry Rudy
+* Dr. Tor Wager
+
+Other:
+
 * Dr. Jonathan Cohen (Princeton University)
-* Dr. Tim Curran (CU Psych)
-* Dr. Akira Miyake (CU Psych)
-* Dr. Michael Mozer (CU Computer Science)
-* Dr. Yuko Munakata (CU Psych)
+* Dr. Alex Petrov (Ohio University)
+* Dr. Todd Braver (Washington University, St. Louis)
 * Dr. David Noelle (UC Merced)
-* Dr. Charan Ranganath (UC Davis)
-* Dr. Jerry Rudy (CU Psych)
-* Dr. Tor Wager (CU Psych)
 
 # Former Lab Members:
 

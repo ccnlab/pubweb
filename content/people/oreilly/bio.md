@@ -6,4 +6,7 @@ Dr. O’Reilly has made significant scientific advances in understanding the fun
 
 Dr. O’Reilly received his Ph.D. from Carnegie Mellon University after graduating from Harvard University with highest honors in Psychology.  After a postdoctoral position at the Massachusetts Institute of Technology, he was promoted to Professor of Psychology and Neuroscience at the University of Colorado at Boulder, and has just moved to UC Davis in the Summer of 2019.  His research has been continually funded from a variety of sponsors including the ONR, NIH, NSF, including leading large-scale ambitious projects funded by IARPA and DARPA.  He co-founded eCortex, Inc. in 2006 and serves as Chief Scientific Officer for this small but thriving R&D company.  Dr. O’Reilly has received numerous awards, including membership in the prestigious Society of Experimental Psychologists.
 
+# Briefer Bio
+
+Randall O’Reilly, Ph.D., Professor of Psychology, Computer Science, and Neuroscience, joined the UC Davis Center for Neuroscience in summer 2019. Internationally recognized as a founder of the field of Computational Cognitive Neuroscience, Dr. O’Reilly develops large-scale systems-neuroscience computational models of learning, memory, and motivated cognitive control, to learn how neurons give rise to human cognitive function and to inform our understanding of brain-based disorders such as schizophrenia and Parkinson’s disease.
 

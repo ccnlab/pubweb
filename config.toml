@@ -72,9 +72,15 @@ EnableGitInfo = true
     url = "/funding/"
     weight = -690
 [[menu.main]]
+    name = "Teaching"
+    identifier = "teaching"
+    pre = "<i class='fa fa-graduation-cap'></i>"
+    url = "/teaching/"
+    weight = -590
+[[menu.main]]
     name = "Links & Contact"
     identifier = "links"
     pre = "<i class='fa fa-road'></i>"
     url = "/links/"
-    weight = -590
+    weight = -490
 

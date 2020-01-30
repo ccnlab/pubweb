@@ -2,6 +2,8 @@
 title: "Randall C. O'Reilly"
 ---
 
+<br>
+
 {{< fig src="fig_randy_me_my_face.png" width="500" >}}
 
 Dr. Randall C. O'Reilly:
