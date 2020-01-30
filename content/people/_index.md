@@ -11,9 +11,6 @@ title: "People"
 
 * Thomas Hazy, MD
 * Seth Herd, PhD, also CEO at [eCortex](http://e-cortex.com)
-
-# Postdocs
-
 * Kai Krueger, PhD, 2011-present
 * [John Rohrlich](https://grey.colorado.edu/CompCogNeuro/index.php/CCNLab/rohrlich), PhD, 2012-present
 
@@ -32,9 +29,10 @@ title: "People"
 * Yuichi Ito (Postdoc at Keio University Japan), Fall 2019 - Spring 2020
 * Satoru Nishiyama (Kyoto University Japan, PhD student), Fall 2019 - Spring 2020
 
-# Business Partners
+# eCortex: http://e-cortex.com
 
-* Dave Jilk -- http://e-cortex.com
+* Dave Jilk, founding CEO
+* Ananta Nair, Cognitive Modeler
 
 # Main Collaborators
 
