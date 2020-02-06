@@ -4,8 +4,8 @@ title: "Computational Cognitive Neuroscience"
 
 # Spring, 2020, ECS 189G, 001, CRN 84470 (Undergrads) / ECS 289G, CRN 84471 (Grads)
 
-* 189G: Tue/Thu 1:40 -- 3:00, in Hoagland Hall 168  (Lab Friday 10-10:50am, Chemistry 176), CRN 84470
-* 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471
+* 189G: Tue/Thu 1:40 -- 3:00, in Hoagland Hall 168  (Lab Friday 10-10:50am, Chemistry 176), CRN 84470, 4 units
+* 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471, 4 units
 * Class Web Site: https://ccnlab.org/teaching/ccn
 * Canvas site: https://canvas.ucdavis.edu -- submit reading reactions, homework, etc through here!
 * Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
