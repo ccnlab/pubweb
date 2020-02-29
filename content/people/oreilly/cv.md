@@ -100,9 +100,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Journal Papers
 
-* Mollick, J. A., Hazy, T. E., Krueger, K. A., Nair, A., Mackie, P. Herd, S. A., O'Reilly, R.C. (2018/under revision). A Systems-Neuroscience Model of Phasic Dopamine. <I>Psychological Review</I>
+* Mollick, J. A., Hazy, T. E., Krueger, K. A., Nair, A., Mackie, P. Herd, S. A., O'Reilly, R.C. (in press). A Systems-Neuroscience Model of Phasic Dopamine. <I>Psychological Review</I>
 
-* O'Reilly, R.C., Wyatte, D., and Rohrlich, J. (2017/under revision). Deep Predictive Learning in Neocortex and Pulvinar. <I>Psychological Review</I>, Preprint avail at: https://arxiv.org/abs/1709.04654
+* O'Reilly, R.C., Wyatte, D., and Rohrlich, J. (2017). Deep Predictive Learning in Neocortex and Pulvinar. https://arxiv.org/abs/1709.04654
 
 * Rohrlich, J., Huang, T.R., Hazy, T.E.,  and O'Reilly, R.C. (2018/under revision). Object Recognition's Garden Path: Low Spatial Frequencies.  <I>Attention, Perception, & Psychophysics</I>.
 

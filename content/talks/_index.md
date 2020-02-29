@@ -18,6 +18,6 @@ title: "Talks"
 
 ## Leabra Neocortical Architecture for Learning and Visual Processing
 
-* [CVPR '15 Workshop on DeepVision](http://deepvision.forge.nicta.com.au/index.html)
+* [CVPR '15 Workshop on DeepVision](https://deepvision.data61.csiro.au/2015/index.html)
 
 
