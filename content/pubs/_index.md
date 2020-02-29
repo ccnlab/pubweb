@@ -45,7 +45,7 @@ These papers are good choices for learning about research in each of the major c
 
 * {{< cite "OReillyHazyHerd16" >}} O'Reilly, R.C., Hazy, T.E. & Herd, S.A. (2016). The Leabra Cognitive Architecture: How to Play 20 Principles with Nature and Win!. S. Chipman (Ed) *Oxford Handbook of Cognitive Science,* Oxford: Oxford University Press.  [PDF](https://ccnlab.org/papers/OReillyHazyHerd16.pdf) | [URL](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199842193.001.0001/oxfordhb-9780199842193-e-8)
 
-* {{< cite "Verduzco-FloresOReilly15" >}}  Verduzco-Flores, S. O. and O'Reilly, R. C. (2015). How the credit assignment problems in motor control could be solved after the cerebellum predicts increases in error. *Frontiers in Computational Neuroscience, 9*, 39.
+* {{< cite "Verduzco-FloresOReilly15" >}}  Verduzco-Flores, S. O. and O'Reilly, R. C. (2015). How the credit assignment problems in motor control could be solved after the cerebellum predicts increases in error. *Frontiers in Computational Neuroscience, 9*, 39.  [PDF](https://ccnlab.org/papers/Verduzco-FloresOReilly15.pdf)
 
 * {{< cite "OReillyWyatteRohrlich14" >}} O'Reilly, R.C., Wyatte, D., and Rohrlich, J. (2014).  Learning Through Time in the Thalamocortical Loops.  [PDF](https://ccnlab.org/papers/OReillyWyatteRohrlich14.pdf) |  [URL](http://arxiv.org/abs/1407.3432)
 
@@ -189,77 +189,77 @@ These papers are good choices for learning about research in each of the major c
 
 * {{< cite "WyatteHerdMingusEtAl12" >}} Wyatte, D., Herd, S., Mingus, B. & O'Reilly, R.C. (2012). The Role of Competitive Inhibition and Top-Down Feedback in Binding during Object Recognition. *Frontiers in psychology, 3,* 182. [PDF](https://ccnlab.org/papers/WyatteHerdMingusEtAl12.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/22719733)
 
-* {{< cite "WyatteCurranOReilly12" >}} Wyatte, D., Curran, T. & O'Reilly, R.C. (2012). The limits of feedforward vision: Recurrent processing promotes robust object recognition when objects are degraded. *Journal of Cognitive Neuroscience, 24,* 2248--2261. [URL](http://www.ncbi.nlm.nih.gov/pubmed/22905822)
+* {{< cite "WyatteCurranOReilly12" >}} Wyatte, D., Curran, T. & O'Reilly, R.C. (2012). The limits of feedforward vision: Recurrent processing promotes robust object recognition when objects are degraded. *Journal of Cognitive Neuroscience, 24,* 2248--2261. [PDF](https://ccnlab.org/papers/WyatteCurranOReilly12.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/22905822)
 
-* {{< cite "HerdOReilly05" >}}  Herd, S.A. & O'Reilly, R.C. (2005). Serial visual search from a parallel model. *Vision Research, 45,* 2987-2992.
+* {{< cite "HerdOReilly05" >}}  Herd, S.A. & O'Reilly, R.C. (2005). Serial visual search from a parallel model. *Vision Research, 45,* 2987-2992.  [PDF](https://ccnlab.org/papers/HerdOReilly05.pdf)
 
-* {{< cite "MunakataSantosSpelkeEtAl01" >}}  Munakata, Y., Santos, L.R., Spelke, E.S., Hauser, M.D. & O'Reilly, R.C. (2001). Visual representation in the wild: How rhesus monkeys parse objects. *Journal of Cognitive Neuroscience, 13,* 44-58.
+* {{< cite "MunakataSantosSpelkeEtAl01" >}}  Munakata, Y., Santos, L.R., Spelke, E.S., Hauser, M.D. & O'Reilly, R.C. (2001). Visual representation in the wild: How rhesus monkeys parse objects. *Journal of Cognitive Neuroscience, 13,* 44-58.  [PDF](https://ccnlab.org/papers/MunakataSantosSpelkeEtAl01.pdf)
 
-* {{< cite "VeceraOReilly00" >}}  Vecera, S.P. & O'Reilly, R.C. (2000). Graded Effects in Hierarchical Figure-Ground Organization: Reply To Peterson (1999). *Journal of Experimental Psychology: Human Perception and Performance, 26,* 1221-1230.
+* {{< cite "VeceraOReilly00" >}}  Vecera, S.P. & O'Reilly, R.C. (2000). Graded Effects in Hierarchical Figure-Ground Organization: Reply To Peterson (1999). *Journal of Experimental Psychology: Human Perception and Performance, 26,* 1221-1230.  [PDF](https://ccnlab.org/papers/VeceraOReilly00.pdf)
 
-* {{< cite "OReillyFarah99" >}}  O'Reilly, R.C. & Farah, M.J. (1999). Simulation and Explanation in Neuropsychology and Beyond. *Cognitive Neuropsychology, 16,* 49-72.
+* {{< cite "OReillyFarah99" >}}  O'Reilly, R.C. & Farah, M.J. (1999). Simulation and Explanation in Neuropsychology and Beyond. *Cognitive Neuropsychology, 16,* 49-72.  [PDF](https://ccnlab.org/papers/OReillyFarah99.pdf)
 
-* {{< cite "VeceraOReilly98" >}}  Vecera, S.P. & O'Reilly, R.C. (1998). Figure-Ground Organization and Object Recognition Processes: An Interactive Account. *Journal of Experimental Psychology: Human Perception and Performance, 24,* 441-462.
+* {{< cite "VeceraOReilly98" >}}  Vecera, S.P. & O'Reilly, R.C. (1998). Figure-Ground Organization and Object Recognition Processes: An Interactive Account. *Journal of Experimental Psychology: Human Perception and Performance, 24,* 441-462. [PDF](https://ccnlab.org/papers/VeceraOReilly98.pdf)
 
-* {{< cite "OReillyJohnson94" >}}  O'Reilly, R.C. & Johnson, M.H. (1994). Object Recognition and Sensitive Periods: A Computational Analysis of Visual Imprinting. *Neural Computation, 6,* 357-389.
+* {{< cite "OReillyJohnson94" >}}  O'Reilly, R.C. & Johnson, M.H. (1994). Object Recognition and Sensitive Periods: A Computational Analysis of Visual Imprinting. *Neural Computation, 6,* 357-389.  [PDF](https://ccnlab.org/papers/OReillyJohnson94.pdf)
 
-* {{< cite "FarahOReillyVecera93" >}}  Farah, M.J., O'Reilly, R.C. & Vecera, S.P. (1993). Dissociated Overt and Covert Recognition as an Emergent Property of a Lesioned Neural Network. *Psychological Review, 100,* 571-588.
+* {{< cite "FarahOReillyVecera93" >}}  Farah, M.J., O'Reilly, R.C. & Vecera, S.P. (1993). Dissociated Overt and Covert Recognition as an Emergent Property of a Lesioned Neural Network. *Psychological Review, 100,* 571-588.  [PDF](https://ccnlab.org/papers/FarahOReillyVecera93.pdf)
 
-* {{< cite "OReillyMcClelland92" >}}  O'Reilly, R.C. & McClelland, J.L. (1992). The Self-Organization of Spatially Invariant Representations.  Technical Report {PDP.CNS.92.5} Carnegie Mellon University, Department of Psychology.
+* {{< cite "OReillyMcClelland92" >}}  O'Reilly, R.C. & McClelland, J.L. (1992). The Self-Organization of Spatially Invariant Representations.  Technical Report {PDP.CNS.92.5} Carnegie Mellon University, Department of Psychology.  [PDF](https://ccnlab.org/papers/OReillyMcClelland92.pdf)
 
-* {{< cite "OReillyKosslynMarsolekEtAl90" >}}  O'Reilly, R.C., Kosslyn, S.M., Marsolek, C.J. & Chabris, C.F. (1990). Receptive Field Characteristics that Allow Parietal Lobe Neurons to Encode Spatial Properties of Visual Input: A computational investigation. *Journal of Cognitive Neuroscience, 2,* 141-155.
+* {{< cite "OReillyKosslynMarsolekEtAl90" >}}  O'Reilly, R.C., Kosslyn, S.M., Marsolek, C.J. & Chabris, C.F. (1990). Receptive Field Characteristics that Allow Parietal Lobe Neurons to Encode Spatial Properties of Visual Input: A computational investigation. *Journal of Cognitive Neuroscience, 2,* 141-155.  [PDF](https://ccnlab.org/papers/OReillyKosslynMarsolekEtAl90.pdf)
 
 ## Learning and Memory in the Hippocampus and Neocortex
 
-* {{< cite "KetzJensenOReilly15" >}} Ketz, N., Jensen, O., O'Reilly, R.C. (2015). Thalamic pathways underlying prefrontal cortex-medial temporal lobe oscillatory interactions. *Trends in Neurosciences*. [URL](http://www.ncbi.nlm.nih.gov/pubmed/25455705 )
+* {{< cite "KetzJensenOReilly15" >}} Ketz, N., Jensen, O., O'Reilly, R.C. (2015). Thalamic pathways underlying prefrontal cortex-medial temporal lobe oscillatory interactions. *Trends in Neurosciences*. [PDF](https://ccnlab.org/papers/KetzJensenOReilly15.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/25455705)
 
-* {{< cite "KetzOReillyCurran13" >}} Ketz, N., O'Reilly, R.C. & Curran, T. (2013). Classification aided analysis of oscillatory signatures in controlled retrieval. *NeuroImage*. [URL](http://www.ncbi.nlm.nih.gov/pubmed/23845425)
+* {{< cite "OReillyBhattacharyyaHowardEtAl14" >}} O'Reilly, R.C., Bhattacharyya, R., Howard, M.D. & Ketz, N. (2014). Complementary Learning Systems. *Cognitive Science, 38*, 1229-1248. [PDF](https://ccnlab.org/papers/OReillyBhattacharryaHowardEtAl14.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/22141588)
 
-* {{< cite "KetzMorkondaOReilly13" >}} Ketz, N., Morkonda, S.G. & O'Reilly, R.C. (2013). Theta coordinated error-driven learning in the hippocampus. *PLoS computational biology, 9,* e1003067. [URL](http://www.ncbi.nlm.nih.gov/pubmed/23762019)
+* {{< cite "KetzOReillyCurran13" >}} Ketz, N., O'Reilly, R.C. & Curran, T. (2013). Classification aided analysis of oscillatory signatures in controlled retrieval. *NeuroImage*.  [PDF](https://ccnlab.org/papers/KetzOReillyCurran13.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/23845425)
 
-* {{< cite "OReillyBhattacharyyaHowardEtAl14" >}} O'Reilly, R.C., Bhattacharyya, R., Howard, M.D. & Ketz, N. (2014). Complementary Learning Systems. *Cognitive Science, 38*,1229-1248. [URL](http://www.ncbi.nlm.nih.gov/pubmed/22141588)
+* {{< cite "KetzMorkondaOReilly13" >}} Ketz, N., Morkonda, S.G. & O'Reilly, R.C. (2013). Theta coordinated error-driven learning in the hippocampus. *PLoS computational biology, 9,* e1003067. [PDF](https://ccnlab.org/papers/KetzMorkondaOReilly13.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/23762019)
 
-* {{< cite "BayleyOReillyCurranEtAl08" >}} Bayley, P.J., O'Reilly, R.C., Curran, T. & Squire, L.R. (2008). New semantic learning in patients with large medial temporal lobe lesions. *Hippocampus, 18,* 575-583. [URL](http://www.ncbi.nlm.nih.gov/pubmed/18306299)
+* {{< cite "BayleyOReillyCurranEtAl08" >}} Bayley, P.J., O'Reilly, R.C., Curran, T. & Squire, L.R. (2008). New semantic learning in patients with large medial temporal lobe lesions. *Hippocampus, 18,* 575-583. [PDF](https://ccnlab.org/papers/BayleyOReillyCurranEtAl08.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/18306299)
 
-* {{< cite "AtallahRudyOReilly08" >}} Atallah, H.E., Rudy, J.W. & O'Reilly, R.C. (2008). The role of the dorsal striatum and dorsal hippocampus in probabilistic and deterministic odor discrimination tasks. *Learning and Memory, 15,* 294-298.
+* {{< cite "AtallahRudyOReilly08" >}} Atallah, H.E., Rudy, J.W. & O'Reilly, R.C. (2008). The role of the dorsal striatum and dorsal hippocampus in probabilistic and deterministic odor discrimination tasks. *Learning and Memory, 15,* 294-298.  [PDF](https://ccnlab.org/papers/AtallahRudyOReilly08.pdf)
 
-* {{< cite "FrankOReillyCurran06" >}}  Frank, M.J., OReilly, R.C. & Curran, T. (2006). When memory fails, intuition reigns: Midazolam enhances implicit inference in humans. *Psychological Science, 17,* 700-707.
+* {{< cite "FrankOReillyCurran06" >}}  Frank, M.J., OReilly, R.C. & Curran, T. (2006). When memory fails, intuition reigns: Midazolam enhances implicit inference in humans. *Psychological Science, 17,* 700-707.  [PDF](https://ccnlab.org/papers/FrankOReillyCurran06.pdf)
 
-* {{< cite "OReilly05" >}}  O'Reilly, R.C. (2005). The Division of Labor Between the Neocortex and Hippocampus. G. Houghton (Ed) *Connectionist Modeling in Cognitive Psychology,* : Psychology Press.
+* {{< cite "OReilly05" >}}  O'Reilly, R.C. (2005). The Division of Labor Between the Neocortex and Hippocampus. G. Houghton (Ed) *Connectionist Modeling in Cognitive Psychology,* : Psychology Press.  [PDF](https://ccnlab.org/papers/OReilly05.pdf)
 
-* {{< cite "FrankRudyLevyEtAl05" >}}  Frank, M.J., Rudy, J.W., Levy, W.B. & O'Reilly, R.C. (2005). When Logic Fails: Implicit Transitive Inference in Humans. *Memory and Cognition, 33,* 742-750.
+* {{< cite "FrankRudyLevyEtAl05" >}}  Frank, M.J., Rudy, J.W., Levy, W.B. & O'Reilly, R.C. (2005). When Logic Fails: Implicit Transitive Inference in Humans. *Memory and Cognition, 33,* 742-750.  [PDF](https://ccnlab.org/papers/FrankRudyLevyEtAl05.pdf)
 
-* {{< cite "RudyBiedenkappOReilly05" >}}  Rudy, J.W., Biedenkapp, J.C. & O'Reilly, R.C. (2005). Prefrontal Cortex and the Organization of Recent and Remote Memories: An Alternative View. *Learning and Memory, 12,* 445-446.
+* {{< cite "RudyBiedenkappOReilly05" >}}  Rudy, J.W., Biedenkapp, J.C. & O'Reilly, R.C. (2005). Prefrontal Cortex and the Organization of Recent and Remote Memories: An Alternative View. *Learning and Memory, 12,* 445-446.  [PDF](https://ccnlab.org/papers/RudyBidenkappOReilly05.pdf)
 
-* {{< cite "NormanOReilly03" >}}  O'Reilly, R.C. (2003). Modeling Hippocampal and Neocortical Contributions to Recognition Memory: A Complementary Learning Systems Approach. *Psychological Review, 110,* 611-646.
+* {{< cite "NormanOReilly03" >}}  O'Reilly, R.C. (2003). Modeling Hippocampal and Neocortical Contributions to Recognition Memory: A Complementary Learning Systems Approach. *Psychological Review, 110,* 611-646.  [PDF](https://ccnlab.org/papers/NormanOReilly03.pdf)
 
-* {{< cite "ElzakkerOReillyRudy03" >}}  VanElzakker, M., O'Reilly, R.C. & Rudy, J.W. (2003). Transitivity, Flexibility, Conjunctive Representations and the Hippocampus: I. An Empirical Analysis. *Hippocampus, 13,* 334-340.
+* {{< cite "ElzakkerOReillyRudy03" >}}  VanElzakker, M., O'Reilly, R.C. & Rudy, J.W. (2003). Transitivity, Flexibility, Conjunctive Representations and the Hippocampus: I. An Empirical Analysis. *Hippocampus, 13,* 334-340.  [PDF](https://ccnlab.org/papers/ElzakkerOReillyRudy03.pdf)
 
-* {{< cite "FrankRudyOReilly03" >}}  Frank, M.J., Rudy, J.W. & O'Reilly, R.C. (2003). Transitivity, Flexibility, Conjunctive Representations and the Hippocampus: II. A Computational Analysis. *Hippocampus, 13,* 341-354.
+* {{< cite "FrankRudyOReilly03" >}}  Frank, M.J., Rudy, J.W. & O'Reilly, R.C. (2003). Transitivity, Flexibility, Conjunctive Representations and the Hippocampus: II. A Computational Analysis. *Hippocampus, 13,* 341-354.  [PDF](https://ccnlab.org/papers/FrankRudyOReilly03.pdf)
 
-* {{< cite "OReillyNorman02" >}}  O'Reilly, R.C. & Norman, K.A. (2002). Hippocampal and Neocortical Contributions to Memory: Advances in the Complementary Learning Systems Framework. *Trends in Cognitive Sciences, 6,* 505-510.
+* {{< cite "OReillyNorman02" >}}  O'Reilly, R.C. & Norman, K.A. (2002). Hippocampal and Neocortical Contributions to Memory: Advances in the Complementary Learning Systems Framework. *Trends in Cognitive Sciences, 6,* 505-510.  [PDF](https://ccnlab.org/papers/OReillyNorman02.pdf)
 
-* {{< cite "RudyBarrientosOReilly02" >}}  Rudy, J.W., Barrientos, R.M. & OReilly, R.C. (2002). Hippocampal Formation Supports Conditioning to Memory of a Context. *Behavioral Neuroscience, 116,* 530-538.
+* {{< cite "RudyBarrientosOReilly02" >}}  Rudy, J.W., Barrientos, R.M. & OReilly, R.C. (2002). Hippocampal Formation Supports Conditioning to Memory of a Context. *Behavioral Neuroscience, 116,* 530-538.  [PDF](https://ccnlab.org/papers/RudyBarrientosOReilly02.pdf)
 
-* {{< cite "BarrientosOReillyRudy02" >}}  Barrientos, R.M., OReilly, R.C. & Rudy, J.W. (2002). Memory for context is impaired by injecting anisomycin into dorsal hippocampus following context exploration. *Behavioural Brain Research, 134,* 299-306.
+* {{< cite "BarrientosOReillyRudy02" >}}  Barrientos, R.M., OReilly, R.C. & Rudy, J.W. (2002). Memory for context is impaired by injecting anisomycin into dorsal hippocampus following context exploration. *Behavioural Brain Research, 134,* 299-306.  [PDF](https://ccnlab.org/papers/BarrientosOReillyRudy02.pdf)
 
-* {{< cite "HoldstockMayesRobertsEtAl02" >}}  Holdstock, J.S., Mayes, A.R., Roberts, N., Cezayirli, E., Isaac, C.L., O'Reilly, R.C. & Norman, K.A. (2002). Under What Conditions is Recognition Spared Relative to Recall After Selective Hippocampal Damage in Humans?. *Hippocampus, 12,* 341-351.
+* {{< cite "HoldstockMayesRobertsEtAl02" >}}  Holdstock, J.S., Mayes, A.R., Roberts, N., Cezayirli, E., Isaac, C.L., O'Reilly, R.C. & Norman, K.A. (2002). Under What Conditions is Recognition Spared Relative to Recall After Selective Hippocampal Damage in Humans?. *Hippocampus, 12,* 341-351.  [PDF](https://ccnlab.org/papers/HoldstockMayesRobertsEtAl02.pdf)
 
-* {{< cite "OReillyMcClelland01" >}}  O'Reilly, R.C. & McClelland, J.L. (2001). The Importance of Modeling for the Future of Molecular Studies of Learning and Memory. A.J. Silva (Ed) *Molecular Studies of Learning and Memory,* : Unpublished.
+* {{< cite "OReillyMcClelland01" >}}  O'Reilly, R.C. & McClelland, J.L. (2001). The Importance of Modeling for the Future of Molecular Studies of Learning and Memory. A.J. Silva (Ed) *Molecular Studies of Learning and Memory,* : Unpublished.  [PDF](https://ccnlab.org/papers/OReillyMcClelland01.pdf)
 
-* {{< cite "RudyOReilly01" >}}  Rudy, J.W. & O'Reilly, R.C. (2001). Conjunctive Representations, the Hippocampus, and Contextual Fear Conditioning. *Cognitive, Affective, and Behavioral Neuroscience, 1,* 66-82.
+* {{< cite "RudyOReilly01" >}}  Rudy, J.W. & O'Reilly, R.C. (2001). Conjunctive Representations, the Hippocampus, and Contextual Fear Conditioning. *Cognitive, Affective, and Behavioral Neuroscience, 1,* 66-82.  [PDF](https://ccnlab.org/papers/RudyOReilly01.pdf)
 
-* {{< cite "OReillyRudy01" >}}  O'Reilly, R.C. & Rudy, J.W. (2001). Conjunctive Representations in Learning and Memory: Principles of Cortical and Hippocampal Function. *Psychological Review, 108,* 311-345.
+* {{< cite "OReillyRudy01" >}}  O'Reilly, R.C. & Rudy, J.W. (2001). Conjunctive Representations in Learning and Memory: Principles of Cortical and Hippocampal Function. *Psychological Review, 108,* 311-345.  [PDF](https://ccnlab.org/papers/OReillyRudy01.pdf)
 
-* {{< cite "OReillyRudy00" >}}  O'Reilly, R.C. & Rudy, J.W. (2000). Computational Principles of Learning in the Neocortex and Hippocampus. *Hippocampus, 10,* 389-397.
+* {{< cite "OReillyRudy00" >}}  O'Reilly, R.C. & Rudy, J.W. (2000). Computational Principles of Learning in the Neocortex and Hippocampus. *Hippocampus, 10,* 389-397.  [PDF](https://ccnlab.org/papers/OReillyRudy00.pdf)
 
-* {{< cite "NormanOReillyHuber00" >}} Norman, K.A., O'Reilly, R.C. & Huber, D.E. (2000). Modeling Neocortical Contributions to Recognition Memory. *The Cognitive Neuroscience Meeting, 2000,*    NormanOReillyHuber00supp
+* {{< cite "NormanOReillyHuber00" >}} Norman, K.A., O'Reilly, R.C. & Huber, D.E. (2000). Modeling Neocortical Contributions to Recognition Memory. *The Cognitive Neuroscience Meeting, 2000,*  [PDF](https://ccnlab.org/papers/NormanOReillyHuber00.pdf) | [PDF Supp](https://ccnlab.org/papers/NormanOReillyHuber00supp.pdf)
 
-* {{< cite "RudyOReilly99" >}}  Rudy, J.W. & O'Reilly, R.C. (1999). Contextual Fear Conditioning, Conjunctive Representations, Pattern Completion, and the Hippocampus. *Behavioral Neuroscience, 113,* 867-880.
+* {{< cite "RudyOReilly99" >}}  Rudy, J.W. & O'Reilly, R.C. (1999). Contextual Fear Conditioning, Conjunctive Representations, Pattern Completion, and the Hippocampus. *Behavioral Neuroscience, 113,* 867-880.  [PDF](https://ccnlab.org/papers/RudyOReilly99.pdf)
 
-* {{< cite "OReillyNormanMcClelland98" >}}  O'Reilly, R.C., Norman, K.A. & McClelland, J.L. (1998). A Hippocampal Model of Recognition Memory. M.I. Jordan, M.J. Kearns & S.A. Solla (Eds) *Advances in Neural Information Processing Systems 10,* 73-79, Cambridge, MA: MIT Press.
+* {{< cite "OReillyNormanMcClelland98" >}}  O'Reilly, R.C., Norman, K.A. & McClelland, J.L. (1998). A Hippocampal Model of Recognition Memory. M.I. Jordan, M.J. Kearns & S.A. Solla (Eds) *Advances in Neural Information Processing Systems 10,* 73-79, Cambridge, MA: MIT Press.  [PDF](https://ccnlab.org/papers/OReillyNormanMcClelland98.pdf)
 
-* {{< cite "McClellandMcNaughtonOReilly95" >}}  McClelland, J.L., McNaughton, B.L. & O'Reilly, R.C. (1995). Why There are Complementary Learning Systems in the Hippocampus and Neocortex: Insights from the Successes and Failures of Connectionist Models of Learning and Memory. *Psychological Review, 102,* 419-457.
+* {{< cite "McClellandMcNaughtonOReilly95" >}}  McClelland, J.L., McNaughton, B.L. & O'Reilly, R.C. (1995). Why There are Complementary Learning Systems in the Hippocampus and Neocortex: Insights from the Successes and Failures of Connectionist Models of Learning and Memory. *Psychological Review, 102,* 419-457.  [PDF](https://ccnlab.org/papers/McClellandMcNaughtonOReilly95.pdf)
 
-* {{< cite "OReillyMcClelland94" >}}  O'Reilly, R.C. & McClelland, J.L. (1994). Hippocampal Conjunctive Encoding, Storage, and Recall: Avoiding a Tradeoff. *Hippocampus, 4,* 661-682.
+* {{< cite "OReillyMcClelland94" >}}  O'Reilly, R.C. & McClelland, J.L. (1994). Hippocampal Conjunctive Encoding, Storage, and Recall: Avoiding a Tradeoff. *Hippocampus, 4,* 661-682.  [PDF](https://ccnlab.org/papers/OReillyMcClelland94.pdf)
 
