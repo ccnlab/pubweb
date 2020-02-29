@@ -21,7 +21,7 @@ These papers are good choices for learning about research in each of the major c
 
 ## Leabra Integrated Biologically-Based Cognitive Architecture
 
-* {{< cite "OReillyHazyHerd16" >}} O'Reilly, R.C., Hazy, T.E. & Herd, S.A. (2016). The Leabra Cognitive Architecture: How to Play 20 Principles with Nature and Win!. S. Chipman (Ed) *Oxford Handbook of Cognitive Science,* Oxford: Oxford University Press.  [URL](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199842193.001.0001/oxfordhb-9780199842193-e-8)
+* {{< cite "OReillyHazyHerd16" >}} O'Reilly, R.C., Hazy, T.E. & Herd, S.A. (2016). The Leabra Cognitive Architecture: How to Play 20 Principles with Nature and Win!. S. Chipman (Ed) *Oxford Handbook of Cognitive Science,* Oxford: Oxford University Press. [PDF](https://ccnlab.org/papers/OReillyHazyHerd16.pdf)  [URL](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199842193.001.0001/oxfordhb-9780199842193-e-8)
 
 ## Working Memory and Cognitive Control in the Prefrontal Cortex and Basal Ganglia 
 
