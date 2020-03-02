@@ -95,7 +95,9 @@ These papers are good choices for learning about research in each of the major c
 
 * {{< cite "RussinJoOReillyEtAl19" >}} Russin, J. L.,  Jo, J., O'Reilly, R. C. & Bengio, Y. (2019). Compositional generalization in a deep seq2seq model by separating syntax and semantics. https://arxiv.org/abs/1904.09708 | [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl19.pdf) | [URL](https://arxiv.org/abs/1904.09708)
 
-* {{< cite "OReillyRussinHerd19" >}} O’Reilly, R. C., Russin, J., & Herd, S. A. (2019). Computational models of motivated frontal function. *Handbook of clinical neurology, Vol. 163,* pp. 317-332, M. D'Esposito & J. Grafman (Eds). Elsevier.  [PDF](https://ccnlab.org/papers/OReillyRussinHerd19.pdf) | [URL](http://www.sciencedirect.com/science/article/pii/B9780128042816000173)
+* {{< cite "OReillyRussinHerd19" >}} O’Reilly, R. C., Russin, J., & Herd, S. A. (2019). Computational models of motivated frontal function. *Handbook of clinical neurology, Vol. 163,* 317-332, M. D'Esposito & J. Grafman (Eds). Elsevier.  [PDF](https://ccnlab.org/papers/OReillyRussinHerd19.pdf) | [URL](http://www.sciencedirect.com/science/article/pii/B9780128042816000173)
+
+* {{< cite "HerdReadOReillyEtAl18" >}} Herd, S., Read, S. J., O'Reilly, R., & Jilk, D. J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security*, 217-224. Chapman and Hall/CRC.  [PDF](https://ccnlab.org/papers/HerdReadOReillyEtAl18.pdf) | [URL](https://www.taylorfrancis.com/books/e/9781351251389/chapters/10.1201/9781351251389-15)
 
 * {{< cite "PauliOReillyYarkoniEtAl16" >}} Pauli, W. M., O'Reilly, R. C., Yarkoni, T. & Wager, T. D. (2016). Regional specialization within the human striatum for diverse psychological functions. *Proceedings of the National Academy of Sciences (USA), 113(7),* 1907-1912. doi:10.1073/pnas.1507610113.  [PDF](https://ccnlab.org/papers/PauliOReillyYarkoniEtAl16.pdf) | [URL](http://www.pnas.org/content/113/7/1907)
 
