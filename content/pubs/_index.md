@@ -93,6 +93,10 @@ These papers are good choices for learning about research in each of the major c
 
 ## Working Memory and Cognitive Control in the Prefrontal Cortex and Basal Ganglia 
 
+* {{< cite "RussinJoOReillyEtAl19" >}} Russin, J. L.,  Jo, J., O'Reilly, R. C. & Bengio, Y. (2019). Compositional generalization in a deep seq2seq model by separating syntax and semantics. https://arxiv.org/abs/1904.09708 | [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl19.pdf) | [URL](https://arxiv.org/abs/1904.09708)
+
+* {{< cite "OReillyRussinHerd19" >}} O’Reilly, R. C., Russin, J., & Herd, S. A. (2019). Computational models of motivated frontal function. *Handbook of clinical neurology, Vol. 163,* pp. 317-332, M. D'Esposito & J. Grafman (Eds). Elsevier.  [PDF](https://ccnlab.org/papers/OReillyRussinHerd19.pdf) | [URL](http://www.sciencedirect.com/science/article/pii/B9780128042816000173)
+
 * {{< cite "PauliOReillyYarkoniEtAl16" >}} Pauli, W. M., O'Reilly, R. C., Yarkoni, T. & Wager, T. D. (2016). Regional specialization within the human striatum for diverse psychological functions. *Proceedings of the National Academy of Sciences (USA), 113(7),* 1907-1912. doi:10.1073/pnas.1507610113.  [PDF](https://ccnlab.org/papers/PauliOReillyYarkoniEtAl16.pdf) | [URL](http://www.pnas.org/content/113/7/1907)
 
 * {{< cite "FrankCollierShottEtAl16" >}}  Frank, G. K. W., Collier, S., Shott, M. E., & O'Reilly, R. C. (2016). Prediction error and somatosensory insula activation in women recovered from anorexia nervosa. *Journal of Psychiatry and Neuroscience, 41(5),* 304-311. doi:10.1503/jpn.150103.  [PDF](https://ccnlab.org/papers/FrankCollierShottEtAl16.pdf)
