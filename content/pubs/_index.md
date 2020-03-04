@@ -117,7 +117,7 @@ These papers are good choices for learning about research in each of the major c
 
 * {{< cite "HuangHazyHerdEtAl13" >}} Huang, T., Hazy, T.E., Herd, S.A. & O'Reilly, R.C. (2013). Assembling old tricks for new tasks: A neural model of instructional learning and control. *Journal of Cognitive Neuroscience, 25,* 843-851. [PDF](https://ccnlab.org/papers/HuangHazyHerdEtAl13.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/23384191)
 
-* {{< cite "StoccoLebiereOReillyEtAl12" >}} Stocco, A., Lebiere, C., O'Reilly, R.C. & Anderson, J.R. (2012). Distinct contributions of the caudate nucleus, rostral prefrontal cortex, and parietal cortex to the execution of instructed tasks. *Cognitive, Affective and Behavioral Neuroscience*.  [PDF](https://ccnlab.org/papers/StoccoLebiereOReillyEtAl12.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/22956331)
+* {{< cite "StoccoLebiereOReillyEtAl12" >}} Stocco, A., Lebiere, C., O'Reilly, R.C. & Anderson, J.R. (2012). Distinct contributions of the caudate nucleus, rostral prefrontal cortex, and parietal cortex to the execution of instructed tasks. *Cognitive, Affective and Behavioral Neuroscience, 12*, 611-628.  [PDF](https://ccnlab.org/papers/StoccoLebiereOReillyEtAl12.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/22956331)
 
 * {{< cite "FrankReynoldsShottEtAl12" >}} Frank, G.K.W., Reynolds, J.R., Shott, M.E., Jappe, L., Yang, T.T., Tregellas, J.R. & O'Reilly, R.C. (2012). Anorexia nervosa and obesity are associated with opposite brain reward response. *Neuropsychopharmacology, 37,* 2031-2046. [PDF](https://ccnlab.org/papers/FrankReynoldsShottEtAl12.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/22549118)
 
