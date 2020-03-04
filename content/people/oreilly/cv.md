@@ -306,7 +306,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Book Chapters
 
-* O'Reilly, R.C., Russin, J., & Herd, S. A. (2019).  Computational Models of Motivated Frontal Function. In D'Esposito, M. and Grafman, J. Eds *Handbook of Clinical Neurology: The Frontal Lobes, Vol. 163,* 317-332*.  Elsevier.
+* O'Reilly, R.C., Russin, J., & Herd, S. A. (2019).  Computational Models of Motivated Frontal Function. In D'Esposito, M. and Grafman, J. (Eds) *Handbook of Clinical Neurology: The Frontal Lobes, Vol. 163,* 317-332.  Elsevier.
 
 * O'Reilly, R.C., Hazy, T. E., & Herd, S. A. (2016).  The Leabra Cognitive Architecture: How to Play 20 Principles with Nature and Win!. In Chipman, S. *Handbook of Cognitive Science*.  Oxford University Press.
 
@@ -365,6 +365,10 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 ## Presentations
 
 ### Conference Presentations: Invited
+
+* O'Reilly, R.C. (2019): Deep predictive learning in the neocortex and pulvinar, Invited talk at Flux Congress, 2019, New York, NY.
+
+* O'Reilly, R.C. (2019): Computational Models of Motivated and Risky Decision Making. Invited Talk at Daiwa Foundation Workshop on Multi-person perspectives in Psychological Science, Kyoto University, Kyoto, Japan.
 
 * O'Reilly, R.C. (2016): Learning and Gating in the Deep Thalamocortical Layers. Invited Talk at Control Processes, San Diego, CA.
 
@@ -580,6 +584,12 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ### Colloquia and Other Invited Talks
 
+* Department of Cognitive Science, UC Merced, Merced, CA, February, 2020.
+* Mathematics of Data and Decisions Seminar, UC Davis, Davis, CA, February, 2020.
+* Center for Vision Science, UC Davis, Davis, CA, January, 2020.
+* Center for Mind and Brain Idea Blitz, UC Davis, Davis, CA, September, 2019.
+* Center for Neuroscience Retreat, UC Davis, Davis, CA, September, 2019.
+* Princeton Neuroscience Institute, Princeton University, Princeton, NJ, April, 2019.
 * Bernstein Lecture, Bernstein Center for Computational Neuroscience, Eberhard Karls University of Tübingen, Germany, July 2018.
 * Neuroscience and Biology Seminar, Montreal Institute for Learning Algorithms, University of Montreal, Canada, June, 2018.
 * Center for Mind and Brain, University of California Davis, December 2017.
