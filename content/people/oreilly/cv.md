@@ -83,11 +83,11 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * Biologically-Inspired Cognitive Architecture, DARPA/ONR N00014-05-1-0880, 9/1/05-3/1/07, $294,532 direct costs. PI.
 * Toward a Unified Model of Cognitive Control, NIH R01 MH069597-01, 1/1/2004-12/31/2008, $787,500 direct costs. PI.
 * Developing an Adaptive, Biologically-Based Cognitive Architecture, ONR N00014-03-1-0428, 3/1/2003-2/28/2006, $433,800 direct costs. PI.
-* Toward a Neurobiologically Constrained Framework for Modeling Human Cognition, NIH IBSC center 1 P50 MH 64445, James L. McClelland PI, 9/30/2002-6/30/2007, $9,340,596 total award, approx $1,000,000 for components associated with (Co-PI on sub-project)
+* Toward a Neurobiologically Constrained Framework for Modeling Human Cognition, NIH IBSC center 1 P50 MH 64445, James L. McClelland PI, 9/30/2002-6/30/2007, 9,340,596 total award, approx $1,000,000 for components associated with (Co-PI on sub-project)
 * Conjunctive Representations: In Cortex and Hippocampus.  NIH R01 MH61316-01, 4/1/1999-3/31/2004. Co-PI with Jerry W. Rudy. $600,000 direct costs.
 * Towards a Biological Basis of Systematic Controlled Processing: Activation- and Weight-Based Mechanisms.  ONR N00014-00-1-0246, 1/1/2000-12/31/2003, $360,000 direct costs.  PI.
 * Discrete Representations in Working Memory: Developmental, Neuropsychological, and Computational Investigations.  NSF KDI/LIS IBN-9873492. Awarded to M.C. Mozer, Y. Munakata, R.C. O'Reilly, and A. Miyake, 10/1/1998-9/30/2002, $800,000 direct costs.
-* Toward a Model of Normal and Disordered Cognition, NIH Program Project MH47566, James L. McClelland PI, 3/15/1997-9/30/2002, $3,050,828 direct costs ($600,000 for components associated with, Co-PI on sub-project).
+* Toward a Model of Normal and Disordered Cognition, NIH Program Project MH47566, James L. McClelland PI, 3/15/1997-9/30/2002, 3,050,828  direct costs ($600,000 for components associated with, Co-PI on sub-project).
 * How the hippocampus operates in memory. Human Frontier Science Program Grant, Edmund Rolls PI, 9/1/1992-8/31/1995 (Assistant Researcher).
 
 # Publications
