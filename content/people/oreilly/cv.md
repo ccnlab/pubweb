@@ -65,10 +65,10 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * Capturing the Power and Pitfalls of Human Decision-Making. ONR N00014-18-C-2067, 9/18 - 8/22, $2,000,000 total costs (PI, eCortex primary, CU subcontract to McKell Carter, Co-PI).
 * Deep Predictive Learning in Vision, ONR N00014-19-1-2684 / N00014-18-1-2116, 3/1/18 -  8/31/22, $1,600,000 total costs.  PI.
 * Bidirectional Vision, ONR N00014-14-1-0670 / N00014-16-1-2128, 5/14 - 3/20, $3,500,000 total costs, PI, including subcontract to David Sheinberg at Brown, and Tim Curran project as Co-PI's.
-* A Neurobiologically-based Neural Network Model of Risky Decision-making. NIH R01GM109996. 10/15 - 9/19, $720,000 total costs for eCortex subcontract. Co-PI with Stephen Read and Lynn Miller at USC.
 
 ## Previous Grants
 
+* A Neurobiologically-based Neural Network Model of Risky Decision-making. NIH R01GM109996. 10/15 - 9/19, $720,000 total costs for eCortex subcontract. Co-PI with Stephen Read and Lynn Miller at USC.
 * Stability of Neuromorphic Motivational Systems. Future of Life Institute grant through Theiss Research. 10/15 - 9/18, $25,000 total costs. Co-PI (Seth Herd, PI).
 * Neural Mechanisms of Adaptive Human Executive Control, ONR D00014-12-C-0638, 10/12 - 9/17, $2,000,000 total costs, awarded to eCortex with CMU subcontract.  PI.
 * GPU Cluster for Bidirectional, Biological Deep Networks, ONR DURIP N00014-15-1-2832, 10/2015, $275,027 total costs. PI.
@@ -687,13 +687,13 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ### Grads, Primary Advisor
 
-* Dr. Seth A. Herd, PhD 1999 -- 2005 (now Postdoc in CCN Lab)
+* Dr. Seth A. Herd, PhD 1999 -- 2005 (now CEO of eCortex, Inc and Senior Research Associate in CCN Lab)
 * Dr. Hisham Atallah, PhD 2000 -- 2006 (now Postdoc with Ann Graybiel at MIT)
 * Dr. Amy Santamaria, PhD 2000 -- 2006 (now Staff Research Scientist, Micro Analysis and Design)
-* Dr. Michael Frank, PhD 2001 -- 2006 (now Associate Professor at Brown University http://ski.cog.brown.edu/)
+* Dr. Michael Frank, PhD 2001 -- 2006 (now Professor at Brown University http://ski.cog.brown.edu/)
 * Philip Branning, Masters 2005 -- 2006 (now Senior Engineer at Ricoh Printing Systems of America, Inc.)
 * Brad Aisa, Masters 2007 - 2009 (Software Developer in Lab 2004 - 2009; now Senior Software Development Engineer, The Trade Desk, Inc.)
-* Wolfgang M. Pauli, PhD 2005 -- 2012 (now Postdoc with John O'Doherty at CalTech)
+* Wolfgang M. Pauli, PhD 2005 -- 2012 (now Research Scientist at Microsoft, Inc, after Postdoc with John O'Doherty at CalTech)
 * Dean Wyatte, PhD 2008 -- 2014 (now at LogRhythm, Boulder)
 * Brian Mingus, Masters 2010 -- 2013
 * Prescott Mackie Masters 2012 -- 2015 (now independent researcher)
