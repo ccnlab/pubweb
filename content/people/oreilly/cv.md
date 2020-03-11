@@ -92,11 +92,11 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 # Publications
 
-* Google Scholar profile: http://scholar.google.com/citations?user=tZpKKm4AAAAJ
+* Google Scholar profile: https://scholar.google.com/citations?user=tZpKKm4AAAAJ
 * ResearchGate Page: https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf
-* arXiv public author id: http://arxiv.org/a/oreilly_r_1
-* ORCID ID:  http://orcid.org/0000-0003-0322-4600
-* NCBI NIH Biosketch: http://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/77981/
+* arXiv public author id: https://arxiv.org/a/oreilly_r_1
+* ORCID ID:  https://orcid.org/0000-0003-0322-4600 
+* NCBI NIH Biosketch: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/77981/  Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/
 
 ## Journal Papers
 
