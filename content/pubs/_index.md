@@ -93,6 +93,8 @@ These papers are good choices for learning about research in each of the major c
 
 ## Working Memory and Cognitive Control in the Prefrontal Cortex and Basal Ganglia 
 
+* {{< cite "OReillyNairRussinEtAl20" >}} O’Reilly, R. C., Nair, A., Russin, J. L., & Herd, S. A. (2020). How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology, 11*. https://doi.org/10.3389/fpsyg.2020.003  [PDF](https://ccnlab.org/papers/OReillyNairRussinEtAl20.pdf) | [URL](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00380/full)
+
 * {{< cite "RussinJoOReillyEtAl19" >}} Russin, J. L.,  Jo, J., O'Reilly, R. C. & Bengio, Y. (2019). Compositional generalization in a deep seq2seq model by separating syntax and semantics. https://arxiv.org/abs/1904.09708 | [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl19.pdf) | [URL](https://arxiv.org/abs/1904.09708)
 
 * {{< cite "OReillyRussinHerd19" >}} O’Reilly, R. C., Russin, J., & Herd, S. A. (2019). Computational models of motivated frontal function. *Handbook of clinical neurology, Vol. 163,* 317-332, M. D'Esposito & J. Grafman (Eds). Elsevier.  [PDF](https://ccnlab.org/papers/OReillyRussinHerd19.pdf) | [URL](http://www.sciencedirect.com/science/article/pii/B9780128042816000173)
