@@ -10,9 +10,14 @@ title: "Computational Cognitive Neuroscience"
 * Canvas site: https://canvas.ucdavis.edu -- submit reading reactions & homework here.
 * Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
+* Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
 * Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
 * Professor: {{< page "people/oreilly" >}}, Young Hall 174K, Office Hours Tues/Thurs 1 - 1:30 or by appointment
 * TAs:  Maryam Zolfaghar: mzolfaghar@ucdavis.edu, Sai Kopparthi: skopparthi@ucdavis.edu
+
+# 189G vs. 289G
+
+Previously, at CU Boulder, this course was taught as one class with both undergraduate and graduate students -- here at UC Davis that is not possible so 189G is the undergraduate version and 289G is the graduate version.  The basic material and coursework (simulation exercises) are the same between the two (with just a few extra questions for grads), but the expectations for grads are higher, and the separate discussion sessions should allow for a more advanced level of discussion.
 
 # Covid-19 Online Version
 
