@@ -55,6 +55,12 @@ EnableGitInfo = true
     url = "/pubs/"
     weight = -880
 [[menu.main]]
+    name = "Software"
+    identifier = "software"
+    pre = "<i class='fa fa-code'></i>"
+    url = "/software/"
+    weight = -870
+[[menu.main]]
     name = "Talk Videos, Slides"
     identifier = "talks"
     pre = "<i class='fa fa-file-movie-o'></i>"

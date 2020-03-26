@@ -7,10 +7,18 @@ title: "Computational Cognitive Neuroscience"
 * 189G: Tue/Thu 1:40 -- 3:00, in Hoagland Hall 168  (Lab Friday 10-10:50am, Chemistry 176), CRN 84470, 4 units
 * 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471, 4 units
 * Class Web Site: https://ccnlab.org/teaching/ccn
-* Canvas site: https://canvas.ucdavis.edu -- submit reading reactions, homework, etc through here!
+* Canvas site: https://canvas.ucdavis.edu -- submit reading reactions & homework here.
 * Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
+* Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
+* Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
 * Professor: {{< page "people/oreilly" >}}, Young Hall 174K, Office Hours Tues/Thurs 1 - 1:30 or by appointment
-* TA:
+* TAs:  Maryam Zolfaghar: mzolfaghar@ucdavis.edu, Sai Kopparthi: skopparthi@ucdavis.edu
+
+# Covid-19 Online Version
+
+Due to the virus, the course will be entirely online, with lectures available on YouTube, and an interactive zoom discussion session during the scheduled lecture times shown above.  *The zoom sessions will be recorded* and available on the canvas site for the benefit of those who were not able to make it -- *if you do not want to be recorded, you can communicate through email, canvas, or the zulip (slack-alike) site*.
+
+This course overall should translate reasonably well to the online format, as the most important learning experiences come from interactively using the simulation software to understand how networks of neurons function.  The free online textbook, recorded lectures, and interactive zoom-based discussions all provide support for all the neuroscience, cognitive science, and computer science background behind the models.
 
 # Goals
 
@@ -70,21 +78,22 @@ See [https://github.com/CompCogNeuro/sims](https://github.com/CompCogNeuro/sims)
 | Wk  | Date  | Tuesday         | Ch  | Due |     | Date   | Thursday | Ch  | Due |
 | --- | ----  | --------------- | --- | --- | --- | ------ | -------- | --- | --- |
 | 1  | 31 Mar | **Introduction** | 1 |     |  | 2 Apr  | **Neurons**   | 2 | RR1 |
-| 2  | 7  Apr | Neurons          |   | RR2 | | 9 Apr  | **Networks**   | 3 | RR3 | 
-| 3  | 14 Apr | Networks         |   | HW2 | | 16 Apr | **Learning**   | 4 | RR4 |
-| 4  | 21 Apr | Learning         |   | HW3 | | 23 Apr | Learning       |   | HW4 |
-| 5  | 28 Apr | **Brain Areas**  | 5 | RR5 | | 30 Apr | **Perception** | 6 | RR6 |
-| 6  | 5 May  | Perception       |   |     | | 7 May  | Perception     |   | HW6 |
-| 7  | 12 May | **Motor**        | 7 | RR7 | | 14 May | Motor          |   | HW7 |
-| 8  | 19 May | **Memory**       | 8 | RR8 | | 21 May | Memory         | 8 | HW8 |
-| 9  | 26 May | **Language**     | 9 | RR9 | | 28 May | Language       | 8 | HW9 | 
-| 10 | 2 Jun | **Executive**    | 10 | RR10 | | 4 Jun  | Executive      | 9 | HW10 |
+| 2  | 7  Apr | Neurons          |   | RR2 | | 9 Apr  | **Networks**   | 3 | RR3, HW2 | 
+| 3  | 14 Apr | Networks         |   |     | | 16 Apr | **Learning**   | 4 | RR4 |
+| 4  | 21 Apr | Learning         |   |     | | 23 Apr | Learning       |   | HW3 |
+| 5  | 28 Apr | **Brain Areas**  | 5 | RR5 | | 30 Apr | **Perception** | 6 | RR6, HW4 |
+| 6  | 5 May  | Perception       |   |     | | 7 May  | Perception     |   |     |
+| 7  | 12 May | **Motor**        | 7 | RR7 | | 14 May | Motor          |   | HW6 |
+| 8  | 19 May | **Memory**       | 8 | RR8 | | 21 May | Memory         | 8 | HW7 |
+| 9  | 26 May | **Language**     | 9 | RR9 | | 28 May | Language       | 8 | HW8 | 
+| 10 | 2 Jun  | **Executive**   | 10 | RR10 | | 4 Jun | Executive      | 9 | HW9 |
+| 10 | 9 Jun  | -- finals --    |    | HW10 | |       |                |   |     |
 
 **Ch** = Chapter in text to read, **Due** = Materials due in class, with number representing chapter that is due (can be different than Ch column) (HW# = homework for chapter #, RR# = reading reaction for chapter #)
 
 # Lecture Slides for Download
 
-The following slides are available for printing prior to lecture, to make your note-taking more efficient -- just annotate and underline and jot down key points or whatever, instead of slavishly transcribing and thereby likely missing all the key points!
+The following slides WILL BE available for printing prior to lecture, to make your note-taking more efficient -- just annotate and underline and jot down key points or whatever, instead of slavishly transcribing and thereby likely missing all the key points!
 
 Printout format = 6 pages per printed page (better for printing).
 
