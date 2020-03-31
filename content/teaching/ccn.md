@@ -8,7 +8,7 @@ title: "Computational Cognitive Neuroscience"
 * 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471, 4 units
 * Class Web Site: https://ccnlab.org/teaching/ccn
 * Canvas site: https://canvas.ucdavis.edu -- submit reading reactions & homework here.
-* Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4)
+* Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/ccn/randy_slides)
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
 * Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
@@ -99,26 +99,11 @@ See [https://github.com/CompCogNeuro/sims](https://github.com/CompCogNeuro/sims)
 
 # Lecture Slides for Download
 
-The following slides WILL BE available for printing prior to lecture, to make your note-taking more efficient -- just annotate and underline and jot down key points or whatever, instead of slavishly transcribing and thereby likely missing all the key points!
+All the slides for the lectures are available for review and for printing prior to lecture, to make your note-taking more efficient -- just annotate and underline and jot down key points or whatever, instead of slavishly transcribing and thereby likely missing all the key points!
 
-Printout format = 6 pages per printed page (better for printing).
+PDF files are in a printout format with 6 pages per printed page (better for printing).
 
-```
-| Chapter | Printout Format | Powerpoint File |
-| ------- | --------------- | --------------- |
-| 1 | {{pdf|oreilly_ccn_intro.pdf}} | [[File:oreilly_ccn_intro.pptx]]
-| 2 | {{pdf|oreilly_ccn_neuron.pdf}} | [[File:oreilly_ccn_neuron.pptx]]
-| 3 | {{pdf|oreilly_ccn_networks.pdf}} | [[File:oreilly_ccn_networks.pptx]]
-| 4 | {{pdf|oreilly_ccn_learning.pdf}} | [[File:oreilly_ccn_learning.pptx]]
-| 5 | {{pdf|herd_ccn_brainareas.pdf}} | [[File:herd_ccn_brainareas.pptx]]
-| 5 | {{pdf|oreilly_ccn_brainareas.pdf}} | [[File:oreilly_ccn_brainareas.pptx]]
-| 6 | {{pdf|oreilly_ccn_percept.pdf}} | [[File:oreilly_ccn_percept.pptx]]
-| 7 | {{pdf|oreilly_ccn_motor.pdf}} | [[File:oreilly_ccn_motor.pptx]]
-| 8 | {{pdf|oreilly_ccn_memory.pdf}} | [[File:oreilly_ccn_memory.pptx]]
-| 8 | {{pdf|Ch8ExSlides.pdf}} | Supplementary slides for Ch. 8
-| 9 | {{pdf|oreilly_ccn_language.pdf}} | [[File:oreilly_ccn_language.pptx]]
-| 10 | {{pdf|oreilly_ccn_executive_jessica.pdf}} | [[File:oreilly_ccn_executive_jessica.pptx]]
-```
+* Go here: [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/ccn/randy_slides)
 
 # University Policies
 
