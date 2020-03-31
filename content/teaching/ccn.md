@@ -38,7 +38,7 @@ Due to the scope of topics covered and diversity of student backgrounds, we do n
 
 There is a weekly lab session that is supervised by the teaching assistant, where students obtain hands-on experience with the computer simulation explorations. These explorations are the centerpiece of the course, and provide a unique exploratory learning opportunity. You will perform many what-if scenarios to understand what aspects of the brain's biology are important for producing specific cognitive phenomena. You will simulate the effects of brain damage in these models, to understand neuropsychology (the study of brain-damaged patients). The computer models enable complete control and dynamic, colorful visualization of these explorations, providing a unique ability to understand how cognition emerges from the brain. You will document these explorations by answering the simulation exercises questions (to be worked on during the lab sessions). You should be able to do most, hopefully all, of the required homework during these lab sessions.
 
-Lab does *NOT* meet the first week of class -- starts up the 2nd week when there are actual homeworks to be done.
+Lab *does* meet the first week of class, to get you up-to-speed on the software installation etc.
 
 # Evaluation
 
