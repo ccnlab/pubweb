@@ -12,6 +12,7 @@ title: "Computational Cognitive Neuroscience"
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
 * Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
+* VirtualLab with software installed: https://virtuallab.ucdavis.edu/ -- select: ECS 189G
 * Professor: {{< page "people/oreilly" >}}, Young Hall 174K, Office Hours Tues/Thurs 1 - 1:30 or by appointment
 * TAs:  Maryam Zolfaghar: mzolfaghar@ucdavis.edu, Sai Kopparthi: skopparthi@ucdavis.edu
 
@@ -43,8 +44,8 @@ Lab does *NOT* meet the first week of class -- starts up the 2nd week when there
 
 Your grade will be based on three components in the following proportions: 
 
-* Simulation exercises:  80%
-* Reading reactions:  10%
+* Simulation exercises:  70%
+* Reading reactions:  20%
 * Class participation:  10%
 
 ## Simulation Exercises
