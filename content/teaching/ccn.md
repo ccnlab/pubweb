@@ -8,7 +8,7 @@ title: "Computational Cognitive Neuroscience"
 * 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471, 4 units
 * Class Web Site: https://ccnlab.org/teaching/ccn
 * Canvas site: https://canvas.ucdavis.edu -- submit reading reactions & homework here.
-* Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
+* Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4)
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
 * Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
@@ -56,7 +56,7 @@ We will be using the new version of the simulation exercises, on github.com: [ht
 
 ## Reading reactions
 
-For each chapter in the online [Computational Cognitive Neuroscience Textbook](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main), you write up a few sentences about the topic you found most interesting in the chapter and why, and in particular any interesting questions that occurred to you that might be useful to discuss during class (for shy students, this can also be a great way to ask your questions and can really help with your participation grade if you otherwise don't feel comfortable participating in discussions during class). These reading reactions are designed to ensure that you are keeping up on the reading and to inform us about your interests. Reading reactions should be submitted to the Canvas system for this course, prior to the class meeting when they are due (i.e., by 12pm noon).
+For each chapter in the online [Computational Cognitive Neuroscience Textbook](https://github.com/CompCogNeuro/ed4), you write up a few sentences about the topic you found most interesting in the chapter and why, and in particular any interesting questions that occurred to you that might be useful to discuss during class (for shy students, this can also be a great way to ask your questions and can really help with your participation grade if you otherwise don't feel comfortable participating in discussions during class). These reading reactions are designed to ensure that you are keeping up on the reading and to inform us about your interests. Reading reactions should be submitted to the Canvas system for this course, prior to the class meeting when they are due (i.e., by 12pm noon).
 
 ## Class Participation
 
