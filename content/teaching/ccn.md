@@ -80,7 +80,6 @@ See [https://github.com/CompCogNeuro/sims](https://github.com/CompCogNeuro/sims)
 
 # Schedule
 
-
 | Wk  | Date  | Tuesday         | Ch  | Due |     | Date   | Thursday | Ch  | Due |
 | --- | ----  | --------------- | --- | --- | --- | ------ | -------- | --- | --- |
 | 1  | 31 Mar | **Introduction** | 1 |     |  | 2 Apr  | **Neurons**   | 2 | RR1 |
@@ -96,6 +95,12 @@ See [https://github.com/CompCogNeuro/sims](https://github.com/CompCogNeuro/sims)
 | 10 | 9 Jun  | -- finals --    |    | HW10 | |       |                |   |     |
 
 **Ch** = Chapter in text to read, **Due** = Materials due in class, with number representing chapter that is due (can be different than Ch column) (HW# = homework for chapter #, RR# = reading reaction for chapter #)
+
+# Online YouTube Lectures
+
+Channel: https://www.youtube.com/channel/UCmnQT317eRubQuZ9GAxQA1A
+
+* **Introduction**: 1: https://youtu.be/QHxkvGCJl74  2: https://youtu.be/lauGueZs_YY  3: https://youtu.be/XBtE7opmr5E
 
 # Lecture Slides for Download
 
