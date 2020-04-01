@@ -98,9 +98,9 @@ See [https://github.com/CompCogNeuro/sims](https://github.com/CompCogNeuro/sims)
 
 # Online YouTube Lectures
 
-Channel: https://www.youtube.com/channel/UCmnQT317eRubQuZ9GAxQA1A
+Playlist: https://www.youtube.com/playlist?list=PLu02O8xRZn7xtNx03Rlq6xMRdYcQgEpar
 
-* **Introduction**: 1: https://youtu.be/QHxkvGCJl74  2: https://youtu.be/lauGueZs_YY  3: https://youtu.be/XBtE7opmr5E
+* **Introduction**: 1: https://youtu.be/PzwxxZJpb98  2:https://youtu.be/BXoezxQmxas  3: https://youtu.be/tRj6gBJPeCk
 
 # Lecture Slides for Download
 
