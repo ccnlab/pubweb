@@ -100,7 +100,9 @@ See [https://github.com/CompCogNeuro/sims](https://github.com/CompCogNeuro/sims)
 
 Playlist: https://www.youtube.com/playlist?list=PLu02O8xRZn7xtNx03Rlq6xMRdYcQgEpar
 
-* **Introduction**: 1: https://youtu.be/PzwxxZJpb98  2:https://youtu.be/BXoezxQmxas  3: https://youtu.be/tRj6gBJPeCk
+* **Chapter 1: Introduction**: 1: https://youtu.be/PzwxxZJpb98  2: https://youtu.be/BXoezxQmxas  3: https://youtu.be/tRj6gBJPeCk
+
+* **Chapter 2: Neuron, Part 1:** 1: https://youtu.be/dpmHFcEC-kc 2: https://youtu.be/w3BonL8QTHM 3: https://youtu.be/aRFGsNPY2bo 4: https://youtu.be/1gGYxOI6Uek
 
 # Lecture Slides for Download
 
