@@ -7,7 +7,7 @@ title: "Computational Cognitive Neuroscience"
 * 189G: Tue/Thu 1:40 -- 3:00, in Hoagland Hall 168  (Lab Friday 10-10:50am, Chemistry 176), CRN 84470, 4 units
 * 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471, 4 units
 * Class Web Site: https://ccnlab.org/teaching/ccn
-* Canvas site: https://canvas.ucdavis.edu -- submit reading reactions & homework here.
+* Canvas site: https://canvas.ucdavis.edu -- submit reading reactions here, and homeworks to: 189G: https://www.gradescope.com/courses/111422  289G: TBD
 * Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/ccn/randy_slides)
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
@@ -94,9 +94,7 @@ See [https://github.com/CompCogNeuro/sims](https://github.com/CompCogNeuro/sims)
 | 10 | 2 Jun  | **Executive**   | 10 | RR10 | | 4 Jun | Executive      | 9 | HW9* |
 | 10 | 9 Jun  | -- finals --    |    | HW10 | |       |                |   |     |
 
-**Ch** = Chapter in text to read, **Due** = Materials due in class, with number representing chapter that is due (can be different than Ch column) (HW# = homework for chapter #, RR# = reading reaction for chapter #)
-
-** * IMPORTANT:** The homeworks shown as due on Thursday are *actually due on Sunday!* to give you plenty of time after the Friday lab, for those in 189G.  The due dates in canvas are always the ones to follow!
+**Ch** = Chapter in text to read, **Due** = RR = reading reaction for given chapter, HW = homework for given chapter (submit on canvas or gradescope).  **IMPORTANT** Homeworks shown as due on Thursday are *actually due on Sunday!* to give you plenty of time after the Friday lab, for those in 189G.  The due dates in canvas / gradescope are always the ones to follow!
 
 # Online YouTube Lectures
 
