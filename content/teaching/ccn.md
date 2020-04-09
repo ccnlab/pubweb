@@ -7,13 +7,13 @@ title: "Computational Cognitive Neuroscience"
 * 189G: Tue/Thu 1:40 -- 3:00, in Hoagland Hall 168  (Lab Friday 10-10:50am, Chemistry 176), CRN 84470, 4 units
 * 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471, 4 units
 * Class Web Site: https://ccnlab.org/teaching/ccn
-* Canvas site: https://canvas.ucdavis.edu -- submit reading reactions here, and homeworks to: 189G: https://www.gradescope.com/courses/111422  289G: TBD
+* Canvas site: https://canvas.ucdavis.edu -- submit reading reactions here, and homeworks to: 189G: https://www.gradescope.com/courses/111422  289G: https://www.gradescope.com/courses/116733
 * Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/ccn/randy_slides)
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
 * Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
 * VirtualLab with software installed: https://virtuallab.ucdavis.edu/ -- select: ECS 189G
-* Professor: {{< page "people/oreilly" >}}, Young Hall 174K, Office Hours Tues/Thurs 1 - 1:30 or by appointment
+* Professor: Randall O'Reilly {{< page "people/oreilly" >}}, Young Hall 174K, Office Hours Weds 1-2pm or by appointment (please contact on zulip, canvas, or email to schedule a time!)
 * TAs:  Maryam Zolfaghar: mzolfaghar@ucdavis.edu, Sai Kopparthi: skopparthi@ucdavis.edu
 
 # 189G vs. 289G
