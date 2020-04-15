@@ -93,6 +93,8 @@ These papers are good choices for learning about research in each of the major c
 
 ## Working Memory and Cognitive Control in the Prefrontal Cortex and Basal Ganglia 
 
+* {{< cite "OReilly20" >}} O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Science*. https://doi.org/10.1016/j.tics.2020.03.001  [PDF](https://ccnlab.org/papers/OReilly20.pdf) | [URL](https://www.sciencedirect.com/science/article/abs/pii/S1364661320300681)
+
 * {{< cite "OReillyNairRussinEtAl20" >}} O’Reilly, R. C., Nair, A., Russin, J. L., & Herd, S. A. (2020). How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology, 11*. https://doi.org/10.3389/fpsyg.2020.003  [PDF](https://ccnlab.org/papers/OReillyNairRussinEtAl20.pdf) | [URL](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00380/full)
 
 * {{< cite "RussinJoOReillyEtAl19" >}} Russin, J. L.,  Jo, J., O'Reilly, R. C. & Bengio, Y. (2019). Compositional generalization in a deep seq2seq model by separating syntax and semantics. https://arxiv.org/abs/1904.09708 | [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl19.pdf) | [URL](https://arxiv.org/abs/1904.09708)

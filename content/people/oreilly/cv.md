@@ -104,7 +104,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O'Reilly, R.C., Nair, A., Russin, J.L, & Herd, S.A. (in press).  How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology: Cognitive Science*.
 
-* O'Reilly, R.C. (in press). Unravelling the Mysteries of Motivation. *Trends in Cognitive Science*.
+* O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Science*. https://doi.org/10.1016/j.tics.2020.03.001
 
 * Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D.J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security*, 217-224. Chapman and Hall/CRC. 
 
