@@ -13,7 +13,7 @@ title: "Computational Cognitive Neuroscience"
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
 * Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
 * VirtualLab with software installed: https://virtuallab.ucdavis.edu/ -- select: ECS 189G
-* Professor: Randall O'Reilly {{< page "people/oreilly" >}}, Young Hall 174K, Office Hours Weds 1-2pm or by appointment (please contact on zulip, canvas, or email to schedule a time!)
+* Professor: [Randall O'Reilly](/people/oreilly), Young Hall 174K, Office Hours Weds 1-2pm or by appointment (please contact on zulip, canvas, or email to schedule a time!)
 * TAs:  Maryam Zolfaghar: mzolfaghar@ucdavis.edu, Sai Kopparthi: skopparthi@ucdavis.edu
 
 # 189G vs. 289G
