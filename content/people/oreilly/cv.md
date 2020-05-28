@@ -96,7 +96,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * ResearchGate Page: https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf
 * arXiv public author id: https://arxiv.org/a/oreilly_r_1
 * ORCID ID:  https://orcid.org/0000-0003-0322-4600 
-* NCBI NIH Biosketch: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/77981/  Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/
+* NCBI NIH Biosketch: https://www.ncbi.nlm.nih.gov/myncbi/randy.oreilly@colorado.edu/cv/77981/  Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/
 
 ## Journal Papers
 
@@ -104,7 +104,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O'Reilly, R.C., Nair, A., Russin, J.L, & Herd, S.A. (in press).  How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology: Cognitive Science*.
 
-* O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Science*. https://doi.org/10.1016/j.tics.2020.03.001
+* O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Sciences, 24*, 425-434. https://doi.org/10.1016/j.tics.2020.03.001
 
 * Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D.J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security*, 217-224. Chapman and Hall/CRC. 
 

@@ -7,7 +7,7 @@ title: "Pubs"
 * {{< page "people/oreilly/cv" >}}
 * [Google Scholar Profile](https://scholar.google.com/citations?user=tZpKKm4AAAAJ)
 * [Research Gate Profile](https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf)
-* [NCBI NIH Biosketch](https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/77981/ NCBI NIH Biosketch) and [Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/)
+* [NCBI NIH Biosketch]( https://www.ncbi.nlm.nih.gov/myncbi/randy.oreilly@colorado.edu/cv/77981/) and [Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/)
 * [arXiv](https://arxiv.org/a/oreilly_r_1)
 * [ORCID](https://orcid.org/0000-0003-0322-4600)
 
@@ -93,7 +93,7 @@ These papers are good choices for learning about research in each of the major c
 
 ## Working Memory and Cognitive Control in the Prefrontal Cortex and Basal Ganglia 
 
-* O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Science*. doi.org/10.1016/j.tics.2020.03.001 | [PDF](https://ccnlab.org/papers/OReilly20.pdf) | [URL](https://www.sciencedirect.com/science/article/abs/pii/S1364661320300681)
+* O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Science, 24*, 425-434. doi.org/10.1016/j.tics.2020.03.001 | [PDF](https://ccnlab.org/papers/OReilly20.pdf) | [URL](https://www.sciencedirect.com/science/article/abs/pii/S1364661320300681)
 
 * O’Reilly, R. C., Nair, A., Russin, J. L., & Herd, S. A. (2020). How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology, 11*. doi.org/10.3389/fpsyg.2020.003  [PDF](https://ccnlab.org/papers/OReillyNairRussinEtAl20.pdf) | [URL](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00380/full)
 
