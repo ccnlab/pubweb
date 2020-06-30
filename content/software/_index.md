@@ -12,11 +12,11 @@ We develop and use the *emergent* neural network simulation system for our resea
 
 * [CCN textbook simulations](https://github.com/CompCogNeuro/sims) -- used in teaching.
 
-* [CCN Online Textbook](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
+* [CCN Online Textbook](https://github.com/CompCogNeuro/ed4)
 
 * [CCNLab github page](https://github.com/CCNLab) -- published models, papers, detailed data and results are available in here, along with all our lab figures.  We open up repositories to the public when a project is published.
 
-The [previous C++ version of *emergent*](https://grey.colorado.edu/emergent/index.php/Main_Page) is no longer being developed.
+The [previous C++ version of *emergent*](https://github.com/emer/cemer) is no longer being developed.
 
 The new version allows much more end-user control and flexibility, and is based on the now-standard paradigm of "just writing code" to create your simulation model and run it.  The Go emergent system provides a varying levels of standard toolkits (packages) for the neural models and a range of GUI tools for visualizing and analyzing the models.
 

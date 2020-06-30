@@ -191,6 +191,10 @@ These papers are good choices for learning about research in each of the major c
 
 ## Visual Perception and Object Recognition
 
+* O'Reilly, R.C., Russin, J. L., Zolfaghar, M., and Rohrlich, J. (submitted). Deep Predictive Learning in Neocortex and Pulvinar. https://arxiv.org/abs/2006.14800  [PDF](https://ccnlab.org/papers/OReillyRussinZolfagharEtAl20.pdf) | [URL](https://arxiv.org/abs/2006.14800)
+
+* Rohrlich, J., Huang, T.R., Hazy, T.E., O'Reilly, R.C. (preprint). Object Recognition's Garden Path: Low Spatial Frequencies.  [PDF](https://ccnlab.org/papers/RohrlichHuangHazyEtAl20.pdf) | [URL](https://psyarxiv.com/j45fb/)
+
 * O'Reilly, R.C., Wyatte, D., and Rohrlich, J. (2017).  Deep Predictive Learning: A Comprehensive Model of Three Visual Streams.  https://arxiv.org/abs/1709.04654 |  [PDF](https://ccnlab.org/papers/OReillyWyatteRohrlich17.pdf) | [URL](https://arxiv.org/abs/1709.04654)
 
 * Wyatte, D., Jilk, D.J., & O'Reilly, R.C. (2014).  Early recurrent feedback facilitates visual object recognition under challenging conditions. *Frontiers in Psychology, 5,* 674. [PDF](https://ccnlab.org/papers/WyatteJilkOReilly14.pdf) | [URL](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.00674/abstract)

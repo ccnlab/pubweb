@@ -300,6 +300,8 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O'Reilly, R.C. (2018). Principles of Psychology and Neuroscience (1st Ed). https://github.com/PsychNeuro/ed1. (2/3 complete)
 
+* O'Reilly, R.C., Munakata, Y., Frank, M. J., Hazy, T. E., and Contributors (2020). Computational Cognitive Neuroscience. eBook, 4st Edition. URL: https://github.com/CompCogNeuro/ed4
+
 * O'Reilly, R.C., Munakata, Y., Frank, M. J., Hazy, T. E., and Contributors (2012). Computational Cognitive Neuroscience. Wiki Book, 1st Edition. URL: http://ccnbook.colorado.edu
 
 * O'Reilly, R.C. & Munakata, Y. (2000).  *Computational Explorations in Cognitive Neuroscience: Understanding the Mind by Simulating the Brain*.  Cambridge, MA: MIT Press.
@@ -344,9 +346,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * Herd, S.A., Krueger, K.A., Nair, A., Mollick, J., & O'Reilly, R.C. (under revision).  Neural Mechanisms of Human Decision-Making. *Cognitive Affective and Behavioral Neuroscience*.
 
-* O'Reilly, R.C., Wyatte, D., and Rohrlich, J. (under revision). Deep Predictive Learning in Neocortex and Pulvinar. https://arxiv.org/abs/1709.04654
+* O'Reilly, R.C., Russin, J. L., Zolfaghar, M., and Rohrlich, J. (submitted). Deep Predictive Learning in Neocortex and Pulvinar. https://arxiv.org/abs/2006.14800
 
-* Rohrlich, J., Huang, T.R., Hazy, T.E., O'Reilly, R.C. (under revision). Object Recognition's Garden Path: Low Spatial Frequencies.  *Attention, Perception, & Psychophysics*.
+* Rohrlich, J., Huang, T.R., Hazy, T.E., O'Reilly, R.C. (under revision). Object Recognition's Garden Path: Low Spatial Frequencies.  *Attention, Perception, & Psychophysics*.  https://psyarxiv.com/j45fb/
 
 ## Preprints, Technical Reports
 
@@ -358,7 +360,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * The <b>new</b> emergent neural modeling system: https://github.com/emer/emergent -- complete rewrite in Go / Python.
 
-* The emergent neural modeling system. http://grey.colorado.edu/emergent
+* The emergent neural modeling system. https://github.com/emer/cemer
 
 * O'Reilly, R.C., Dawson, C.K., & McClelland, J.L. (1995--2007).  The PDP++ Neural Network Simulation System. Carnegie Mellon University and the Center for the Neural Basis of Cognition.
 
@@ -691,10 +693,10 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * Dr. Hisham Atallah, PhD 2000 -- 2006 (now Postdoc with Ann Graybiel at MIT)
 * Dr. Amy Santamaria, PhD 2000 -- 2006 (now Staff Research Scientist, Micro Analysis and Design)
 * Dr. Michael Frank, PhD 2001 -- 2006 (now Professor at Brown University http://ski.cog.brown.edu/)
-* Philip Branning, Masters 2005 -- 2006 (now Senior Engineer at Ricoh Printing Systems of America, Inc.)
-* Brad Aisa, Masters 2007 - 2009 (Software Developer in Lab 2004 - 2009; now Senior Software Development Engineer, The Trade Desk, Inc.)
+* Philip Branning, Masters 2005 -- 2006 (now Software Engineer at Epirus, CA)
+* Brad Aisa, Masters 2007 - 2009 (Software Developer in Lab 2004 - 2009; now Senior Software Development Engineer, OpenText, Inc.)
 * Wolfgang M. Pauli, PhD 2005 -- 2012 (now Research Scientist at Microsoft, Inc, after Postdoc with John O'Doherty at CalTech)
-* Dean Wyatte, PhD 2008 -- 2014 (now at LogRhythm, Boulder)
+* Dean Wyatte, PhD 2008 -- 2014 (now at Square, Boulder)
 * Brian Mingus, Masters 2010 -- 2013
 * Prescott Mackie Masters 2012 -- 2015 (now independent researcher)
 * Nick Ketz, PhD 2010 -- 2016 (now Research Scientist at HRL)
@@ -716,7 +718,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * Dr. Jeremy Reynolds, 2005 - 2008 (now Senior Data Scientist Lead at Microsoft, after being Assistant Professor at University of Denver)
 * Dr. Alex Petrov, 2005 - 2006 (now Associate Professor at Ohio State University http://alexpetrov.com/)
 * Dr. Tsung-Ren Huang, 2011-2014 (now Assistant Professor at National Taiwan University)
-* Dr. Trent Kriete, 2010 -- 2014 (now Chief Data Scientist at RxREVU)
+* Dr. Trent Kriete, 2010 -- 2014 (now Chief Data Scientist at RxRevu, Denver, CO)
 * Dr. Sergio Verduzco-Flores 2011 -- 2015 (now Postdoctoral Fellow at Okinawa Institute of Science and Technology)
 
 # Professional Activities
