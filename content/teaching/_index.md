@@ -7,5 +7,6 @@ title: "Teaching"
 Courses taught at [University of California, Davis](https://www.ucdavis.edu):
 
 * {{< page "teaching/ccn" >}}
+* {{< page "teaching/genpsych" >}}
 
 

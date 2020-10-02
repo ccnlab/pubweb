@@ -9,6 +9,7 @@ title: "Computational Cognitive Neuroscience"
 * Class Web Site: https://ccnlab.org/teaching/ccn
 * Canvas site: https://canvas.ucdavis.edu -- submit reading reactions here, and homeworks to: 189G: https://www.gradescope.com/courses/111422  289G: https://www.gradescope.com/courses/116733
 * Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/ccn/randy_slides)
+* YouTube lectures: https://www.youtube.com/playlist?list=PLu02O8xRZn7xtNx03Rlq6xMRdYcQgEpar
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280
 * Zulip (slack-alike) chat site: https://ccnclass.zulipchat.com
@@ -24,7 +25,7 @@ Previously, at CU Boulder, this course was taught as one class with both undergr
 
 Due to the virus, the course will be entirely online, with lectures available on YouTube, and an interactive zoom discussion session during the scheduled lecture times shown above.  *The zoom sessions will be recorded* and available on the canvas site for the benefit of those who were not able to make it -- *if you do not want to be recorded, you can communicate through email, canvas, or the zulip (slack-alike) site*.
 
-This course overall should translate reasonably well to the online format, as the most important learning experiences come from interactively using the simulation software to understand how networks of neurons function.  The free online textbook, recorded lectures, and interactive zoom-based discussions all provide support for all the neuroscience, cognitive science, and computer science background behind the models.
+This course should translate reasonably well to the online format, as the most important learning experiences come from interactively using the simulation software to understand how networks of neurons function.  The free online textbook, recorded lectures, and interactive zoom-based discussions all provide support for all the neuroscience, cognitive science, and computer science background behind the models.
 
 # Goals
 
@@ -71,8 +72,6 @@ Grades are not curved; they are based on percentages (note: Canvas truncates poi
   93-96  A     83-86 B    73-76 C    63-66 D
   90-92  A-    80-82 B-   70-72 C-   60-62 D-
 ```
-
-Note that the University does not give out A+ grades, but I record these internally, e.g., for use in a recommendation letter.
 
 # Simulation Pragmatics
 
