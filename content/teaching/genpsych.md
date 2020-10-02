@@ -66,7 +66,7 @@ Finally, **please do not email me asking for extra credit** etc -- I absolutely 
 
 # Research Participation Requirement
 
-**IMPORTANT:** email `spcoordinator@colorado.edu` for ALL questions related to sona and experiments!  If you email me, I will just forward it to them anyway, so save us both the extra step!
+**IMPORTANT:** email `spcoordinator@ucdavis.edu` for ALL questions related to sona and experiments!  If you email me, I will just forward it to them anyway, so save us both the extra step!
 
 All students enrolled in this course are required to gain experience with the scientific and experimental aspects of psychology.  This requirement may be filled in one of two ways: by participating in laboratory experiments in psychology (Option I) or by writing papers (Option II). These two options require approximately equal amounts of work (roughly 6 hours), which is assessed by counting up 6 credits.
 
