@@ -66,13 +66,15 @@ Finally, **please do not email me asking for extra credit** etc -- I absolutely 
 
 # Research Participation Requirement
 
+See [this website](https://pscresearch.faculty.ucdavis.edu) for all the relevant information.
+
 **IMPORTANT:** email `spcoordinator@ucdavis.edu` for ALL questions related to sona and experiments!  If you email me, I will just forward it to them anyway, so save us both the extra step!
 
-All students enrolled in this course are required to gain experience with the scientific and experimental aspects of psychology.  This requirement may be filled in one of two ways: by participating in laboratory experiments in psychology (Option I) or by writing papers (Option II). These two options require approximately equal amounts of work (roughly 6 hours), which is assessed by counting up 6 credits.
+All students enrolled in this course are required to gain experience with the scientific and experimental aspects of psychology.  This requirement may be filled in any combination of two activities: by participating in laboratory experiments in psychology; or by writing papers.  You must complete a total of 6 credits (roughly 6 hours) through any combination of these two activities.
 
-Students who do not complete either Option I or Option II will receive a grade of **incomplete** for the course.
+Students who do not complete the required 6 total credits will receive a grade of **incomplete** for the course, until they complete the course.
 
-See handout: {{pdf|gen_psych_res_req_2018_handout.pdf}} from class for more information.
+The research requirement does *not* affect your grade in this class, at all!  It only affects *whether you get your grade*!
 
 # Schedule
 
@@ -82,7 +84,7 @@ Every week you have to read the textbook chapter(s) and take the quiz on canvas,
 | Wk  | Date  | Chapter, Topic           | Test  |
 | --- | ----  | ------------------------ | --- |
 | 1   | 1 Oct | Introduction, Syllabus   |     |
-| 2   | 6, 8 Oct | Ch 1: Science and Subjectivity |  |
+| 2   | 6, 8 Oct | Ch 0, 1: Intro and Science and Subjectivity |  |
 | 3   | 13, 15 Oct | Ch 2: Neuroscience | |
 | 4   | 20, 22 Oct | Ch 3, 4: Consciousness etc, Perception | Midterm 1 |
 | 5   | 27, 29 Oct | Ch 5: Learning, Motivation | |
