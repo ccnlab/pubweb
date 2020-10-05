@@ -10,7 +10,7 @@ title: "General Psychology"
 * Textbook: Freely available online textbook: [Principles of Psychology and Neuroscience](https://github.com/PsychNeuro/ed1) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/genpsych/randy_slides)
 * YouTube lectures: ...
 * Professor: [Randall O'Reilly](/people/oreilly), Young Hall 174K, Office Hours Mon 2-3pm or by appointment (please contact on canvas or email to schedule a time!)
-* TAs:  Simran Joel: skjohal@ucdavis.edu (Office hours Tues 10-11am, Thurs 4-5pm), Xinger Yu: xeyu@ucdavis.edu (Tues 9:30-10:30am, Thurs 5-6pm)
+* TAs:  Simran Johal: skjohal@ucdavis.edu (Office hours Tues 10-11am, Thurs 4-5pm), Xinger Yu: xeyu@ucdavis.edu (Tues 9:30-10:30am, Thurs 5-6pm)
 
 # Covid-19 Online Version
 
