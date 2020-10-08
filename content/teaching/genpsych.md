@@ -8,9 +8,9 @@ title: "General Psychology"
 * Class Web Site: https://ccnlab.org/teaching/genpsych
 * Canvas site: https://canvas.ucdavis.edu
 * Textbook: Freely available online textbook: [Principles of Psychology and Neuroscience](https://github.com/PsychNeuro/ed1) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/genpsych/randy_slides)
-* YouTube lectures: ...
-* Professor: [Randall O'Reilly](/people/oreilly), Young Hall 174K, Office Hours Mon 2-3pm or by appointment (please contact on canvas or email to schedule a time!)
-* TAs:  Simran Johal: skjohal@ucdavis.edu (Office hours Tues 10-11am, Thurs 4-5pm), Xinger Yu: xeyu@ucdavis.edu (Tues 9:30-10:30am, Thurs 5-6pm)
+* YouTube lectures: [YouTube Playlist](https://www.youtube.com/playlist?list=PLu02O8xRZn7zcNG3kaEWysHUeYa9vwhvj)
+* Professor: [Randall O'Reilly](/people/oreilly), Young Hall 174K, Office Hours Mon 2-3pm on zoom (link on canvas) or by appointment (please contact on canvas or email to schedule a time!)
+* TAs:  Simran Johal: skjohal@ucdavis.edu (Office hours Tues 1-2pm, Thurs 4-5pm), Xinger Yu: xeyu@ucdavis.edu (Tues 9:30-10:30am, Thurs 5-6pm)
 
 # Covid-19 Online Version
 
@@ -36,7 +36,7 @@ This class takes a "radical" new approach, by providing a comprehensive, princip
 
 The actual conduct of research in psychology and neuroscience raises a number of important issues in critical thinking, and how the methods of science can be applied to test hypotheses about how the brain/mind works.  These lessons apply broadly across many disciplines, and provide an important broad foundation for the rest of your college career and beyond.
 
-# Grades
+# Grades (what you need to do)!
 
 Your grade will be based on four components according to the following percentages:
 
@@ -46,9 +46,9 @@ Your grade will be based on four components according to the following percentag
 
     + Both midterms and final are available for multiple days on Canvas, but must be completed *IN ONE SESSION* of 60 minutes -- they cannot be started and stopped multiple times.  Please plan accordingly.  The midterms have 33 multiple choice questions, similar to what you see on the quizzes.  The questions appear *one at a time* in *random order* (with *random order* of answer options), and you cannot go back to earlier questions.  As these are tests of what you’ve learned in the course, obviously, you are not allowed to use notes or the book for the midterms and final.  In case the above was not sufficiently clear, you do *not* need to take the final at the date/time assigned for this class -- you have a range of days as listed in the schedule.
     
-* **Chapter quizzes: 30%**  **Due on Tuesdays by 6pm PT** before class (recommend doing earlier!!), through canvas -- open book, untimed -- *this is a major place where a little bit of diligence can really improve your grade!*   Everyone should be able to get high scores on this by reading the book and carefully answering each question.  You are even allowed 2 attempts and the highest of these two is counted.  Answers to quizzes are avail for study on the Thursday after the class, at 8pm -- see below for more info about how to access and study!
+* **Chapter quizzes: 30%**  **Due on Tuesdays by 6pm PT every week** before class (recommend doing earlier!!), through canvas -- open book, untimed -- *this is a major place where a little bit of diligence can really improve your grade!*   Everyone should be able to get high scores on this by reading the book and carefully answering each question.  You are even allowed 2 attempts and the highest of these two is counted.  Answers to quizzes are avail for study on the Thursday after the class, at 8pm -- see below for more info about how to access and study!
 
-* **QOTW: 10%** (1 can be dropped/excused) question-of-the-week (QOTW) submissions are your chance to create a multiple-choice question for the entire class to answer and discuss during our zoom discussion sessions.  These are submitted in the canvas system, and again are a very easy source of points for you.   They can be any kind of interesting question, from a survey about the behaviors or beliefs of your peers, review of key points in the class, or other novel questions related to the topic of the week.  You can also include a link and brief summary to news stories about scientific findings relevant to the topic of the week, that would be useful to discuss.  Try to think of what would make the discussion the most interesting to you, while also being highly relevant to the topic.  They are **due Monday by 10pm PT every week**.
+* **QOTW: 10%** **due Monday by 10pm PT every week**. (1 can be dropped/excused) question-of-the-week (QOTW) submissions are your chance to create a multiple-choice question for the entire class to answer and discuss during our zoom discussion sessions.  These are submitted in the canvas system, and again are a very easy source of points for you.   They can be any kind of interesting question, from a survey about the behaviors or beliefs of your peers, review of key points in the class, or other novel questions related to the topic of the week.  You can also include a link and brief summary to news stories about scientific findings relevant to the topic of the week, that would be useful to discuss.  Try to think of what would make the discussion the most interesting to you, while also being highly relevant to the topic.
 
 ## Grading Policy
 
@@ -78,7 +78,7 @@ The research requirement does *not* affect your grade in this class, at all!  It
 
 # Schedule
 
-Every week you have to read the textbook chapter(s) and take the quiz on canvas, due before class on Tues.
+Every week you have to read the textbook chapter(s) and take the quiz on canvas, due before class on Tues, and submit QOTW by Mon 10pm.
 
 
 | Wk  | Date  | Chapter, Topic           | Test  |
