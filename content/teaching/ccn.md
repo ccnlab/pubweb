@@ -8,7 +8,7 @@ title: "Computational Cognitive Neuroscience"
 * 289G: Tue/Thu 4:40 -- 6:00, in Cruess Hall 107 (Lab Weds 5:10-6:00pm, Olson Hall 147), CRN 84471, 4 units
 * Class Web Site: https://ccnlab.org/teaching/ccn
 * Canvas site: https://canvas.ucdavis.edu -- submit reading reactions here, and homeworks to: 189G: https://www.gradescope.com/courses/111422  289G: https://www.gradescope.com/courses/116733
-* Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/ccn/randy_slides)
+* Textbook: Freely available online textbook: [Computational Cognitive Neuroscience](https://CompCogNeuro.org) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/ccn/randy_slides)
 * YouTube lectures: https://www.youtube.com/playlist?list=PLu02O8xRZn7xtNx03Rlq6xMRdYcQgEpar
 * Simulations for exercises: https://github.com/CompCogNeuro/sims -- download and run on your laptop
 * Zoom links: 189G: https://ucdaviscoe.zoom.us/s/686679497,  289G: https://ucdaviscoe.zoom.us/s/640164280

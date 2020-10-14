@@ -7,7 +7,7 @@ title: "General Psychology"
 * Zoom discussion time: Tue/Thu 6:10pm -- 8:00pm PT
 * Class Web Site: https://ccnlab.org/teaching/genpsych
 * Canvas site: https://canvas.ucdavis.edu
-* Textbook: Freely available online textbook: [Principles of Psychology and Neuroscience](https://github.com/PsychNeuro/ed1) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/genpsych/randy_slides)
+* Textbook: Freely available online textbook: [Principles of Psychology and Neuroscience](https://PrinciplesOfPsych.org) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/genpsych/randy_slides)
 * YouTube lectures: [YouTube Playlist](https://www.youtube.com/playlist?list=PLu02O8xRZn7zcNG3kaEWysHUeYa9vwhvj)
 * Professor: [Randall O'Reilly](/people/oreilly), Young Hall 174K, Office Hours Mon 2-3pm on zoom (link on canvas) or by appointment (please contact on canvas or email to schedule a time!)
 * TAs:  Simran Johal: skjohal@ucdavis.edu (Office hours Tues 1-2pm, Thurs 4-5pm), Xinger Yu: xeyu@ucdavis.edu (Tues 9:30-10:30am, Thurs 5-6pm)
