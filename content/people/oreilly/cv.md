@@ -62,12 +62,15 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 # Grants
 
+* Dynamic Cortico-Hippocampal Interactions for Flexible Goal-Driven Agents. ONR N00014-20-1-2578, 8/17/2020 - 8/16/2023, $2,250,000 total costs (PI, Co-PI's Charan Ranganath, Erie Boorman, and Ignacio Saez).
+
 * Capturing the Power and Pitfalls of Human Decision-Making. ONR N00014-18-C-2067, 9/18 - 8/22, $2,000,000 total costs (PI, eCortex primary, CU subcontract to McKell Carter, Co-PI).
+
 * Deep Predictive Learning in Vision, ONR N00014-19-1-2684 / N00014-18-1-2116, 3/1/18 -  8/31/22, $1,600,000 total costs.  PI.
-* Bidirectional Vision, ONR N00014-14-1-0670 / N00014-16-1-2128, 5/14 - 3/20, $3,500,000 total costs, PI, including subcontract to David Sheinberg at Brown, and Tim Curran project as Co-PI's.
 
 ## Previous Grants
 
+* Bidirectional Vision, ONR N00014-14-1-0670 / N00014-16-1-2128, 5/14 - 3/20, $3,500,000 total costs, PI, including subcontract to David Sheinberg at Brown, and Tim Curran project as Co-PI's.
 * A Neurobiologically-based Neural Network Model of Risky Decision-making. NIH R01GM109996. 10/15 - 9/19, $720,000 total costs for eCortex subcontract. Co-PI with Stephen Read and Lynn Miller at USC.
 * Stability of Neuromorphic Motivational Systems. Future of Life Institute grant through Theiss Research. 10/15 - 9/18, $25,000 total costs. Co-PI (Seth Herd, PI).
 * Neural Mechanisms of Adaptive Human Executive Control, ONR D00014-12-C-0638, 10/12 - 9/17, $2,000,000 total costs, awarded to eCortex with CMU subcontract.  PI.
