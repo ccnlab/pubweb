@@ -103,9 +103,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Journal Papers
 
-* Mollick, J., Hazy, T.E., Krueger, K.A., Nair, A., Mackie, P. Herd, S.A., & O'Reilly, R.C. (in press). A Systems-Neuroscience Model of Phasic Dopamine. *Psychological Review*.
+* Mollick, J., Hazy, T.E., Krueger, K.A., Nair, A., Mackie, P. Herd, S.A., & O'Reilly, R.C. (2020). A Systems-Neuroscience Model of Phasic Dopamine. *Psychological Review, 127(6)*, 972-1021.
 
-* O'Reilly, R.C., Nair, A., Russin, J.L, & Herd, S.A. (in press).  How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology: Cognitive Science*.
+* O'Reilly, R.C., Nair, A., Russin, J.L, & Herd, S.A. (2020).  How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology: Cognitive Science, 11*, 380.
 
 * O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Sciences, 24*, 425-434. https://doi.org/10.1016/j.tics.2020.03.001
 
