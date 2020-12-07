@@ -48,5 +48,6 @@ $ mkdir emer
 $ cd emer/
 $ git clone https://github.com/emer/leabra
 $ cd leabra/examples/ra25/
+$ go install github.com/emer/etail # handy tool..
 $ go build
 ```
