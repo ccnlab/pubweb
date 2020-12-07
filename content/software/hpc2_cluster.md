@@ -1,3 +1,7 @@
+---
+title: "HPC2 Cluster"
+---
+
 # HPC2 Compute Cluster
 
 * Head Node connected with 10Gbps external and HDR100 internal: `hpc2.engr.ucdavis.edu`

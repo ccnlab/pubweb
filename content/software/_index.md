@@ -2,8 +2,6 @@
 title: "Software"
 ---
 
-*last updated March 26, 2020*
-
 # Neural Network Simulations
 
 We develop and use the *emergent* neural network simulation system for our research and teaching.  As of March, 2020, we have largely completed a transition to a brand new framework written in the [Go](https://golang.org) language, which can be directly accessed via Python by using the [GoPy](https://github.com/go-python/gopy) tool that directly exposes the full Go interface transparently to Python.
