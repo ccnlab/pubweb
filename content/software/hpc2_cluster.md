@@ -42,9 +42,9 @@ $ cp ~oreilly/.bash_aliases ~/.
 
 ```sh
 $ tar -C ~oreilly/. -xzf go1.15.6.linux-amd64.tar.gz
-$  mv go go1.15
-$  mkdir bin
-$  cd bin
+$ mv go go1.15
+$ mkdir bin
+$ cd bin
 $ ln -s ../go1.15/bin/* .
 $ cd
 $ mkdir emer
