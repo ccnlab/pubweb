@@ -23,10 +23,9 @@ Here's a simple `~/.bashrc` file:
 ```sh
 source $HOME/.bash_aliases
 
-export GO111MODULE=on
+source ~oreilly/.bash_cluster   # special aliases for slurm etc
 
-# python3 needed for grunt
-module load python3
+export GO111MODULE=on
 
 export PATH=$HOME/bin:$HOME/go/bin:/usr/local/bin:$PATH
 ```
