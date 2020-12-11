@@ -23,7 +23,7 @@ Here's a simple `~/.bashrc` file:
 ```sh
 source $HOME/.bash_aliases
 
-source ~oreilly/.bash_cluster   # special aliases for slurm etc
+source /home/oreilly/.bash_cluster   # special aliases for slurm etc
 
 export GO111MODULE=on
 
@@ -37,6 +37,18 @@ $ cp ~oreilly/.bash_aliases ~/.
 ```
 
 (recommend at least looking at Randy's to see what you're missing :)
+
+Looks like you need to call this `.bash_profile` instead of `.bashrc` -- I usually just make a symlink:
+
+```sh
+$ ln -s .bashrc .bash_profile
+```
+
+You should also sync your local laptop `~/.ssh` up to hpc2 (the one with the public key you registered) -- this allows you to ssh within nodes and to the the transfer node, etc:
+
+```sh
+$ rsync -auvv .ssh hpc2.engr.ucdavis.edu:
+```
 
 # Test building Go leabra
 
