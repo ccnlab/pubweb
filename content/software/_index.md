@@ -10,7 +10,7 @@ We develop and use the *emergent* neural network simulation system for our resea
 
 * [CCN textbook simulations](https://github.com/CompCogNeuro/sims) -- used in teaching.
 
-* [CCN Online Textbook](https://github.com/CompCogNeuro/ed4)
+* [CCN Online Textbook](https://CompCogNeuro.org)
 
 * [CCNLab github page](https://github.com/CCNLab) -- published models, papers, detailed data and results are available in here, along with all our lab figures.  We open up repositories to the public when a project is published.
 
