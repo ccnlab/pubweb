@@ -357,6 +357,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * Russin, J. L.,  Jo, J., O'Reilly, R.C. & Bengio, Y. (2019). Compositional generalization in a deep seq2seq model by separating syntax and semantics. https://arxiv.org/abs/1904.09708 
 
+
+* O'Reilly, R.C. & Beck, J.M. (2006). A Family of Large-Stencil Discrete Laplacian Approximations in Three Dimensions.
+
 * O'Reilly, R.C. & McClelland, J.L. (1992). The self-organization of spatially invariant representations. Technical Report PDP.CNS.92.5, Carnegie Mellon University, Department of Psychology.
 
 ## Software

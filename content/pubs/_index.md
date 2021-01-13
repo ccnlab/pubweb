@@ -279,3 +279,6 @@ These papers are good choices for learning about research in each of the major c
 
 * O'Reilly, R.C. & McClelland, J.L. (1994). Hippocampal Conjunctive Encoding, Storage, and Recall: Avoiding a Tradeoff. *Hippocampus, 4,* 661-682.  [PDF](https://ccnlab.org/papers/OReillyMcClelland94.pdf) | [URL](https://www.ncbi.nlm.nih.gov/pubmed/7704110)
 
+## Misc
+
+* O'Reilly, R.C. & Beck, J.M. (2006). A Family of Large-Stencil Discrete Laplacian Approximations in Three Dimensions. [PDF](https://ccnlab.org/papers/OReillyBeck06.pdf)
