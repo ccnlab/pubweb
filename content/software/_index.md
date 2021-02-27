@@ -52,3 +52,5 @@ Notes for anyone using the CCNLab zotero setup:
 
 5. Be sure to check for an existing entry before adding, and if you accidentally add a duplicate (it will end with `a` in the citekey as a clue) please delete it or merge it using `Duplicate items` section.
 
+6. To organize the list of citations by most recently added, which is very handy for checking recent updates,  click on the tiny button on the far right of the list header to select the fields to show, and select Date Added and Citekey (e.g., use Title, Creator, Date Added, Citekey as the full set).  Then, click on Date Added to sort by that, so you can see the newest ones at the top.
+

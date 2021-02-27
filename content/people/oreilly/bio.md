@@ -8,5 +8,4 @@ Dr. O’Reilly received his Ph.D. from Carnegie Mellon University after graduati
 
 # Briefer Bio
 
-Randall O’Reilly, Ph.D., Professor of Psychology, Computer Science, and Neuroscience, joined the UC Davis Center for Neuroscience in summer 2019. Internationally recognized as a founder of the field of Computational Cognitive Neuroscience, Dr. O’Reilly develops large-scale systems-neuroscience computational models of learning, memory, and motivated cognitive control, to learn how neurons give rise to human cognitive function and to inform our understanding of brain-based disorders such as schizophrenia and Parkinson’s disease.
-
+Randall O’Reilly is internationally recognized as a founder of the field of Computational Cognitive Neuroscience, publishing a widely-cited textbook (O'Reilly & Munakata, 2000; 2014) and a number of influential papers in this field.  He develops large-scale systems-neuroscience computational models of learning, memory, and motivated cognitive control, to learn how neurons give rise to human cognitive function and to inform our understanding of brain-based disorders such as schizophrenia and Parkinson’s disease.
