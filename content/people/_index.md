@@ -16,7 +16,7 @@ title: "People"
 
 # Graduate students (full or part-time in the lab)
 
-* Mary Zolfaghar, Computer Science PhD Student, Fall 2016 - present
+* [Mary Zolfaghar](https://maryzolfaghar.github.io), Computer Science PhD Student, Fall 2016 - present
 * [Jake Russin](https://jlrussin.github.io/), Psychology PhD student, Fall 2017 - present
 * Andrew Carlson, Psychology PhD student, Fall 2020 - present
 
