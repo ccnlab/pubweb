@@ -399,6 +399,12 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ### Conference Presentations: Invited
 
+* O'Reilly, R.C. (2021): Plenary panel discussion on neural network models of cognition at Cognitive Science Conference. 
+
+* O'Reilly, R.C. (2021): The central role of the parietal lobe in the neural cognitive architecture. Virtual International Symposium on Cognitive Architecture (VISCA 2021).
+
+* O'Reilly, R.C. (2021): Predictive Error-driven Learning in the Brain. Keynote at the International Conferenceon Error-Driven Learning in Language (EDLL 2021)
+
 * O'Reilly, R.C. (2019): Deep predictive learning in the neocortex and pulvinar, Invited talk at Flux Congress, 2019, New York, NY.
 
 * O'Reilly, R.C. (2019): Computational Models of Motivated and Risky Decision Making. Invited Talk at Daiwa Foundation Workshop on Multi-person perspectives in Psychological Science, Kyoto University, Kyoto, Japan.
@@ -623,6 +629,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ### Colloquia and Other Invited Talks
 
+* The Learning Salon, Online https://www.learningsalon.ai, March, 2021.
 * Department of Cognitive Science, UC Merced, Merced, CA, February, 2020.
 * Mathematics of Data and Decisions Seminar, UC Davis, Davis, CA, February, 2020.
 * Center for Vision Science, UC Davis, Davis, CA, January, 2020.
@@ -710,18 +717,24 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Supervision: Current
 
-### Postdocs / Senior Research Associates
+### Senior Research Associates
 
 * Thomas Hazy, MD (10/2001 -- present)
 * Seth Herd, PhD (2005 -- present)
 * John Rohrlich, PhD (2012 -- present)
+* Xiaonan Liu, PhD, 2019 -- present (with Charan Ranganath)
+
+### Postdocs
+
+* Kevin McKee, PhD, 2021 -- present (with Cam Carter)
 
 ### Graduate students
 
 * Maryam Zolfaghar (9/2016 -- present)
 * Jacob Russin (9/2017 -- present)
 * Andrew Carlson (9/2020 -- present)
-* Yicong (Alan) Zheng (9/2020 -- present)
+* Yicong (Alan) Zheng (9/2020 -- present, with Charan Ranganath)
+* Ashley Williams (9/2019 -- present, with Charan Ranganath)
 
 ## Supervision: Completed
 
