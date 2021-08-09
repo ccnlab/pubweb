@@ -16,13 +16,13 @@ title: "People"
 
 # Graduate students (full or part-time in the lab)
 
-* Mary Zolfaghar, Cog Neuro PhD Student, Fall 2016 - present
-* Jake Russin, Cog Neuro PhD Student, Fall 2017 - present
+* [Mary Zolfaghar](https://maryzolfaghar.github.io), Computer Science PhD Student, Fall 2016 - present
+* [Jake Russin](https://jlrussin.github.io/), Psychology PhD student, Fall 2017 - present
+* Andrew Carlson, Psychology PhD student, Fall 2020 - present
 
 # Junior Specialists
 
 * Taiqi He, Fall 2019 - present
-* Andrew Carlson, Winter 2020 - present
 
 # Visitors
 
