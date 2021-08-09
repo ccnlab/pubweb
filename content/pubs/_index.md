@@ -21,7 +21,7 @@ These papers are good choices for learning about research in each of the major c
 
 ## Predictive Learning in Thalamocortical Loops
 
-* O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. [PDF](https://ccnlab.org/papers/OReillyRussinZolfagharEtAl21) | [URL](https://doi.org/10.1162/jocn_a_01708)
+* O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. [PDF](https://ccnlab.org/papers/OReillyRussinZolfagharEtAl21.pdf) | [URL](https://doi.org/10.1162/jocn_a_01708)
 
 ## Leabra Integrated Biologically-Based Cognitive Architecture
 
@@ -52,15 +52,15 @@ These papers are good choices for learning about research in each of the major c
 
 ## 2021
 
-* O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. [PDF](https://ccnlab.org/papers/OReillyRussinZolfagharEtAl21) | [URL](https://doi.org/10.1162/jocn_a_01708)
+* O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. [PDF](https://ccnlab.org/papers/OReillyRussinZolfagharEtAl21.pdf) | [URL](https://doi.org/10.1162/jocn_a_01708)
 
-* Smucny, J., Hanks, T., Lesh, T., O’Reilly, R., & Carter, C. (2021). Relationships Between Reward-Based Decision Making and Activation in a Frontal-Striatal Network in Schizophrenia vs. Bipolar Disorder. *Biological Psychiatry, 89(9),* S176–S177. [PDF](https://ccnlab.org/papers/SmucnyHanksLeshEtAl21) | [URL](https://doi.org/10.1016/j.biopsych.2021.02.450)
+* Smucny, J., Hanks, T., Lesh, T., O’Reilly, R., & Carter, C. (2021). Relationships Between Reward-Based Decision Making and Activation in a Frontal-Striatal Network in Schizophrenia vs. Bipolar Disorder. *Biological Psychiatry, 89(9),* S176–S177. [PDF](https://ccnlab.org/papers/SmucnyHanksLeshEtAl21.pdf) | [URL](https://doi.org/10.1016/j.biopsych.2021.02.450)
 
-* Mollick, J. A., Chang, L. J., Krishnan, A., Hazy, T. E., Krueger, K. A., Frank, G. K. W., Wager, T. D., & O’Reilly, R. C. (2021). The Neural Correlates of Cued Reward Omission. *Frontiers in Human Neuroscience, 15,* 615313. [PDF](https://ccnlab.org/papers/MollickChangKrishnanEtAl21) | [URL](https://doi.org/10.3389/fnhum.2021.615313)
+* Mollick, J. A., Chang, L. J., Krishnan, A., Hazy, T. E., Krueger, K. A., Frank, G. K. W., Wager, T. D., & O’Reilly, R. C. (2021). The Neural Correlates of Cued Reward Omission. *Frontiers in Human Neuroscience, 15,* 615313. [PDF](https://ccnlab.org/papers/MollickChangKrishnanEtAl21.pdf) | [URL](https://doi.org/10.3389/fnhum.2021.615313)
 
-* Herd, S., Krueger, K., Nair, A., Mollick, J., & O’Reilly, R.C. (2021). Neural Mechanisms of Human Decision-Making. *Cognitive, Affective, & Behavioral Neuroscience, 21(1),* 35–57.  [PDF](https://ccnlab.org/papers/HerdKruegerNairEtAl21) | [URL](https://doi.org/10.3758/s13415-020-00842-0)
+* Herd, S., Krueger, K., Nair, A., Mollick, J., & O’Reilly, R.C. (2021). Neural Mechanisms of Human Decision-Making. *Cognitive, Affective, & Behavioral Neuroscience, 21(1),* 35–57.  [PDF](https://ccnlab.org/papers/HerdKruegerNairEtAl21.pdf) | [URL](https://doi.org/10.3758/s13415-020-00842-0)
 
-* Russin, J. L., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2021). Complementary Structure-Learning Neural Networks for Relational Reasoning. *Proceedings for the 43nd Annual Meeting of the Cognitive Science Society, 7*. [PDF](https://ccnlab.org/papers/RussinZolfagharParkEtAl21) | [URL](https://arxiv.org/abs/2105.08944)
+* Russin, J. L., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2021). Complementary Structure-Learning Neural Networks for Relational Reasoning. *Proceedings for the 43nd Annual Meeting of the Cognitive Science Society, 7*. [PDF](https://ccnlab.org/papers/RussinZolfagharParkEtAl21.pdf) | [URL](https://arxiv.org/abs/2105.08944)
 
 ## 2020
 
@@ -72,17 +72,17 @@ These papers are good choices for learning about research in each of the major c
 
 * O’Reilly, R. C., Nair, A., Russin, J. L., & Herd, S. A. (2020). How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology, 11*. doi.org/10.3389/fpsyg.2020.003  [PDF](https://ccnlab.org/papers/OReillyNairRussinEtAl20.pdf) | [URL](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00380/full)
 
-* Devillez, H., Guyader, N., Curran, T., & O’Reilly, R. C. (2020). The bimodality of saccade duration during the exploration of visual scenes. *Visual Cognition, 28(9),* 484–512. [PDF](https://ccnlab.org/papers/DevillezGuyaderCurranEtAl20) | [URL](https://doi.org/10.1080/13506285.2020.1830325)
+* Devillez, H., Guyader, N., Curran, T., & O’Reilly, R. C. (2020). The bimodality of saccade duration during the exploration of visual scenes. *Visual Cognition, 28(9),* 484–512. [PDF](https://ccnlab.org/papers/DevillezGuyaderCurranEtAl20.pdf) | [URL](https://doi.org/10.1080/13506285.2020.1830325)
 
-* Dean, D. J., Bernard, J. A., Damme, K. S. F., O’Reilly, R.C., Orr, J. M., & Mittal, V. A. (2020). Longitudinal Assessment and Functional Neuroimaging of Movement Variability Reveal Novel Insights Into Motor Dysfunction in Clinical High Risk for Psychosis. *Schizophrenia Bulletin, 46(6),* 1567–1576. [PDF](https://ccnlab.org/papers/DeanBernardDammeEtAl20) | [URL](https://doi.org/10.1093/schbul/sbaa072)
+* Dean, D. J., Bernard, J. A., Damme, K. S. F., O’Reilly, R.C., Orr, J. M., & Mittal, V. A. (2020). Longitudinal Assessment and Functional Neuroimaging of Movement Variability Reveal Novel Insights Into Motor Dysfunction in Clinical High Risk for Psychosis. *Schizophrenia Bulletin, 46(6),* 1567–1576. [PDF](https://ccnlab.org/papers/DeanBernardDammeEtAl20.pdf) | [URL](https://doi.org/10.1093/schbul/sbaa072)
 
 * Rohrlich, J., Huang, T.R., Hazy, T.E., O'Reilly, R.C. (2020). Object Recognition's Garden Path: Low Spatial Frequencies.  [PDF](https://ccnlab.org/papers/RohrlichHuangHazyEtAl20.pdf) | [URL](https://psyarxiv.com/j45fb/)
 
-* Webb, T., Dulberg, Z., Frankland, S., Petrov, A., O’Reilly, R.C., & Cohen, J. (2020). Learning representations that support extrapolation. International Conference on Machine Learning, 10136–10146. [PDF](https://ccnlab.org/papers/WebbDulbergFranklandEtAl20) | [URL](http://proceedings.mlr.press/v119/webb20a.html)
+* Webb, T., Dulberg, Z., Frankland, S., Petrov, A., O’Reilly, R.C., & Cohen, J. (2020). Learning representations that support extrapolation. International Conference on Machine Learning, 10136–10146. [PDF](https://ccnlab.org/papers/WebbDulbergFranklandEtAl20.pdf) | [URL](http://proceedings.mlr.press/v119/webb20a.html)
 
-* Russin, J., Jo, J., O’Reilly, R.C., & Bengio, Y. (2020). Compositional Generalization by Factorizing Alignment and Translation. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop,* 313–327. [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl20a) | [URL](https://doi.org/10.18653/v1/2020.acl-srw.42)
+* Russin, J., Jo, J., O’Reilly, R.C., & Bengio, Y. (2020). Compositional Generalization by Factorizing Alignment and Translation. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop,* 313–327. [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl20a.pdf) | [URL](https://doi.org/10.18653/v1/2020.acl-srw.42)
 
-* Russin, J. L., Jo, J., O’Reilly, R. C., & Bengio, Y. (2020). Systematicity in a Recurrent Neural Network by Factorizing Syntax and Semantics. Proceedings for the 42nd Annual Meeting of the Cognitive Science Society, 7. [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl20) | [URL](https://www.cognitivesciencesociety.org/cogsci20/papers/0027/0027.pdf)
+* Russin, J. L., Jo, J., O’Reilly, R. C., & Bengio, Y. (2020). Systematicity in a Recurrent Neural Network by Factorizing Syntax and Semantics. Proceedings for the 42nd Annual Meeting of the Cognitive Science Society, 7. [PDF](https://ccnlab.org/papers/RussinJoOReillyEtAl20.pdf) | [URL](https://www.cognitivesciencesociety.org/cogsci20/papers/0027/0027.pdf)
 
 
 ## 2019
