@@ -62,15 +62,21 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 # Grants
 
-* Dynamic Cortico-Hippocampal Interactions for Flexible Goal-Driven Agents. ONR N00014-20-1-2578, 8/17/2020 - 8/16/2023, $2,250,000 total costs (PI, Co-PI's Charan Ranganath, Erie Boorman, and Ignacio Saez).
+* UC Davis Conte Center, NIH 2P50MH106438, 4/1/21 - 3/31/26, $16,308,892 total costs (Co-I, Cameron Carter and Kim McAllister, PIs)
 
-* Capturing the Power and Pitfalls of Human Decision-Making. ONR N00014-18-C-2067, 9/18 - 8/22, $2,000,000 total costs (PI, eCortex primary, CU subcontract to McKell Carter, Co-PI).
+* Using Population Vectors to Understand Visual Working Memory for Natural Stimuli, Pending (12/1/21 - 11/30/26), $1,962,500 total costs (Co-I, Steven Luck PI).
+
+* Cognitive Maps for Goal-directed Decision Making, NIH 1R01MH123713, 6/1/21 - 3/31/26, $2,602,972 total costs (Co-I, Erie Boorman PI).
+
+* Dynamic Cortico-Hippocampal Interactions for Flexible Goal-Driven Agents. ONR N00014-20-1-2578, 8/17/20 - 8/16/23, $2,250,000 total costs (PI, Co-PIs Charan Ranganath, Erie Boorman, and Ignacio Saez).
+
+* Capturing the Power and Pitfalls of Human Decision-Making. ONR N00014-18-C-2067, 9/1/18 - 8/31/22, $2,000,000 total costs (PI, eCortex primary, CU subcontract to McKell Carter, Co-PI).
 
 * Deep Predictive Learning in Vision, ONR N00014-19-1-2684 / N00014-18-1-2116, 3/1/18 -  8/31/22, $1,600,000 total costs.  PI.
 
 ## Previous Grants
 
-* Bidirectional Vision, ONR N00014-14-1-0670 / N00014-16-1-2128, 5/14 - 3/20, $3,500,000 total costs, PI, including subcontract to David Sheinberg at Brown, and Tim Curran project as Co-PI's.
+* Bidirectional Vision, ONR N00014-14-1-0670 / N00014-16-1-2128, 5/14 - 3/20, $3,500,000 total costs, PI, including subcontract to David Sheinberg at Brown, and Tim Curran project as Co-PIs.
 * A Neurobiologically-based Neural Network Model of Risky Decision-making. NIH R01GM109996. 10/15 - 9/19, $720,000 total costs for eCortex subcontract. Co-PI with Stephen Read and Lynn Miller at USC.
 * Stability of Neuromorphic Motivational Systems. Future of Life Institute grant through Theiss Research. 10/15 - 9/18, $25,000 total costs. Co-PI (Seth Herd, PI).
 * Neural Mechanisms of Adaptive Human Executive Control, ONR D00014-12-C-0638, 10/12 - 9/17, $2,000,000 total costs, awarded to eCortex with CMU subcontract.  PI.
@@ -103,13 +109,25 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Journal Papers
 
-* Mollick, J., Hazy, T.E., Krueger, K.A., Nair, A., Mackie, P. Herd, S.A., & O'Reilly, R.C. (2020). A Systems-Neuroscience Model of Phasic Dopamine. *Psychological Review, 127(6)*, 972-1021.
+* O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. https://doi.org/10.1162/jocn_a_01708
 
-* O'Reilly, R.C., Nair, A., Russin, J.L, & Herd, S.A. (2020).  How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology: Cognitive Science, 11*, 380.
+* Smucny, J., Hanks, T., Lesh, T., O’Reilly, R., & Carter, C. (2021). Relationships Between Reward-Based Decision Making and Activation in a Frontal-Striatal Network in Schizophrenia vs. Bipolar Disorder. *Biological Psychiatry, 89(9),* S176–S177. https://doi.org/10.1016/j.biopsych.2021.02.450
 
-* O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Sciences, 24*, 425-434. https://doi.org/10.1016/j.tics.2020.03.001
+* Mollick, J. A., Chang, L. J., Krishnan, A., Hazy, T. E., Krueger, K. A., Frank, G. K. W., Wager, T. D., & O’Reilly, R. C. (2021). The Neural Correlates of Cued Reward Omission. *Frontiers in Human Neuroscience, 15,* 615313. https://doi.org/10.3389/fnhum.2021.615313
 
-* Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D.J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security*, 217-224. Chapman and Hall/CRC. 
+* Herd, S., Krueger, K., Nair, A., Mollick, J., & O’Reilly, R.C. (2021). Neural Mechanisms of Human Decision-Making. *Cognitive, Affective, & Behavioral Neuroscience, 21(1),* 35–57. https://doi.org/10.3758/s13415-020-00842-0
+
+* Mollick, J., Hazy, T.E., Krueger, K.A., Nair, A., Mackie, P. Herd, S.A., & O'Reilly, R.C. (2020). A Systems-Neuroscience Model of Phasic Dopamine. *Psychological Review, 127(6),* 972-1021.
+
+* O'Reilly, R.C., Nair, A., Russin, J.L, & Herd, S.A. (2020).  How Sequential Interactive Processing Within Frontostriatal Loops Supports a Continuum of Habitual to Controlled Processing. *Frontiers in Psychology: Cognitive Science, 11,* 380.
+
+* O'Reilly, R.C. (2020). Unravelling the Mysteries of Motivation. *Trends in Cognitive Sciences, 24,* 425-434. https://doi.org/10.1016/j.tics.2020.03.001
+
+* Devillez, H., Guyader, N., Curran, T., & O’Reilly, R. C. (2020). The bimodality of saccade duration during the exploration of visual scenes. *Visual Cognition, 28(9),* 484–512. https://doi.org/10.1080/13506285.2020.1830325
+
+* Dean, D. J., Bernard, J. A., Damme, K. S. F., O’Reilly, R.C., Orr, J. M., & Mittal, V. A. (2020). Longitudinal Assessment and Functional Neuroimaging of Movement Variability Reveal Novel Insights Into Motor Dysfunction in Clinical High Risk for Psychosis. *Schizophrenia Bulletin, 46(6),* 1567–1576. https://doi.org/10.1093/schbul/sbaa072
+
+* Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D.J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security,* 217-224. Chapman and Hall/CRC. 
 
 * Jilk, D. J., Herd, S. J., Read, S. J., & O’Reilly, R.C. (2017). Anthropomorphic reasoning about neuromorphic AGI safety. *Journal of Experimental & Theoretical Artificial Intelligence, 0(0),* 1–15.
 
@@ -119,31 +137,31 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * Devillez, H., O'Reilly, R.C., & Curran, T. (2016). Eye-Fixation Related Potentials evidence for incongruent object processing during scene exploration. *Perception, 45,* 335-336.
 
-* Verduzco-Flores, S. O. and O'Reilly, R.C. (2015). How the credit assignment problems in motor control could be solved after the cerebellum predicts increases in error. *Frontiers in Computational Neuroscience, 9*, 39.
+* Verduzco-Flores, S. O. and O'Reilly, R.C. (2015). How the credit assignment problems in motor control could be solved after the cerebellum predicts increases in error. *Frontiers in Computational Neuroscience, 9,* 39.
 
-* Sun, Y., O'Reilly, R.C., Smith, J. W., and Wang, H. (2015).  Reply to Aksentijevic: It is a matter of what is countable and how neurons learn.  *Proceedings of the National Academy of Science (USA), 112*, E3160.
+* Sun, Y., O'Reilly, R.C., Smith, J. W., and Wang, H. (2015).  Reply to Aksentijevic: It is a matter of what is countable and how neurons learn.  *Proceedings of the National Academy of Science (USA), 112,* E3160.
 
-* Sun, Y., O'Reilly, R.C., Bhattacharyya, R., Smith, J. W., Liu, X., and Wang, H. (2015).  Latent structure in random sequences drives neural learning toward a rational bias.  *Proceedings of the National Academy of Science (USA), 112*, 3788-92.
+* Sun, Y., O'Reilly, R.C., Bhattacharyya, R., Smith, J. W., Liu, X., and Wang, H. (2015).  Latent structure in random sequences drives neural learning toward a rational bias.  *Proceedings of the National Academy of Science (USA), 112,* 3788-92.
 
-* Ketz, N. A., Jensen, O., and O'Reilly, R.C. (2015). Thalamic pathways underlying prefrontal cortex–medial temporal lobe oscillatory interactions. *Trends in Neurosciences, 38*, 3-12.
+* Ketz, N. A., Jensen, O., and O'Reilly, R.C. (2015). Thalamic pathways underlying prefrontal cortex–medial temporal lobe oscillatory interactions. *Trends in Neurosciences, 38,* 3-12.
 
-* Ziegler, M. D., Chelian, S. E., Benvenuto, J., Krichmar, J. L., O'Reilly, R.C., Bhattacharyya, R. (2014). A model of proactive and reactive cognitive control with anterior cingulate cortex and the neuromodulatory system. *Biologically Inspired Cognitive Architectures, 10*, 61-67.
+* Ziegler, M. D., Chelian, S. E., Benvenuto, J., Krichmar, J. L., O'Reilly, R.C., Bhattacharyya, R. (2014). A model of proactive and reactive cognitive control with anterior cingulate cortex and the neuromodulatory system. *Biologically Inspired Cognitive Architectures, 10,* 61-67.
 
 * Kachergis, G., Wyatte, D., O'Reilly, R.C., de Kleijn, R., Hommel, B. (2014). A continuous-time neural model for sequential action. *Philosophical Transactions of The Royal Society B Biological Sciences, 369* 20130623.
 
-* Herd, S. A., Szabados, A., Vinokurov, Y., Lebiere, C., Cline, A., and O'Reilly, R.C. (2014). Integrating theories of motor sequencing in the SAL hybrid architecture.  *Biologically Inspired Cognitive Architectures, 8*, 100-108.
+* Herd, S. A., Szabados, A., Vinokurov, Y., Lebiere, C., Cline, A., and O'Reilly, R.C. (2014). Integrating theories of motor sequencing in the SAL hybrid architecture.  *Biologically Inspired Cognitive Architectures, 8,* 100-108.
 
 * Wyatte, D., Jilk, D.J., & O'Reilly, R.C. (2014). Early recurrent feedback facilitates visual object recognition under challenging conditions. *Frontiers in Psychology, 5,* 674.
 
-* Herd, S.A., O'Reilly, R.C., Hazy, T.E., Chatham, C.H, Brant, A.M., and Friedman, N.P.  (2014). A neural network model of individual differences in task switching abilities. *Neuropsychologia, 62*, 375–389.  
+* Herd, S.A., O'Reilly, R.C., Hazy, T.E., Chatham, C.H, Brant, A.M., and Friedman, N.P.  (2014). A neural network model of individual differences in task switching abilities. *Neuropsychologia, 62,* 375–389.  
 
-* O'Reilly, R.C., Bhattacharyya, R., Howard, M. D., & Ketz, N. (2014).  Complementary learning systems.  *Cognitive Science, 38*, 1229-1248.
+* O'Reilly, R.C., Bhattacharyya, R., Howard, M. D., & Ketz, N. (2014).  Complementary learning systems.  *Cognitive Science, 38,* 1229-1248.
 
-*  Ketz, N., O'Reilly, R.C. & Curran, T. (2014). Classification aided analysis of oscillatory signatures in controlled retrieval. *NeuroImage, 85*, 749-760.
+*  Ketz, N., O'Reilly, R.C. & Curran, T. (2014). Classification aided analysis of oscillatory signatures in controlled retrieval. *NeuroImage, 85,* 749-760.
 
-* Kriete T., Noelle, D.C., Cohen, J.D., & O'Reilly, R.C. (2013). Indirection and symbol-like processing in the prefrontal cortex and basal ganglia. *Proceedings of the National Academy of Science (USA), 110*, 16390-16395.
+* Kriete T., Noelle, D.C., Cohen, J.D., & O'Reilly, R.C. (2013). Indirection and symbol-like processing in the prefrontal cortex and basal ganglia. *Proceedings of the National Academy of Science (USA), 110,* 16390-16395.
 
-* Vinokurov, Y. Lebiere, C., Szabados, A., Herd, S., and O'Reilly, R.C. (2013). Integrating top-down expectations with bottom-up perceptual processing in a hybrid neural-symbolic architecture. *Biologically Inspired Cognitive Architectures, 6*, 140-146.
+* Vinokurov, Y. Lebiere, C., Szabados, A., Herd, S., and O'Reilly, R.C. (2013). Integrating top-down expectations with bottom-up perceptual processing in a hybrid neural-symbolic architecture. *Biologically Inspired Cognitive Architectures, 6,* 140-146.
 
 * O'Reilly, R.C. (2013). Commentary: Individual differences in cognitive flexibility. *Biological Psychiatry, 74,* 78-79.
 
@@ -155,7 +173,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * Huang, T. R., Hazy, T. E., Herd, S. A., & O'Reilly, R.C. (2013). Assembling old tricks for new tasks: A neural model of instructional learning and control. *Journal of Cognitive Neuroscience, 25,* 843-851. 
 
-* Stocco, A., Lebiere, C., O'Reilly, R.C., & Anderson, J. R. (2012). Distinct contributions of the caudate nucleus, rostral prefrontal cortex, and parietal cortex to the execution of instructed tasks.  *Cognitive, Affective, and Behavioral Neuroscience, 12*, 611-628.
+* Stocco, A., Lebiere, C., O'Reilly, R.C., & Anderson, J. R. (2012). Distinct contributions of the caudate nucleus, rostral prefrontal cortex, and parietal cortex to the execution of instructed tasks.  *Cognitive, Affective, and Behavioral Neuroscience, 12,* 611-628.
 
 * Frank, G. K., Reynolds, J. R., Shott, M. E., Jappe, L., Yang, T. T., Tregellas, J. R., & O'Reilly, R.C. (2012). Anorexia Nervosa and Obesity are Associated with Opposite Brain Reward Response.  *Neuropsychopharmacology, 37,* 2031-2046.
 
@@ -167,113 +185,113 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * Wyatte, D., Curran, T., O'Reilly, R. (2012). The limits of feedforward vision: Recurrent processing promotes robust object recognition when objects are degraded. *Journal of Cognitive Neuroscience, 24,* 2248-2261. 
 
-* Reynolds, J. R., O'Reilly, R.C., Cohen, J. D., & Braver, T. S. (2012).  The function and organization of lateral prefrontal cortex: a test of competing hypotheses. *PloS One 7 (2)*, e30284. 
+* Reynolds, J. R., O'Reilly, R.C., Cohen, J. D., & Braver, T. S. (2012).  The function and organization of lateral prefrontal cortex: a test of competing hypotheses. *PloS One 7 (2),* e30284. 
 
 * Chatham, C. H., Herd, S. A., Brant, A. M., Hazy, T. E., Miyake, A., O'Reilly, R.C., and Friedman, N. P. (2011). From an Executive Network to Executive Control: A Computational Model of the n-back Task.  *Journal of Cognitive Neuroscience, 23,* 3598-3619.
 
-* Munakata, Y., Herd, S. A., Chatham, C. H., Depue, B. E., Banich, M. T., & O'Reilly, R.C. (2011).  A unified framework for inhibitory control. *Trends in Cognitive Sciences. 15*, 453-459. 
+* Munakata, Y., Herd, S. A., Chatham, C. H., Depue, B. E., Banich, M. T., & O'Reilly, R.C. (2011).  A unified framework for inhibitory control. *Trends in Cognitive Sciences. 15,* 453-459. 
 
-* Frank, G. K., Reynolds, J. R., Shott, M. E., & O'Reilly, R.C. (2011).  Altered temporal difference learning in bulimia nervosa.  *Biological Psychiatry, 70*, 728-735.
+* Frank, G. K., Reynolds, J. R., Shott, M. E., & O'Reilly, R.C. (2011).  Altered temporal difference learning in bulimia nervosa.  *Biological Psychiatry, 70,* 728-735.
 
-* Snyder H.R., Hutchison N., Nyhus E., Curran T., Banich M.T., O'Reilly R.C., & Munakata Y. (2010).  Neural inhibition enables selection during language processing. *Proceedings of the National Academy of Sciences, USA, 107*, 16483-16488.
+* Snyder H.R., Hutchison N., Nyhus E., Curran T., Banich M.T., O'Reilly R.C., & Munakata Y. (2010).  Neural inhibition enables selection during language processing. *Proceedings of the National Academy of Sciences, USA, 107,* 16483-16488.
 
-* O'Reilly, R.C. (2010). The What and How of prefrontal cortical organization. *Trends in Neurosciences, 33*, 355-361.
+* O'Reilly, R.C. (2010). The What and How of prefrontal cortical organization. *Trends in Neurosciences, 33,* 355-361.
 
-* O'Reilly, R.C., Herd, S.A., & Pauli, W.M. (2010). Computational Models of Cognitive Control.  *Current Opinion in Neurobiology, 20*, 257-261.
+* O'Reilly, R.C., Herd, S.A., & Pauli, W.M. (2010). Computational Models of Cognitive Control.  *Current Opinion in Neurobiology, 20,* 257-261.
 
-* Hazy, T.E., Frank, M.J, & O'Reilly, R.C. (2010).  Neural mechanisms of acquired phasic dopamine responses in learning.  *Neuroscience and Biobehavioral Reviews, 34*, 701-720.
+* Hazy, T.E., Frank, M.J, & O'Reilly, R.C. (2010).  Neural mechanisms of acquired phasic dopamine responses in learning.  *Neuroscience and Biobehavioral Reviews, 34,* 701-720.
 
 * Reynolds, J.R. & O'Reilly, R.C. (2009). Developing PFC representations using reinforcement learning. *Cognition, 113,* 281-292.
 
-* Huber, D.E., Tian, X., Curran, T. O'Reilly, R.C., & Woroch, B. (2008). The dynamics of integration and separation: ERP, MEG, and neural network studies of immediate repetition effects.  *Journal of Experimental Psychology: Human Perception and Performance, 34*, 1389-1416.
+* Huber, D.E., Tian, X., Curran, T. O'Reilly, R.C., & Woroch, B. (2008). The dynamics of integration and separation: ERP, MEG, and neural network studies of immediate repetition effects.  *Journal of Experimental Psychology: Human Perception and Performance, 34,* 1389-1416.
 
-* Jilk, D.J., Lebiere, C., O'Reilly, R.C., & Anderson, J.R. (2008). SAL: An explicitly pluralistic cognitive architecture.  *Journal of Experimental and Theoretical Artificial Intelligence, 20*, 197-218. 
+* Jilk, D.J., Lebiere, C., O'Reilly, R.C., & Anderson, J.R. (2008). SAL: An explicitly pluralistic cognitive architecture.  *Journal of Experimental and Theoretical Artificial Intelligence, 20,* 197-218. 
 
-* Aisa, B., Mingus, B., & O'Reilly, R.C. (2008).  The emergent neural modeling system.  *Neural Networks, 21*, 1045-1212.
+* Aisa, B., Mingus, B., & O'Reilly, R.C. (2008).  The emergent neural modeling system.  *Neural Networks, 21,* 1045-1212.
 
-* Bayley, P.J., O'Reilly, R.C., Curran, T. & Squire, L.R. (2008). New Semantic Learning in Patients with Large Medial Temporal Lobe Lesions.  *Hippocampus, 18*, 575-583.
+* Bayley, P.J., O'Reilly, R.C., Curran, T. & Squire, L.R. (2008). New Semantic Learning in Patients with Large Medial Temporal Lobe Lesions.  *Hippocampus, 18,* 575-583.
 
-* Atallah, H.E., Rudy, J.W., & O'Reilly, R.C.  (2008).  The Competitive Roles of the Dorsal Striatum and Dorsal Hippocampus in Odor Discrimination Tasks. *Learning and Memory, 15*, 294-298. 
+* Atallah, H.E., Rudy, J.W., & O'Reilly, R.C.  (2008).  The Competitive Roles of the Dorsal Striatum and Dorsal Hippocampus in Odor Discrimination Tasks. *Learning and Memory, 15,* 294-298. 
 
-* Pauli, W.M. & O'Reilly R.C. (2008). Attentional control of associative learning -- A possible role of the central cholinergic system. *Brain Research, 1202*, 43-53.
+* Pauli, W.M. & O'Reilly R.C. (2008). Attentional control of associative learning -- A possible role of the central cholinergic system. *Brain Research, 1202,* 43-53.
 
-* Frank, M.J., Santamaria, A., O'Reilly, R.C., & Willcutt, E. 2007).  Testing Computational Models of Dopamine and Noradrenaline Dysfunction in Attention Deficit/Hyperactivity Disorder. *Neuropsychopharmacology, 32*, 1583-99.
+* Frank, M.J., Santamaria, A., O'Reilly, R.C., & Willcutt, E. 2007).  Testing Computational Models of Dopamine and Noradrenaline Dysfunction in Attention Deficit/Hyperactivity Disorder. *Neuropsychopharmacology, 32,* 1583-99.
 
-* Hazy, T.E., Frank, M.J., and O'Reilly, R.C. (2007).  Toward an executive without a homunculus: Computational models of the prefrontal cortex/basal ganglia system. *Philosophical Transactions of the Royal Society, Series B, 362*, 1601-1613.
+* Hazy, T.E., Frank, M.J., and O'Reilly, R.C. (2007).  Toward an executive without a homunculus: Computational models of the prefrontal cortex/basal ganglia system. *Philosophical Transactions of the Royal Society, Series B, 362,* 1601-1613.
 
-* O'Reilly, R.C., Frank, M.J., Hazy, T.E., and Watz, B. (2007). PVLV: The Primary Value and Learned Value Pavlovian Learning Algorithm, *Behavioral Neuroscience, 121*, 31-49.
+* O'Reilly, R.C., Frank, M.J., Hazy, T.E., and Watz, B. (2007). PVLV: The Primary Value and Learned Value Pavlovian Learning Algorithm, *Behavioral Neuroscience, 121,* 31-49.
 
-* Atallah, H.E., Lopez-Paniagua, D., Rudy, J.W., & O'Reilly, R.C. 2007).  Separate Neural Substrates for Skill Learning and Performance in the Ventral and Dorsal Striatum: Evidence for an Actor-Director System. *Nature Neuroscience, 10*, 126-131.
+* Atallah, H.E., Lopez-Paniagua, D., Rudy, J.W., & O'Reilly, R.C. 2007).  Separate Neural Substrates for Skill Learning and Performance in the Ventral and Dorsal Striatum: Evidence for an Actor-Director System. *Nature Neuroscience, 10,* 126-131.
 
-* O'Reilly, R.C. (2006).  Biologically-Based Computational Models of High-Level Cognition. *Science, 314*, 91-94.
+* O'Reilly, R.C. (2006).  Biologically-Based Computational Models of High-Level Cognition. *Science, 314,* 91-94.
 
-* Frank, M.J. & O'Reilly, R.C. (2006). A Mechanistic Account of Striatal Dopamine Function in Human Cognition: Psychopharmacological Studies with Cabergoline and Haloperidol. *Behavioral Neuroscience, 120*, 497-517. 
+* Frank, M.J. & O'Reilly, R.C. (2006). A Mechanistic Account of Striatal Dopamine Function in Human Cognition: Psychopharmacological Studies with Cabergoline and Haloperidol. *Behavioral Neuroscience, 120,* 497-517. 
 
-* Frank, M.J., O'Reilly, R.C., & Curran, T. (2006). When memory fails, intuition reigns: Midazolam enhances implicit inference in humans. *Psychological Science, 17*, 700-707.
+* Frank, M.J., O'Reilly, R.C., & Curran, T. (2006). When memory fails, intuition reigns: Midazolam enhances implicit inference in humans. *Psychological Science, 17,* 700-707.
 
-* Hazy, T.E., Frank, M.J. & O'Reilly, R.C. (2006). Banishing the homunculus: making working memory work.  *Neuroscience, 139*, 105-118.
+* Hazy, T.E., Frank, M.J. & O'Reilly, R.C. (2006). Banishing the homunculus: making working memory work.  *Neuroscience, 139,* 105-118.
 
-* Herd, S.A., Banich, M.T., & O'Reilly, R.C. (2006). Neural Mechanisms of Cognitive Control: An Integrative Model of Stroop Task Performance and fMRI data. *Journal of Cognitive Neuroscience, 18*, 22-32. 
+* Herd, S.A., Banich, M.T., & O'Reilly, R.C. (2006). Neural Mechanisms of Cognitive Control: An Integrative Model of Stroop Task Performance and fMRI data. *Journal of Cognitive Neuroscience, 18,* 22-32. 
 
-* O'Reilly, R.C. & Frank, M.J. (2006). Making Working Memory Work: A Computational Model of Learning in the Prefrontal Cortex and Basal Ganglia. *Neural Computation, 18*, 283-328.
+* O'Reilly, R.C. & Frank, M.J. (2006). Making Working Memory Work: A Computational Model of Learning in the Prefrontal Cortex and Basal Ganglia. *Neural Computation, 18,* 283-328.
 
-* Frank, M.J., Rudy, J.W., Levy, W.B. & O'Reilly, R.C. (2005). When logic fails: Implicit transitive inference in humans. *Memory & Cognition, 33*, 742-750.
+* Frank, M.J., Rudy, J.W., Levy, W.B. & O'Reilly, R.C. (2005). When logic fails: Implicit transitive inference in humans. *Memory & Cognition, 33,* 742-750.
 
-* Herd, S.A. & O'Reilly, R.C. (2005). Serial visual search from a parallel model. *Vision Research, 45*, 2987-2992.
+* Herd, S.A. & O'Reilly, R.C. (2005). Serial visual search from a parallel model. *Vision Research, 45,* 2987-2992.
 
-* Rudy, J.W., Biedenkapp, J.C. & O'Reilly, R.C. (2005).  Prefrontal Cortex and the Organization of Recent and Remote Memories: An Alternative View.  *Learning and Memory, 12*, 445-446. 
+* Rudy, J.W., Biedenkapp, J.C. & O'Reilly, R.C. (2005).  Prefrontal Cortex and the Organization of Recent and Remote Memories: An Alternative View.  *Learning and Memory, 12,* 445-446. 
 
-* Rougier, N.P., Noelle, D., Braver, T.S., Cohen, J.D., O'Reilly, R.C. (2005). Prefrontal Cortex and the Flexibility of Cognitive Control: Rules Without Symbols. *Proceedings of the National Academy of Sciences, 102*, 7338-7343.
+* Rougier, N.P., Noelle, D., Braver, T.S., Cohen, J.D., O'Reilly, R.C. (2005). Prefrontal Cortex and the Flexibility of Cognitive Control: Rules Without Symbols. *Proceedings of the National Academy of Sciences, 102,* 7338-7343.
 
-* Frank, M.J., Seeberger, L.C., & O'Reilly, R.C. (2004). By carrot or by stick: Cognitive reinforcement learning in Parkinsonism. *Science, 306*, 1940-1943. 
+* Frank, M.J., Seeberger, L.C., & O'Reilly, R.C. (2004). By carrot or by stick: Cognitive reinforcement learning in Parkinsonism. *Science, 306,* 1940-1943. 
 
-* Attalah, H., Frank, M.J. & O'Reilly, R.C (2004). Hippocampus, cortex and basal ganglia: Insights from computational models of complementary learning systems. *Neurobiology of Learning and Memory, 82*, 253-267. 
+* Attalah, H., Frank, M.J. & O'Reilly, R.C (2004). Hippocampus, cortex and basal ganglia: Insights from computational models of complementary learning systems. *Neurobiology of Learning and Memory, 82,* 253-267. 
 
-* Norman, K.A. & O'Reilly, R.C. (2003). Modeling Hippocampal and Neocortical Contributions to Recognition Memory: A Complementary Learning Systems Approach. *Psychological Review, 110*, 611-646.  
+* Norman, K.A. & O'Reilly, R.C. (2003). Modeling Hippocampal and Neocortical Contributions to Recognition Memory: A Complementary Learning Systems Approach. *Psychological Review, 110,* 611-646.  
 
-* Huber, D.E. and O'Reilly, R.C. (2003).  Persistence and accommodation in short-term priming and other perceptual paradigms: Temporal segregation through synaptic depression. *Cognitive Science, 27*, 403-430.  
+* Huber, D.E. and O'Reilly, R.C. (2003).  Persistence and accommodation in short-term priming and other perceptual paradigms: Temporal segregation through synaptic depression. *Cognitive Science, 27,* 403-430.  
 
-* Munakata, Y. & O'Reilly, R.C. (2003).  Developmental and Computational Neuroscience Approaches to Cognition: The Case of Generalization.  *Cognitive Studies, 10*, 76-92. 
+* Munakata, Y. & O'Reilly, R.C. (2003).  Developmental and Computational Neuroscience Approaches to Cognition: The Case of Generalization.  *Cognitive Studies, 10,* 76-92. 
 
-* Van Elzakker, M., O'Reilly, R.C., & Rudy, J.W. (2003). Transitivity, flexibility, conjunctive representations and the hippocampus: I: An empirical analysis. *Hippocampus, 13*, 292-298. 
+* Van Elzakker, M., O'Reilly, R.C., & Rudy, J.W. (2003). Transitivity, flexibility, conjunctive representations and the hippocampus: I: An empirical analysis. *Hippocampus, 13,* 292-298. 
 
-* Frank, M.J., Rudy, J.W., & O'Reilly, R.C. (2003). Transitivity, flexibility, conjunctive representations and the hippocampus: II: A computational analysis. *Hippocampus, 13*, 299-312.
+* Frank, M.J., Rudy, J.W., & O'Reilly, R.C. (2003). Transitivity, flexibility, conjunctive representations and the hippocampus: II: A computational analysis. *Hippocampus, 13,* 299-312.
 
-* O'Reilly, R.C. & Norman, K.A. (2002). Hippocampal and Neocortical Contributions to Memory: Advances in the Complementary Learning Systems Framework. *Trends in Cognitive Sciences, 6*, 505-510.
+* O'Reilly, R.C. & Norman, K.A. (2002). Hippocampal and Neocortical Contributions to Memory: Advances in the Complementary Learning Systems Framework. *Trends in Cognitive Sciences, 6,* 505-510.
 
-* Barrientos, R. M., O'Reilly, R.C., & Rudy, J. W. (2002). Memory for context is impaired by injecting anisomycin into dorsal hippocampus following context exploration.  *Behavioural Brain Research, 134*, 299-306.
+* Barrientos, R. M., O'Reilly, R.C., & Rudy, J. W. (2002). Memory for context is impaired by injecting anisomycin into dorsal hippocampus following context exploration.  *Behavioural Brain Research, 134,* 299-306.
 
-* Rougier, N.P. & O'Reilly, R.C. (2002).  Learning Representations in a Gated Prefrontal Cortex Model of Dynamic Task Switching. *Cognitive Science, 26*, 503-520.
+* Rougier, N.P. & O'Reilly, R.C. (2002).  Learning Representations in a Gated Prefrontal Cortex Model of Dynamic Task Switching. *Cognitive Science, 26,* 503-520.
 
-* Rudy, J.W., Barrientos, R.M. and O'Reilly, R.C. (2002). The hippocampal formation supports conditioning to memory of a context. *Behavioral Neuroscience, 116*, 530-538.
+* Rudy, J.W., Barrientos, R.M. and O'Reilly, R.C. (2002). The hippocampal formation supports conditioning to memory of a context. *Behavioral Neuroscience, 116,* 530-538.
 
-* Holdstock, J. S., Mayes, A. R., Roberts, N., Cezayirli, E., Isaac, C. L., O'Reilly, R.C., Norman, K. A. (2002).  Under What Conditions is Recognition Spared Relative to Recall After Selective Hippocampal Damage in Humans?, *Hippocampus, 12*, 341-351.
+* Holdstock, J. S., Mayes, A. R., Roberts, N., Cezayirli, E., Isaac, C. L., O'Reilly, R.C., Norman, K. A. (2002).  Under What Conditions is Recognition Spared Relative to Recall After Selective Hippocampal Damage in Humans?, *Hippocampus, 12,* 341-351.
 
-* O'Reilly, R.C., Noelle, D.C., Braver, T.S. and Cohen, J.D. 2002). Prefrontal cortex in dynamic categorization tasks: Representational organization and neuromodulatory control.  *Cerebral Cortex, 12*, 246-257.
+* O'Reilly, R.C., Noelle, D.C., Braver, T.S. and Cohen, J.D. 2002). Prefrontal cortex in dynamic categorization tasks: Representational organization and neuromodulatory control.  *Cerebral Cortex, 12,* 246-257.
 
-* Frank, M., Loughry, B. and O'Reilly, R.C. (2001). Interactions between the frontal cortex and basal ganglia in working memory: A computational model.  *Cognitive, Affective, and Behavioral Neuroscience, 1*, 137-160.
+* Frank, M., Loughry, B. and O'Reilly, R.C. (2001). Interactions between the frontal cortex and basal ganglia in working memory: A computational model.  *Cognitive, Affective, and Behavioral Neuroscience, 1,* 137-160.
 
-* Rudy, J.W. and O'Reilly, R.C. (2001). Conjunctive Representations, the Hippocampus and Contextual Fear Conditioning. *Cognitive, Affective, and Behavioral Neuroscience, 1*, 66-82.
+* Rudy, J.W. and O'Reilly, R.C. (2001). Conjunctive Representations, the Hippocampus and Contextual Fear Conditioning. *Cognitive, Affective, and Behavioral Neuroscience, 1,* 66-82.
 
-* O'Reilly, R.C. (2001). Generalization in interactive networks: The benefits of inhibitory competition and Hebbian learning. *Neural Computation, 13*, 1199-1242.
+* O'Reilly, R.C. (2001). Generalization in interactive networks: The benefits of inhibitory competition and Hebbian learning. *Neural Computation, 13,* 1199-1242.
 
-* O'Reilly, R.C. & Rudy, J.W. (2001).  Conjunctive representations in learning and memory: Principles of hippocampal and cortical function.  *Psychological Review, 108*, 311-345.
+* O'Reilly, R.C. & Rudy, J.W. (2001).  Conjunctive representations in learning and memory: Principles of hippocampal and cortical function.  *Psychological Review, 108,* 311-345.
 
-* Munakata, Y., Santos, L.R., Spelke, E.S., Hauser, M.D., and O'Reilly, R.C. (2001). Object representation in the wild: How rhesus monkeys parse objects based on featural information. *Journal of Cognitive Neuroscience, 13*, 44-58.
+* Munakata, Y., Santos, L.R., Spelke, E.S., Hauser, M.D., and O'Reilly, R.C. (2001). Object representation in the wild: How rhesus monkeys parse objects based on featural information. *Journal of Cognitive Neuroscience, 13,* 44-58.
 
-* O'Reilly, R.C. & Rudy, J.W. (2000).  Computational principles of learning in the neocortex and hippocampus.  *Hippocampus, 10*, 389-397.
+* O'Reilly, R.C. & Rudy, J.W. (2000).  Computational principles of learning in the neocortex and hippocampus.  *Hippocampus, 10,* 389-397.
 
-* Vecera, S.V. & O'Reilly, R.C. (2000). Graded effects in hierarchical figure-ground organization: Reply to Peterson. *Journal of Experimental Psychology: Human Perception and Performance, 26*, 1221-1230.  
+* Vecera, S.V. & O'Reilly, R.C. (2000). Graded effects in hierarchical figure-ground organization: Reply to Peterson. *Journal of Experimental Psychology: Human Perception and Performance, 26,* 1221-1230.  
 
-* Rudy, J. W. & O'Reilly, R.C. (1999). Contextual fear conditioning, conjunctive representations, pattern completion, and the hippocampus.  *Behavioral Neuroscience, 113*, 867-880. 
+* Rudy, J. W. & O'Reilly, R.C. (1999). Contextual fear conditioning, conjunctive representations, pattern completion, and the hippocampus.  *Behavioral Neuroscience, 113,* 867-880. 
 
-* O'Reilly, R.C. & Farah, M.J. (1999).  Simulation and explanation in neuropsychology and beyond. *Cognitive Neuropsychology, 16*, 49-72.
+* O'Reilly, R.C. & Farah, M.J. (1999).  Simulation and explanation in neuropsychology and beyond. *Cognitive Neuropsychology, 16,* 49-72.
 
 * O'Reilly, R.C. (1998).  Six principles for biologically-based computational models of cortical cognition. *Trends in Cognitive Sciences, 2,* 455-462.
 
 * Vecera, S.V. & O'Reilly, R.C. (1998). Figure-ground organization and object recognition processes: An interactive account. *Journal of Experimental Psychology: Human Perception and Performance, 24,* 441-462. 
 
-* Cohen, J. D., Braver, T. S., & O'Reilly, R.C. (1996).  A computational approach to prefrontal cortex, cognitive control, and schizophrenia: Recent developments and current challenges. *Philosophical Transactions of the Royal Society, Series B, 351,* 1515-1527.  Reprinted in: *The Prefrontal Cortex: Executive and Cognitive Functions*, A.C. Roberts, T.W. Robbins, and L. Weiskrantz, Eds. (1998), Oxford University Press, pp 195-220.
+* Cohen, J. D., Braver, T. S., & O'Reilly, R.C. (1996).  A computational approach to prefrontal cortex, cognitive control, and schizophrenia: Recent developments and current challenges. *Philosophical Transactions of the Royal Society, Series B, 351,* 1515-1527.  Reprinted in: *The Prefrontal Cortex: Executive and Cognitive Functions,* A.C. Roberts, T.W. Robbins, and L. Weiskrantz, Eds. (1998), Oxford University Press, pp 195-220.
 
 * O'Reilly, R.C. (1996). Biologically plausible error-driven learning using local activation differences: The generalized recirculation algorithm. *Neural Computation, 8,* 895-938.
 
@@ -288,20 +306,28 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * O'Reilly, R.C., Kosslyn, S.M., Marsolek, C.J., & Chabris, C.F. (1990). Receptive field characteristics that allow parietal lobe neurons to encode spatial properties of visual input: a computational analysis. *Journal of Cognitive Neuroscience, 2,* 141-155. 
 
 ## Peer Reviewed Conference Proceedings
- 
+
+* Russin, J. L., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2021). Complementary Structure-Learning Neural Networks for Relational Reasoning. *Proceedings for the 43nd Annual Meeting of the Cognitive Science Society, 7*.
+
+* Webb, T., Dulberg, Z., Frankland, S., Petrov, A., O’Reilly, R.C., & Cohen, J. (2020). Learning representations that support extrapolation. International Conference on Machine Learning, 10136–10146. http://proceedings.mlr.press/v119/webb20a.html
+
+* Russin, J., Jo, J., O’Reilly, R.C., & Bengio, Y. (2020). Compositional Generalization by Factorizing Alignment and Translation. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop,* 313–327. https://doi.org/10.18653/v1/2020.acl-srw.42
+
+* Russin, J. L., Jo, J., O’Reilly, R. C., & Bengio, Y. (2020). Systematicity in a Recurrent Neural Network by Factorizing Syntax and Semantics. Proceedings for the 42nd Annual Meeting of the Cognitive Science Society, 7.
+
 * Vinokurov, Y., Lebiere, C., Herd, S. A., O'Reilly, R.C. (2011). A Metacognitive Classifier Using a Hybrid ACT-R/Leabra Architecture.  Lifelong Learning: Papers from the 2011 AAAI Workshop (WS-11-15).
 
-* O'Reilly, R.C. & Busby, R.S. (2002).  Generalizable Relational Binding from Coarse-coded Distributed Representations.  *Advances in Neural Information processing Systems (NIPS) 14*, T. G. Dietterich, S. Becker, and Z. Ghahramani, Eds, Cambridge, MA: MIT Press.
+* O'Reilly, R.C. & Busby, R.S. (2002).  Generalizable Relational Binding from Coarse-coded Distributed Representations.  *Advances in Neural Information processing Systems (NIPS) 14,* T. G. Dietterich, S. Becker, and Z. Ghahramani, Eds, Cambridge, MA: MIT Press.
 
-* O'Reilly, R.C. & Soto, R. (2002).  A Model of the Phonological Loop: Generalization and Binding.  *Advances in Neural Information processing Systems (NIPS) 14*, T. G. Dietterich, S. Becker, and Z. Ghahramani, Eds, Cambridge, MA: MIT Press.
+* O'Reilly, R.C. & Soto, R. (2002).  A Model of the Phonological Loop: Generalization and Binding.  *Advances in Neural Information processing Systems (NIPS) 14,* T. G. Dietterich, S. Becker, and Z. Ghahramani, Eds, Cambridge, MA: MIT Press.
 
-* O'Reilly, R.C., Mozer, M., Munakata, Y. & Miyake, A. 1999).  Discrete Representations in Working Memory: A Hypothesis and Computational Investigations.  *Proceedings of the Second International Conference on Cognitive Science Tokyo, Japan)*, 183-188.
+* O'Reilly, R.C., Mozer, M., Munakata, Y. & Miyake, A. 1999).  Discrete Representations in Working Memory: A Hypothesis and Computational Investigations.  *Proceedings of the Second International Conference on Cognitive Science Tokyo, Japan),* 183-188.
 
-* O'Reilly, R.C., Norman, K., & McClelland, J.L. (1998).  A hippocampal model of recognition memory. In M.I. Jordan, M.J. Kearns, and S.A. Solla (Eds) *Advances in Neural Information Processing Systems, 10*, 73-79.  Cambridge, MA: MIT Press.
+* O'Reilly, R.C., Norman, K., & McClelland, J.L. (1998).  A hippocampal model of recognition memory. In M.I. Jordan, M.J. Kearns, and S.A. Solla (Eds) *Advances in Neural Information Processing Systems, 10,* 73-79.  Cambridge, MA: MIT Press.
 
 ## Books
 
-* O'Reilly, R.C. (2018). Principles of Psychology and Neuroscience (1st Ed). https://github.com/PsychNeuro/ed1. (2/3 complete)
+* O'Reilly, R.C. (2021). Principles of Psychology and Neuroscience (1st Ed). https://github.com/PsychNeuro/ed1 
 
 * O'Reilly, R.C., Munakata, Y., Frank, M. J., Hazy, T. E., and Contributors (2020). Computational Cognitive Neuroscience. eBook, 4st Edition. URL: https://github.com/CompCogNeuro/ed4
 
@@ -311,52 +337,51 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Book Chapters
 
+* Liu, X., O’Reilly, R. C., & Ranganath, C. (in press). Effects of retrieval practice on tested and untested information: Cortico-hippocampal interactions and error-driving learning. In The Context of Cognition: Emerging Perspectives. Elsevier.
+
 * O'Reilly, R.C., Russin, J., & Herd, S. A. (2019).  Computational Models of Motivated Frontal Function. In D'Esposito, M. and Grafman, J. (Eds) *Handbook of Clinical Neurology: The Frontal Lobes, Vol. 163,* 317-332.  Elsevier.
 
 * O'Reilly, R.C., Hazy, T. E., & Herd, S. A. (2016).  The Leabra Cognitive Architecture: How to Play 20 Principles with Nature and Win!. In Chipman, S. *Handbook of Cognitive Science*.  Oxford University Press.
 
 * O'Reilly, R.C., Petrov, A. A., Cohen, J. D., Lebiere, C. J., Herd, S. A., & Kriete, T. (2014).  How Limited Systematicity Emerges: A Computational Cognitive Neuroscience Approach. Calvo, P. and Symons, J., Eds.  *The architecture of cognition: Rethinking Fodor and Pylyshyn¹s Systematicity Challenge.* MIT Press.
 
-* Hazy, T. E., Frank, M. J., & O'Reilly, R.C. (2011). Toward an executive without a homunculus: computational models of the prefrontal cortex/basal ganglia system.  In Seth, A, Prescott, T. & Bryson, J. *Modeling Natural Action Selection*, 239-263.  Cambridge University Press.
+* Hazy, T. E., Frank, M. J., & O'Reilly, R.C. (2011). Toward an executive without a homunculus: computational models of the prefrontal cortex/basal ganglia system.  In Seth, A, Prescott, T. & Bryson, J. *Modeling Natural Action Selection,* 239-263.  Cambridge University Press.
 
 * Pauli, W. M. and Atallah, H. E. and O'Reilly, R.C. (2010). Integrating what & how/where with instrumental and Pavlovian learning: A biologically based computational model, Frensch, P. A. and Schwarzer, R. (Eds) *Cognition and Neuropsychology - International Perspectives on Psychological Science*.  East Sussex, UK: Psychology Press.
 
-* Munakata, Y., O'Reilly, R.C., & Morton, J. B. (2007). Developmental and computational approaches to variation in working memory. In A. Conway, C. Jarrold, M. Kane, A. Miyake, & J. Towse (Eds.)  *Variation in Working Memory*, Oxford University Press.
+* Munakata, Y., O'Reilly, R.C., & Morton, J. B. (2007). Developmental and computational approaches to variation in working memory. In A. Conway, C. Jarrold, M. Kane, A. Miyake, & J. Towse (Eds.)  *Variation in Working Memory,* Oxford University Press.
 
 * O'Reilly, R.C. (2006). Modeling Integration and Dissociation in Brain and Cognitive Development.  Y. Munakata & M.H. Johnson (Eds) *Processes of Change in Brain and Cognitive Development: Attention and Performance XXI.*.Oxford University Press. 
 
-* Cer, D.M. & O'Reilly, R.C. (2006). Neural mechanisms of binding in the hippocampus and neocortex: Insights from computational models.  In H.D. Zimmer & A. Mecklinger & U. Lindenberger (Eds) *Binding in Memory*, Oxford: Oxford University Press.
+* Cer, D.M. & O'Reilly, R.C. (2006). Neural mechanisms of binding in the hippocampus and neocortex: Insights from computational models.  In H.D. Zimmer & A. Mecklinger & U. Lindenberger (Eds) *Binding in Memory,* Oxford: Oxford University Press.
 
-* O'Reilly, R.C. (2005). The Division of Labor Between the Neocortex and Hippocampus. In G. Houghton, (Ed) *Connectionist Models in Cognitive Science*, New York: Psychology Press.
+* O'Reilly, R.C. (2005). The Division of Labor Between the Neocortex and Hippocampus. In G. Houghton, (Ed) *Connectionist Models in Cognitive Science,* New York: Psychology Press.
 
-* O'Reilly, R.C. & Munakata, Y. (2003). Computational Neuroscience and Cognitive Modeling.  In L. Nadel (Ed) *Encyclopedia of Cognitive Sciences*, London: Macmillan.
+* O'Reilly, R.C. & Munakata, Y. (2003). Computational Neuroscience and Cognitive Modeling.  In L. Nadel (Ed) *Encyclopedia of Cognitive Sciences,* London: Macmillan.
 
-* O'Reilly, R.C., Busby, R. S. and Soto, R. (2003). Three Forms of Binding and their Neural Substrates: Alternatives to Temporal Synchrony. In A. Cleeremans (Ed) *The Unity of Consciousness: Binding, Integration, and Dissociation*, 168-192, Oxford: Oxford University Press.
+* O'Reilly, R.C., Busby, R. S. and Soto, R. (2003). Three Forms of Binding and their Neural Substrates: Alternatives to Temporal Synchrony. In A. Cleeremans (Ed) *The Unity of Consciousness: Binding, Integration, and Dissociation,* 168-192, Oxford: Oxford University Press.
 
 * O'Reilly, R.C. & Munakata, Y. (2002).  Psychological Function in Computational Models of Neural Networks.  In M. Gallagher & R. Nelson (Eds) *Handbook of Psychology, Vol. 3, Biological Psychology*.  New York: Wiley.
 
-* O'Reilly, R.C. (2001).  Cognitive Neuroscience of Learning and Memory.  In W.E. Craighead & C.B. Nemeroff Eds) *The Corsini Encyclopedia of Psychology and Behavioral Science, Third Edition*, New York: John Wiley & Sons.
+* O'Reilly, R.C. (2001).  Cognitive Neuroscience of Learning and Memory.  In W.E. Craighead & C.B. Nemeroff Eds) *The Corsini Encyclopedia of Psychology and Behavioral Science, Third Edition,* New York: John Wiley & Sons.
 
-* O'Reilly, R.C., Braver, T.S., & Cohen, J.D. (1999).  A biologically-based computational model of working memory.  In A. Miyake & P. Shah (Eds) *Models of Working Memory: Mechanisms of Active Maintenance and Executive Control*, 375-411. New York: Cambridge University Press.
+* O'Reilly, R.C., Braver, T.S., & Cohen, J.D. (1999).  A biologically-based computational model of working memory.  In A. Miyake & P. Shah (Eds) *Models of Working Memory: Mechanisms of Active Maintenance and Executive Control,* 375-411. New York: Cambridge University Press.
 
 * Farah, M.J., O'Reilly, R.C., & Vecera, S.J. (1997). The neural correlates of perceptual awareness: Evidence from covert recognition in prosopagnosia. In J.D. Cohen & J.W. Schooler (Eds) *Scientific Approaches to the Question of Consciousness*. Mahwah, New Jersey: Lawrence Erlbaum Associates.
 
 * Cohen, J.D. & O'Reilly, R.C. (1996). A preliminary theory of the interactions between prefrontal cortex and hippocampus that contribute to planning and prospective memory. in M. Brandimonte, G. Epstein & M. McDaniel (Eds) *Prospective Memory: Theory and Applications*.  Mahwah, New Jersey: Lawrence Erlbaum Associates.
 
-* O'Reilly, R.C. (1994). Temporally local unsupervised learning: The MaxIn algorithm for maximizing input information. In M.C. Mozer, P. Smolensky, & A.S. Weigend (Eds) *Proceedings of the 1993 Connectionist Summer School*, Hove, England: Lawrence Erlbaum Associates.
-
-## Manuscripts in Preparation
-
-* Herd, S.A., Krueger, K.A., Nair, A., Mollick, J., & O'Reilly, R.C. (under revision).  Neural Mechanisms of Human Decision-Making. *Cognitive Affective and Behavioral Neuroscience*.
-
-* O'Reilly, R.C., Russin, J. L., Zolfaghar, M., and Rohrlich, J. (submitted). Deep Predictive Learning in Neocortex and Pulvinar. https://arxiv.org/abs/2006.14800
-
-* Rohrlich, J., Huang, T.R., Hazy, T.E., O'Reilly, R.C. (under revision). Object Recognition's Garden Path: Low Spatial Frequencies.  *Attention, Perception, & Psychophysics*.  https://psyarxiv.com/j45fb/
+* O'Reilly, R.C. (1994). Temporally local unsupervised learning: The MaxIn algorithm for maximizing input information. In M.C. Mozer, P. Smolensky, & A.S. Weigend (Eds) *Proceedings of the 1993 Connectionist Summer School,* Hove, England: Lawrence Erlbaum Associates.
 
 ## Preprints, Technical Reports
 
+* Rohrlich, J., Huang, T.R., Hazy, T.E., O'Reilly, R.C. (2020). Object Recognition's Garden Path: Low Spatial Frequencies.  *PsyArXiv.*  https://psyarxiv.com/j45fb/
+
 * Russin, J. L.,  Jo, J., O'Reilly, R.C. & Bengio, Y. (2019). Compositional generalization in a deep seq2seq model by separating syntax and semantics. https://arxiv.org/abs/1904.09708 
 
+* O’Reilly, R. C., Hazy, T. E., Mollick, J., Mackie, P., & Herd, S. A. (2014). Goal-driven cognition in the brain: A computational framework. ArXiv:1404.7591 [q-Bio]. http://arxiv.org/abs/1404.7591
+
+* O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 [Physics, Physics:Quant-Ph]. http://arxiv.org/abs/1109.0880
 
 * O'Reilly, R.C. & Beck, J.M. (2006). A Family of Large-Stencil Discrete Laplacian Approximations in Three Dimensions.
 
@@ -451,6 +476,12 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * O'Reilly, R.C. (1999).  Conjunctive Representations in Learning and Memory: Principles of Cortical and Hippocampal Function.  Invited talk at the American Psychological Society Annual Meeting, Denver, CO.
 
 ### Conference Presentations: Contributed
+
+* Musslick, S., Hoskin, A. N., Webb, T. W., Frankland, S., Cohen, J. D., Jackson, R. L., Ralph, MA., Chen L., Rogers, T.T., O'Reilly, R.C., & Petrov, A. A. (2019). Understanding interactions amongst cognitive control, learning and representation. In *CogSci, 2019* (pp. 35-36).
+
+* Webb, T., Frankland, S., Segert, S., Petrov, A., O'Reilly, R.C., & Cohen, J.D. A tradeoff between generalization and perceptual capacity in recurrent neural networks. In *CogSci, 2019*.
+
+* Frankland, S., Webb, T. W., Petrov, A. A., O'Reilly, R. C., & Cohen, J. (2019). Extracting and Utilizing Abstract, Structured Representations for Analogy. In *CogSci, 2019* (pp. 1766-1772).
 
 * Rohrlich, J. A. and O'Reilly, R.C. (2018).  Deep Predictive Learning in Vision. 2018 Conference on Cognitive Computational Neuroscience. Philadelphia, PA.
 
@@ -679,17 +710,18 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Supervision: Current
 
-### Postdocs
+### Postdocs / Senior Research Associates
 
 * Thomas Hazy, MD (10/2001 -- present)
 * Seth Herd, PhD (2005 -- present)
-* Kai Krueger, PhD (3/2011 -- present)
 * John Rohrlich, PhD (2012 -- present)
 
 ### Graduate students
 
 * Maryam Zolfaghar (9/2016 -- present)
 * Jacob Russin (9/2017 -- present)
+* Andrew Carlson (9/2020 -- present)
+* Yicong (Alan) Zheng (9/2020 -- present)
 
 ## Supervision: Completed
 
@@ -726,15 +758,16 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * Dr. Tsung-Ren Huang, 2011-2014 (now Assistant Professor at National Taiwan University)
 * Dr. Trent Kriete, 2010 -- 2014 (now Chief Data Scientist at RxRevu, Denver, CO)
 * Dr. Sergio Verduzco-Flores 2011 -- 2015 (now Postdoctoral Fellow at Okinawa Institute of Science and Technology)
+* Kai Krueger, PhD, 3/2011 -- 8/2021 (now Senior Data Scientist at Wells-Fargo)
 
 # Professional Activities
 
 ## Editorial boards
 
-* Consulting Editor, *Psychonomic Bulletin and Review*, 2013-present
-* Associate Editor, *Psychological Review*, 2003-2006
-* Reviewing Editor, *Hippocampus*, 2003-2006.
-* Associate Editor, *Cognitive Science*, 2001-2004.
+* Consulting Editor, *Psychonomic Bulletin and Review,* 2013-present
+* Associate Editor, *Psychological Review,* 2003-2006
+* Reviewing Editor, *Hippocampus,* 2003-2006.
+* Associate Editor, *Cognitive Science,* 2001-2004.
 * Faculty of 1000 Contributor, (www.facultyof1000.com), Theoretical Neuroscience, 2001-2005
 
 ## Professional memberships
@@ -757,10 +790,11 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * NIMH inaugural RDOC meeting on Working Memory, 2011.
 * NSF grant proposal reviewing (CRCN panel, May 2002; ad hoc).
 * National Institutes of Health grant peer review panels, ad hoc member several times.
-* Journals, Conferences, Books: *Biological Cybernetics*, *Cognitive Science*, *Cognitive Science Society*, *Experimental Brain Research*, *Hippocampus*, *IEEE Transactions on Neural Networks*, *Journal of Experimental Psychology: General*, *Journal of Neuroscience*, *Memory*, *Memory and Cognition*, *MIT Press*, *Network: Computation in Neural Systems*, *Neural Computation*, *Neural Information Processing Systems NIPS)*, *Neural Networks*, *Neuron*, *Oxford University Press*, *PLOS Computational Biology*, *Psychological Bulletin*, *Psychological Review*, *Science*, *Trends in Cognitive Sciences*.
+* Journals, Conferences, Books: *Biological Cybernetics,* *Cognitive Science,* *Cognitive Science Society,* *eLife,* *Experimental Brain Research,* *Hippocampus,* *IEEE Transactions on Neural Networks,* *Journal of Experimental Psychology: General,* *Journal of Neuroscience,* *Memory,* *Memory and Cognition,* *MIT Press,* *Nature,* *Network: Computation in Neural Systems,* *Neural Computation,* *Neural Information Processing Systems NIPS),* *Neural Networks,* *Neuron,* *Oxford University Press,* *PLOS Computational Biology,* *PNAS,* *Psychological Bulletin,* *Psychological Review,* *Science,* *Trends in Cognitive Sciences*.
 
 ## Professional Service
 
+* DoD Future Directions Workshop on Human-Machine Learning, July 2019.
 * DARPA Defense Sciences Research Council, April 2012.
 * Chair of inaugural organizing committee for Computational Cognitive Neuroscience Conference, Washington, DC, 2005.
 * Cognitive Program Chair, Department of Psychology, University of Colorado Boulder, 2002-3.
