@@ -379,9 +379,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * Russin, J. L.,  Jo, J., O'Reilly, R.C. & Bengio, Y. (2019). Compositional generalization in a deep seq2seq model by separating syntax and semantics. https://arxiv.org/abs/1904.09708 
 
-* O’Reilly, R. C., Hazy, T. E., Mollick, J., Mackie, P., & Herd, S. A. (2014). Goal-driven cognition in the brain: A computational framework. ArXiv:1404.7591 [q-Bio]. http://arxiv.org/abs/1404.7591
+* O’Reilly, R. C., Hazy, T. E., Mollick, J., Mackie, P., & Herd, S. A. (2014). Goal-driven cognition in the brain: A computational framework. ArXiv:1404.7591 *q-Bio.* http://arxiv.org/abs/1404.7591
 
-* O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 [Physics, Physics:Quant-Ph]. http://arxiv.org/abs/1109.0880
+* O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 *Physics, Physics:Quant-Ph.* http://arxiv.org/abs/1109.0880
 
 * O'Reilly, R.C. & Beck, J.M. (2006). A Family of Large-Stencil Discrete Laplacian Approximations in Three Dimensions.
 
