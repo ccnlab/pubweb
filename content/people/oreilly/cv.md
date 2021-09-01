@@ -62,7 +62,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 # Grants
 
-* UC Davis Conte Center, NIH 2P50MH106438, 4/1/21 - 3/31/26, $16,308,892 total costs (Co-I, Cameron Carter and Kim McAllister, PIs)
+* UC Davis Conte Center, NIH 2P50MH106438, 4/1/21 - 3/31/26, $16,308,892 total costs (Co-I, Cameron Carter and Kim McAllister, PIs).
+
+* Error-driven plasticity, Astera Institute, 4/15/21 - 10/15/22, $480,000 total costs (Co-I, Karen Zito, PI).
 
 * Using Population Vectors to Understand Visual Working Memory for Natural Stimuli, Pending (12/1/21 - 11/30/26), $1,962,500 total costs (Co-I, Steven Luck PI).
 
@@ -113,7 +115,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. https://doi.org/10.1162/jocn_a_01708
 
-* Smucny, J., Hanks, T., Lesh, T., O’Reilly, R., & Carter, C. (2021). Relationships Between Reward-Based Decision Making and Activation in a Frontal-Striatal Network in Schizophrenia vs. Bipolar Disorder. *Biological Psychiatry, 89(9),* S176–S177. https://doi.org/10.1016/j.biopsych.2021.02.450
+* Smucny J, Tully L.M., Howell A.M., Lesh T.A., Johnson S.L., O'Reilly R.C., Minzenberg M.J., Ursu S., Yoon J.H., Niendam T.A., Ragland J.D., & Carter C.S. (2021) Schizophrenia and bipolar disorder are associated with opposite brain reward anticipation-associated response. *Neuropsychopharmacology, 46(6)*, 1152-1160.  https://doi.org/10.1038/s41386-020-00940-0
 
 * Mollick, J. A., Chang, L. J., Krishnan, A., Hazy, T. E., Krueger, K. A., Frank, G. K. W., Wager, T. D., & O’Reilly, R. C. (2021). The Neural Correlates of Cued Reward Omission. *Frontiers in Human Neuroscience, 15,* 615313. https://doi.org/10.3389/fnhum.2021.615313
 
@@ -128,8 +130,6 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * Devillez, H., Guyader, N., Curran, T., & O’Reilly, R. C. (2020). The bimodality of saccade duration during the exploration of visual scenes. *Visual Cognition, 28(9),* 484–512. https://doi.org/10.1080/13506285.2020.1830325
 
 * Dean, D. J., Bernard, J. A., Damme, K. S. F., O’Reilly, R.C., Orr, J. M., & Mittal, V. A. (2020). Longitudinal Assessment and Functional Neuroimaging of Movement Variability Reveal Novel Insights Into Motor Dysfunction in Clinical High Risk for Psychosis. *Schizophrenia Bulletin, 46(6),* 1567–1576. https://doi.org/10.1093/schbul/sbaa072
-
-* Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D.J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security,* 217-224. Chapman and Hall/CRC. 
 
 * Jilk, D. J., Herd, S. J., Read, S. J., & O’Reilly, R.C. (2017). Anthropomorphic reasoning about neuromorphic AGI safety. *Journal of Experimental & Theoretical Artificial Intelligence, 0(0),* 1–15.
 
@@ -223,7 +223,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O'Reilly, R.C., Frank, M.J., Hazy, T.E., and Watz, B. (2007). PVLV: The Primary Value and Learned Value Pavlovian Learning Algorithm, *Behavioral Neuroscience, 121,* 31-49.
 
-* Atallah, H.E., Lopez-Paniagua, D., Rudy, J.W., & O'Reilly, R.C. 2007).  Separate Neural Substrates for Skill Learning and Performance in the Ventral and Dorsal Striatum: Evidence for an Actor-Director System. *Nature Neuroscience, 10,* 126-131.
+* Atallah, H.E., Lopez-Paniagua, D., Rudy, J.W., & O'Reilly, R.C. (2007).  Separate Neural Substrates for Skill Learning and Performance in the Ventral and Dorsal Striatum: Evidence for an Actor-Director System. *Nature Neuroscience, 10,* 126-131.
 
 * O'Reilly, R.C. (2006).  Biologically-Based Computational Models of High-Level Cognition. *Science, 314,* 91-94.
 
@@ -343,6 +343,8 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O'Reilly, R.C., Russin, J., & Herd, S. A. (2019).  Computational Models of Motivated Frontal Function. In D'Esposito, M. and Grafman, J. (Eds) *Handbook of Clinical Neurology: The Frontal Lobes, Vol. 163,* 317-332.  Elsevier.
 
+* Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D.J. (2018). Goal Changes in Intelligent Agents. In R. V. Yampolskiy (Ed), *Artificial Intelligence Safety and Security,* 217-224. Chapman and Hall/CRC. 
+
 * O'Reilly, R.C., Hazy, T. E., & Herd, S. A. (2016).  The Leabra Cognitive Architecture: How to Play 20 Principles with Nature and Win!. In Chipman, S. *Handbook of Cognitive Science*.  Oxford University Press.
 
 * O'Reilly, R.C., Petrov, A. A., Cohen, J. D., Lebiere, C. J., Herd, S. A., & Kriete, T. (2014).  How Limited Systematicity Emerges: A Computational Cognitive Neuroscience Approach. Calvo, P. and Symons, J., Eds.  *The architecture of cognition: Rethinking Fodor and Pylyshyn¹s Systematicity Challenge.* MIT Press.
@@ -383,6 +385,8 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O’Reilly, R. C., Hazy, T. E., Mollick, J., Mackie, P., & Herd, S. A. (2014). Goal-driven cognition in the brain: A computational framework. ArXiv:1404.7591 *q-Bio.* http://arxiv.org/abs/1404.7591
 
+* O'Reilly, R.C., Wyatte, D., and Rohrlich, J. (2014). Learning Through Time in the Thalamocortical Loops.  ArXiv:1407.3432 *q-Bio.* https://arxiv.org/abs/1407.3432
+
 * O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 *Physics, Physics:Quant-Ph.* http://arxiv.org/abs/1109.0880
 
 * O'Reilly, R.C. & Beck, J.M. (2006). A Family of Large-Stencil Discrete Laplacian Approximations in Three Dimensions.
@@ -391,9 +395,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Software
 
-* The <b>new</b> emergent neural modeling system: https://github.com/emer/emergent -- complete rewrite in Go / Python.
+* The new emergent neural modeling system: https://github.com/emer/emergent -- complete rewrite in Go / Python (144,845 lines of code, LOC.  Required extensive infrastructure in https://github.com/goki (107,397 LOC) https://github.com/go-python/gopy and https://github.com/go-python/gotopy (13,416)
 
-* The emergent neural modeling system. https://github.com/emer/cemer
+* The previous-generation, C++ based emergent neural modeling system. https://github.com/emer/cemer (741,233 LOC)
 
 * O'Reilly, R.C., Dawson, C.K., & McClelland, J.L. (1995--2007).  The PDP++ Neural Network Simulation System. Carnegie Mellon University and the Center for the Neural Basis of Cognition.
 
@@ -484,6 +488,8 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * O'Reilly, R.C. (1999).  Conjunctive Representations in Learning and Memory: Principles of Cortical and Hippocampal Function.  Invited talk at the American Psychological Society Annual Meeting, Denver, CO.
 
 ### Conference Presentations: Contributed
+
+* Smucny, J., Hanks, T., Lesh, T., O’Reilly, R., & Carter, C.S. (2021). Relationships Between Reward-Based Decision Making and Activation in a Frontal-Striatal Network in Schizophrenia vs. Bipolar Disorder. *Biological Psychiatry, 89(9),* S176–S177. https://doi.org/10.1016/j.biopsych.2021.02.450
 
 * Musslick, S., Hoskin, A. N., Webb, T. W., Frankland, S., Cohen, J. D., Jackson, R. L., Ralph, MA., Chen L., Rogers, T.T., O'Reilly, R.C., & Petrov, A. A. (2019). Understanding interactions amongst cognitive control, learning and representation. In *CogSci, 2019* (pp. 35-36).
 

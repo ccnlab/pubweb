@@ -95,7 +95,7 @@ These papers are good choices for learning about research in each of the major c
 
 ## 2018
 
-* Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D. J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security*, 217-224. Chapman and Hall/CRC.  [PDF](https://ccnlab.org/papers/HerdReadOReillyEtAl18.pdf) | [URL](https://www.taylorfrancis.com/books/e/9781351251389/chapters/10.1201/9781351251389-15)
+* Herd, S., Read, S. J., O'Reilly, R.C., & Jilk, D. J. (2018). Goal Changes in Intelligent Agents. *Artificial Intelligence Safety and Security*, 217-224, R. V. Yampolskiy (Ed).  CRC Press.  [PDF](https://ccnlab.org/papers/HerdReadOReillyEtAl18.pdf) | [URL](https://www.taylorfrancis.com/books/e/9781351251389/chapters/10.1201/9781351251389-15)
 
 ## 2017
 
