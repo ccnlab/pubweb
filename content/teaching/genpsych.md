@@ -9,9 +9,11 @@ title: "General Psychology"
 * Canvas site: https://canvas.ucdavis.edu
 * Textbook: Freely available online textbook: [Principles of Psychology and Neuroscience](https://PrinciplesOfPsych.org) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/genpsych/randy_slides)
 * YouTube lectures: [YouTube Playlist](https://www.youtube.com/playlist?list=PLu02O8xRZn7zcNG3kaEWysHUeYa9vwhvj)
-* Professor: [Randall O'Reilly](/people/oreilly), Office Hours Mon 2-3pm *on zoom* (link on canvas) or by appointment (please contact on canvas or email to schedule a time!)
-* TAs: 
-* Clickers: we will be making extensive use of clicker-based questions in this course: https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sysparm_article=KB0001314
+* Professor: [Randall O'Reilly](/people/oreilly), Office Hours Weds 1-2pm *on zoom* (link on canvas) or by appointment (please contact on canvas or email to schedule a time!)
+* TAs:
+    + Claudia Manca cmanca@ucdavis.edu -- Office hours Tues 8-9am and Tues 2-3pm -- via zoom -- see links on canvas
+    + Jenny Chang twcchang@ucdavis.edu -- Office hours Weds 11-12pm and Fri 10-11am -- via zoom -- see links on canvas
+* Clickers: Join code: https://join.iclicker.com/0750W -- we will be making extensive use of clicker-based questions in this course: https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sysparm_article=KB0001314
 
 # Overview and Goals
 
@@ -25,9 +27,11 @@ The actual conduct of research in psychology and neuroscience raises a number of
 
 # COVID-19 Issues
 
-* **You absolutely must wear a mask.**  I will not start the lecture if there are any unmasked individuals, who will be asked to put on a mask or leave the lecture hall.  Please see: https://campusready.ucdavis.edu for campus policies.
+* **You must wear a mask.**  I will not start the lecture if there are any unmasked individuals, who will be asked to put on a mask or leave the lecture hall.  The TAs will have extra masks available if you forgot yours.  Please see: https://campusready.ucdavis.edu for campus policies.
 
 * The course is designed to accommodate any level of in-person participation, so you will still be able to access all of the relevant information and take quizzes and tests even if you have to quarantine or catch the virus. So, **Please do not come to the lecture if you are feeling any symptoms** and instead access the relevant online materials listed at the top of the syllabus.
+
+* **Please do not email us if you are not able to come to class for any reason** -- with a class of this size, we are unable to track attendance and it is really up to you to manage your responsibilities and use the recorded lectures when you cannot attend the live class.
 
 * More generally, keeping our campus healthy takes all of us. You are expected to follow university public health requirements and pursue personal protection practices to protect yourself and the others around you. These include: 
 
@@ -101,16 +105,16 @@ Every week you have to read the textbook chapter(s) and take the quiz on canvas,
 | Wk  | Date  | Chapter, Topic           | Test  |
 | --- | ----  | ------------------------ | --- |
 | 1   | 23 Sep | Introduction, Syllabus   |     |
-| 2   | 28, 30 Sep | Ch 0, 1: Intro and Science and Subjectivity |  |
-| 3   | 5, 7 Oct | Ch 2: Neuroscience | |
-| 4   | 12, 14 Oct | Ch 3, 4: Consciousness etc, Perception | Midterm 1 |
-| 5   | 19, 21 Oct | Ch 5: Learning, Motivation | |
-| 6   | 26, 28 Oct | Ch 6: Memory | |
-| 7   | 2, 4 Nov | Ch 7, 8: Thinking, Control, Language | Midterm 2|
-| 8   | 9, 11 Nov | Ch 9: Personality & Social | |
-| 9   | 16, 18 Nov | Ch 10: Origins: Evolution, Development | |
+| 2   | 28, 30 Sep | Ch 1, 2: Intro and Science and Subjectivity |  |
+| 3   | 5, 7 Oct | Ch 3: Neuroscience | |
+| 4   | 12, 14 Oct | Ch 4, 5: Consciousness etc, Perception | Midterm 1 |
+| 5   | 19, 21 Oct | Ch 6: Learning, Motivation | |
+| 6   | 26, 28 Oct | Ch 7: Memory | |
+| 7   | 2, 4 Nov | Ch 8, 9: Thinking, Control, Language | Midterm 2|
+| 8   | 9, 11 Nov | Ch 10: Personality & Social | |
+| 9   | 16, 18 Nov | Ch 11: Origins: Evolution, Development | |
 | 10  | 23, 25 Nov | -- *Thanksgiving break* -- | |
-| 11  | 30, 3 Dec | Ch 11: Disorders & Therapy | | 
+| 11  | 30, 3 Dec | Ch 12: Disorders & Therapy | | 
 |     |  |  Final | |
 
 
