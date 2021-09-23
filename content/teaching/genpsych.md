@@ -13,7 +13,7 @@ title: "General Psychology"
 * TAs:
     + Claudia Manca cmanca@ucdavis.edu -- Office hours Tues 8-9am and Tues 2-3pm -- via zoom -- see links on canvas
     + Jenny Chang twcchang@ucdavis.edu -- Office hours Weds 11-12pm and Fri 10-11am -- via zoom -- see links on canvas
-* Clickers: Join code: https://join.iclicker.com/0750W -- we will be making extensive use of clicker-based questions in this course: [Clicker Info](https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sysparm_article=KB0001374)
+* Clickers: Join code: https://join.iclicker.com/0750W -- we will be making extensive use of clicker-based questions in this course, using the **app based version** (not the physical device -- app used to be called REEF): [Clicker Info](https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sysparm_article=KB0001374)
 
 # Overview and Goals
 
