@@ -4,7 +4,7 @@ title: "General Psychology"
 
 # Fall, 2021, PSC 001-001
 
-* Lecture: Tue/Thu 4:10pm -- 6:00pm SCILEC 123
+* Lecture: Tue/Thu 4:10pm -- 6:00pm [SCILEC 123](http://campusmap.ucdavis.edu/?b=135)
 * Class Web Site: https://ccnlab.org/teaching/genpsych
 * Canvas site: https://canvas.ucdavis.edu
 * Textbook: Freely available online textbook: [Principles of Psychology and Neuroscience](https://PrinciplesOfPsych.org) and [Lecture Slides](https://github.com/ccnlab/teaching/tree/master/genpsych/randy_slides)
