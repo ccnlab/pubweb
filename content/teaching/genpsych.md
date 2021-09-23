@@ -13,7 +13,7 @@ title: "General Psychology"
 * TAs:
     + Claudia Manca cmanca@ucdavis.edu -- Office hours Tues 8-9am and Tues 2-3pm -- via zoom -- see links on canvas
     + Jenny Chang twcchang@ucdavis.edu -- Office hours Weds 11-12pm and Fri 10-11am -- via zoom -- see links on canvas
-* Clickers: Join code: https://join.iclicker.com/0750W -- we will be making extensive use of clicker-based questions in this course: https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sysparm_article=KB0001314
+* Clickers: Join code: https://join.iclicker.com/0750W -- we will be making extensive use of clicker-based questions in this course: [Clicker Info](https://servicehub.ucdavis.edu/servicehub?id=ucd_kb_article&sysparm_article=KB0001374)
 
 # Overview and Goals
 
@@ -61,16 +61,16 @@ Your grade will be based on four components according to the following percentag
 
 As we will learn in the course, establishing and maintaining goals, and motivation in general, is the most important ingredient in academic and overall life outcomes.  Thus, you have the opportunity to earn (or lose) extra credit by making, and keeping, commitments to various important steps that can greatly enhance what you get out of this course, and help you deal with the increased difficulty of the material.  If you do not choose to engage in these additional goal-setting steps, you can still get whatever grade you earn according to the above required elements, but almost certainly you will get less value out of this educational opportunity than if you do decide to engage.  The choice is yours.  Here's how it works:
 
-* At the start of the class, you write a brief statement of your overall goals for what you hope to learn from this course, and how it might fit in with your larger overall goals for college and your life thereafter.  Then, you select up to 5 specific goals from among a set of options (including the option of an appropriate goal of your own design), which you commit to achieving in the course.  These options are as follows (with the reporting content shown in parentheses):
-    + Thoroughly reading and reflecting on the assigned textbook chapters every week (report on your reactions to the content and what thoughts you had about how it applies to your life, etc).
-    + Attending as many lectures as you can, and engaging full attention to the lectures (report on your thoughts and questions about the lecture, and what you would have said if you were to participate in discussion).
-    + Participating in class discussions (report on what you said).
-    + Exploring additional reading and research on class-related topics (report on these).
-    + Providing detailed comments on how to improve the textbook, to benefit future classes (the comments).
+* At the start of the class, you write a brief statement of your overall goals for what you hope to learn from this course, and how it might fit in with your larger overall goals for college and your life thereafter.  Then, you select up to 3 specific goals from among a set of 5 options, which you commit to achieving in the course.  These options are as follows (with the reporting content shown in parentheses):
+    + Thoroughly **reading and reflecting** on the assigned textbook chapters every week (report on your reactions to the content and what thoughts you had about how it applies to your life, etc).
+    + **Attending** as many lectures as you can, **and engaging** full attention to the lectures (report on your thoughts and questions about the lecture, and what you would have said if you were to participate in discussion -- 2 weeks excused to allow for illness etc).
+    + **Participating** in class discussions (report on what you said -- 3 weeks excused to allow for illness and lack of opportunity).
+    + **Exploring** additional reading and research on class-related topics (report on these).
+    + Providing detailed comments on how to **improve the textbook**, to benefit future classes (the comments).
 
-* For each goal that you commit to, you will have to fill out a report every week on exactly what you have done toward achieving this goal (as noted above), along with reflections on how this has affected your overall learning experience in relation to your initially-stated goals.  These do not need to be overly long or detailed, and are largely synonymous with the activity itself.  These reports will be evaluated by the TAs, and must be submitted by the deadline each week to receive credit.  This continued engagement with your goals throughout the quarter is especially important, because people usually start out with a lot of positive motivation and engagement, but have difficulty sustaining that in the face of everything else that happens.  Doing it weekly helps establish a routine schedule for completing all of your required work.
+* For each goal that you commit to, you will have to fill out a report every week on exactly what you have done toward achieving this goal (as noted above), along with reflections on how this has affected your overall learning experience in relation to your initially-stated goals.  These do not need to be overly long or detailed, and are largely synonymous with the activity itself.  These reports will be evaluated by the TAs, and must be submitted by the deadline each week to receive credit (one week may be dropped except as noted above).  This continued engagement with your goals throughout the quarter is especially important, because people usually start out with a lot of positive motivation and engagement, but have difficulty sustaining that in the face of everything else that happens.  Doing it weekly helps establish a routine schedule for completing all of your required work.
 
-* If you have demonstrated continued engagement with your selected goals, then you earn **2%** extra credit per goal, for a total of **10%** maximum possible extra credit (i.e., no more than 5 goals will be credited).  *However*, if you do *not* demonstrate continued engagement, you *lose* **1%** per goal.  This asymmetry in gains and losses reflects the greater psychological power of losses, known as *loss aversion*, which we will learn about in the course.  The use of both carrots and sticks is useful for fully engaging your motivational system.
+* If you have demonstrated continued engagement with your selected goals, then you earn **2%** extra credit per goal, for a total of **6%** maximum possible extra credit (i.e., no more than 3 goals will be credited).  *However*, if you do *not* demonstrate continued engagement, you *lose* **1%** per goal.  This asymmetry in gains and losses reflects the greater psychological power of losses, known as *loss aversion*, which we will learn about in the course.  The use of both carrots and sticks is useful for fully engaging your motivational system.
 
 ## Grading Policy
 
@@ -105,16 +105,16 @@ Every week you have to read the textbook chapter(s) and take the quiz on canvas,
 | Wk  | Date  | Chapter, Topic           | Test  |
 | --- | ----  | ------------------------ | --- |
 | 1   | 23 Sep | Introduction, Syllabus   |     |
-| 2   | 28, 30 Sep | Ch 1, 2: Intro and Science and Subjectivity |  |
+| 2   | 28, 30 Sep | Ch 1, 2: Intro and Science & Subjectivity |  |
 | 3   | 5, 7 Oct | Ch 3: Neuroscience | |
-| 4   | 12, 14 Oct | Ch 4, 5: Consciousness etc, Perception | Midterm 1 |
+| 4   | 12, 14 Oct | Ch 4, 5: Consciousness etc & Perception | Midterm 1 |
 | 5   | 19, 21 Oct | Ch 6: Learning, Motivation | |
 | 6   | 26, 28 Oct | Ch 7: Memory | |
 | 7   | 2, 4 Nov | Ch 8, 9: Thinking, Control, Language | Midterm 2|
 | 8   | 9, 11 Nov | Ch 10: Personality & Social | |
 | 9   | 16, 18 Nov | Ch 11: Origins: Evolution, Development | |
 | 10  | 23, 25 Nov | -- *Thanksgiving break* -- | |
-| 11  | 30, 3 Dec | Ch 12: Disorders & Therapy | | 
+| 11  | 30, 3 Dec | Ch 12: Disorders & Treatment | | 
 |     |  |  Final | |
 
 
