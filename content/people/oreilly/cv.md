@@ -107,7 +107,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * ResearchGate Page: https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf
 * arXiv public author id: https://arxiv.org/a/oreilly_r_1
 * ORCID ID:  https://orcid.org/0000-0003-0322-4600 
-* NCBI NIH Biosketch: https://www.ncbi.nlm.nih.gov/myncbi/randy.oreilly@colorado.edu/cv/77981/  Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/
+* NCBI NIH Biosketch: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/538267/  Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/
 
 ## Journal Papers
 

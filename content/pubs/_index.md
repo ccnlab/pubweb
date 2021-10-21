@@ -7,7 +7,7 @@ title: "Pubs"
 * {{< page "people/oreilly/cv" >}}
 * [Google Scholar Profile](https://scholar.google.com/citations?user=tZpKKm4AAAAJ)
 * [Research Gate Profile](https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf)
-* [NCBI NIH Biosketch]( https://www.ncbi.nlm.nih.gov/myncbi/randy.oreilly@colorado.edu/cv/77981/) and [Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/)
+* [NCBI NIH Biosketch]( https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/538267/) and [Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/)
 * [arXiv](https://arxiv.org/a/oreilly_r_1)
 * [ORCID](https://orcid.org/0000-0003-0322-4600)
 
