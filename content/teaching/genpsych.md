@@ -111,7 +111,7 @@ Every week you have to read the textbook chapter(s) and take the quiz on canvas,
 | 5   | 19, 21 Oct | Ch 6: Learning, Motivation | |
 | 6   | 26, 28 Oct | Ch 7: Memory | |
 | 7   | 2, 4 Nov | Ch 8, 9: Thinking, Control, Language | Midterm 2 (Ch 6-9) |
-| 8   | 9, -11- Nov | Ch 10: Personality & Social (11th is Vet. day holiday) | |
+| 8   | 9, ~~11~~ Nov | Ch 10: Personality & Social (11th is Vet. day holiday) | |
 | 9   | 16, 18 Nov | Ch 11: Origins: Evolution, Development | |
 | 10  | 23, 25 Nov | -- *Thanksgiving break* -- | |
 | 11  | 30, 3 Dec | Ch 12: Disorders & Treatment | | 
