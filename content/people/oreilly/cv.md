@@ -405,11 +405,13 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ### Conference Presentations: Invited
 
+* O'Reilly, R.C. (2021): Psychonomics Leading Edge Workshop, Edinburgh, Scotland (via Zoom). Invited participant.
+
 * O'Reilly, R.C. (2021): Plenary panel discussion on neural network models of cognition at Cognitive Science Conference. 
 
 * O'Reilly, R.C. (2021): The central role of the parietal lobe in the neural cognitive architecture. Virtual International Symposium on Cognitive Architecture (VISCA 2021).
 
-* O'Reilly, R.C. (2021): Predictive Error-driven Learning in the Brain. Keynote at the International Conferenceon Error-Driven Learning in Language (EDLL 2021)
+* O'Reilly, R.C. (2021): Predictive Error-driven Learning in the Brain. Keynote at the International Conference on Error-Driven Learning in Language (EDLL 2021)
 
 * O'Reilly, R.C. (2019): Deep predictive learning in the neocortex and pulvinar, Invited talk at Flux Congress, 2019, New York, NY.
 
