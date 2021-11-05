@@ -115,6 +115,6 @@ Every week you have to read the textbook chapter(s) and take the quiz on canvas,
 | 9   | 16, 18 Nov | Ch 11: Origins: Evolution, Development | |
 | 10  | 23, 25 Nov | -- *Thanksgiving break* -- | |
 | 11  | 30, 3 Dec | Ch 12: Disorders & Treatment | | 
-|     |  |  Final (Ch 10-12, cumulative)| |
+|     |  |  Final (Ch 10-12, cumulative), Dec 6-10 | |
 
 
