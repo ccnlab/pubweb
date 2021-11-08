@@ -309,13 +309,13 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Peer Reviewed Conference Proceedings
 
-* Russin, J. L., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2021). Complementary Structure-Learning Neural Networks for Relational Reasoning. *Proceedings for the 43nd Annual Meeting of the Cognitive Science Society, 7*.
+* Russin, J. L., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2021). Complementary Structure-Learning Neural Networks for Relational Reasoning. *Proceedings for the 43nd Annual Meeting of the Cognitive Science Society*.
 
 * Webb, T., Dulberg, Z., Frankland, S., Petrov, A., O’Reilly, R.C., & Cohen, J. (2020). Learning representations that support extrapolation. International Conference on Machine Learning, 10136–10146. http://proceedings.mlr.press/v119/webb20a.html
 
 * Russin, J., Jo, J., O’Reilly, R.C., & Bengio, Y. (2020). Compositional Generalization by Factorizing Alignment and Translation. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop,* 313–327. https://doi.org/10.18653/v1/2020.acl-srw.42
 
-* Russin, J. L., Jo, J., O’Reilly, R. C., & Bengio, Y. (2020). Systematicity in a Recurrent Neural Network by Factorizing Syntax and Semantics. Proceedings for the 42nd Annual Meeting of the Cognitive Science Society, 7.
+* Russin, J. L., Jo, J., O’Reilly, R. C., & Bengio, Y. (2020). Systematicity in a Recurrent Neural Network by Factorizing Syntax and Semantics. *Proceedings for the 42nd Annual Meeting of the Cognitive Science Society*.
 
 * Vinokurov, Y., Lebiere, C., Herd, S. A., O'Reilly, R.C. (2011). A Metacognitive Classifier Using a Hybrid ACT-R/Leabra Architecture.  Lifelong Learning: Papers from the 2011 AAAI Workshop (WS-11-15).
 
@@ -329,9 +329,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Books
 
-* O'Reilly, R.C. (2021). Principles of Psychology and Neuroscience (1st Ed). https://github.com/PsychNeuro/ed1 
+* O'Reilly, R.C. (2021). Principles of Psychology and Neuroscience (1st Ed). https://PrinciplesOfPsych.org
 
-* O'Reilly, R.C., Munakata, Y., Frank, M. J., Hazy, T. E., and Contributors (2020). Computational Cognitive Neuroscience. eBook, 4st Edition. URL: https://github.com/CompCogNeuro/ed4
+* O'Reilly, R.C., Munakata, Y., Frank, M. J., Hazy, T. E., and Contributors (2020). Computational Cognitive Neuroscience. eBook, 4th Edition. URL: https://CompCogNeuro.org
 
 * O'Reilly, R.C., Munakata, Y., Frank, M. J., Hazy, T. E., and Contributors (2012). Computational Cognitive Neuroscience. Wiki Book, 1st Edition. URL: http://ccnbook.colorado.edu
 
@@ -339,7 +339,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Book Chapters
 
-* Liu, X., O’Reilly, R. C., & Ranganath, C. (in press). Effects of retrieval practice on tested and untested information: Cortico-hippocampal interactions and error-driving learning. In The Context of Cognition: Emerging Perspectives. Elsevier.
+* Liu, X., O’Reilly, R. C., & Ranganath, C. (2021). Effects of retrieval practice on tested and untested information: Cortico-hippocampal interactions and error-driving learning. In Federmeier, K.D. and Sahakyan, L. (Eds) *The Context of Cognition: Emerging Perspectives, Vol 75*. 125-155, Elsevier.
 
 * O'Reilly, R.C., Russin, J., & Herd, S. A. (2019).  Computational Models of Motivated Frontal Function. In D'Esposito, M. and Grafman, J. (Eds) *Handbook of Clinical Neurology: The Frontal Lobes, Vol. 163,* 317-332.  Elsevier.
 
@@ -404,6 +404,8 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 ## Presentations
 
 ### Conference Presentations: Invited
+
+* O'Reilly, R.C. (2021): A Computational Systems Neuroscience Perspective on Interacting Memory Systems.  Psychonomics Society Conference (via zoom).  Invited presenter.
 
 * O'Reilly, R.C. (2021): Psychonomics Leading Edge Workshop, Edinburgh, Scotland (via Zoom). Invited participant.
 
@@ -733,6 +735,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * Seth Herd, PhD (2005 -- present)
 * John Rohrlich, PhD (2012 -- present)
 * Xiaonan Liu, PhD, 2019 -- present (with Charan Ranganath)
+* James Antony, PhD, 2021 -- present (with Charan Ranganath)
 
 ### Postdocs
 
