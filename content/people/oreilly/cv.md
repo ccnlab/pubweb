@@ -5,7 +5,7 @@ title: "Randall C. O'Reilly, CV"
 # Curriculum Vitae
 # Randall C. O'Reilly
 
-Last updated: Aug 9, 2021
+Last updated: Nov 8, 2021
 
 [Department of Psychology](https://psychology.ucdavis.edu)  
 [University of California, Davis](https://www.ucdavis.edu)  
