@@ -405,6 +405,8 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ### Conference Presentations: Invited
 
+* O'Reilly, R.C. (2021): Invited participant in panel at Neuromatch Academy 4.0 (via zoom).
+
 * O'Reilly, R.C. (2021): A Computational Systems Neuroscience Perspective on Interacting Memory Systems.  Psychonomics Society Conference (via zoom).  Invited presenter.
 
 * O'Reilly, R.C. (2021): Psychonomics Leading Edge Workshop, Edinburgh, Scotland (via Zoom). Invited participant.

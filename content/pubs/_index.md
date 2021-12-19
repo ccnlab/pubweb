@@ -52,6 +52,10 @@ These papers are good choices for learning about research in each of the major c
 
 ## 2021
 
+* O'Reilly, R. C. & Hazy, T. E. (2021 / in press). Computational Contributions of the Thalamus to Learning and Memory. *The Thalamus* (M. Halassa, Ed). [PDF](https://ccnlab.org/papers/OReillyHazy21.pdf)
+
+* Hazy, T. E., Frank, M. J., & O'Reilly, R. C. (2021 / in press). Computational Neuroscientific Models of Working Memory. *Cambridge Handbook of Computational Cognitive Sciences* (R. Sun, Ed).  [PDF](https://ccnlab.org/papers/HazyFrankOReilly21.pdf)
+
 * O’Reilly, R. C., Ranganath, C., & Russin, J. L. (2021 / in press). The Structure of Systematicity in the Brain. *Current Directions in Psychological Science*, ArXiv:2108.03387 *q-Bio*. [PDF](https://ccnlab.org/papers/OReillyRanganathRussin21.pdf) | [URL](http://arxiv.org/abs/2108.03387)
 
 * O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. [PDF](https://ccnlab.org/papers/OReillyRussinZolfagharEtAl21.pdf) | [URL](https://doi.org/10.1162/jocn_a_01708)
