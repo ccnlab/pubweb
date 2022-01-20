@@ -52,6 +52,8 @@ These papers are good choices for learning about research in each of the major c
 
 ## 2021
 
+* McKee, K. L, Crandell, I. C., Chaudhuri, R., & O'Reilly, R. C. (2021 / submitted).  Locally Learned Synaptic Dropout for Complete Bayesian Inference.  https://arxiv.org/abs/2111.09780
+
 * O'Reilly, R. C. & Hazy, T. E. (2021 / in press). Computational Contributions of the Thalamus to Learning and Memory. *The Thalamus* (M. Halassa, Ed). [PDF](https://ccnlab.org/papers/OReillyHazy21.pdf)
 
 * Hazy, T. E., Frank, M. J., & O'Reilly, R. C. (2021 / in press). Computational Neuroscientific Models of Working Memory. *Cambridge Handbook of Computational Cognitive Sciences* (R. Sun, Ed).  [PDF](https://ccnlab.org/papers/HazyFrankOReilly21.pdf)
