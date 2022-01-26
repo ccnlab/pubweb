@@ -185,8 +185,7 @@ These papers are good choices for learning about research in each of the major c
 
 * Frank, G.K.W., Reynolds, J.R., Shott, M.E. & O'Reilly, R.C. (2011). Altered temporal difference learning in bulimia nervosa. *Biological psychiatry, 70,* 728-735. [PDF](https://ccnlab.org/papers/FrankReynoldsShottEtAl11.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/21718969)
 
-O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 [Physics, Physics:Quant-Ph]. http://arxiv.org/abs/1109.0880
-[PDF](https://ccnlab.org/papers/OReilly11.pdf) | [URL](http://arxiv.org/abs/1109.0880)
+* O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 [Physics, Physics:Quant-Ph]. http://arxiv.org/abs/1109.0880 [PDF](https://ccnlab.org/papers/OReilly11.pdf) | [URL](http://arxiv.org/abs/1109.0880)
 
 ## 2010
 
@@ -199,6 +198,8 @@ O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critiqu
 * Hazy, T.E., Frank, M.J. & O'Reilly, R.C. (2010). Neural mechanisms of acquired phasic dopamine responses in learning. *Neuroscience and biobehavioral reviews, 34,* 701--720.  [PDF](https://ccnlab.org/papers/HazyFrankOReilly10.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/19944716)
 
 * Pauli, W. M. and Atallah, H. E. and O'Reilly, R. C. (2010). Integrating what & how/where with instrumental and Pavlovian learning: A biologically based computational model, Frensch, P. A. and Schwarzer, R. (Eds) Cognition and Neuropsychology - International Perspectives on Psychological Science. East Sussex, UK: Psychology Press.  [PDF](https://ccnlab.org/papers/PauliAtallahOReilly10.pdf)
+
+* Herd, S. A., Mingus, B., & O’Reilly, R. C. (2010). Dopamine and self-directed learning. *Biologically Inspired Cognitive Architectures 2010: Proceedings of the First Annual Meeting of the BICA Society, 221,* 58–63.  [PDF](https://ccnlab.org/papers/HerdMingusOReilly10.pdf)
 
 ## 2009
 
