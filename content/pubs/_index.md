@@ -185,7 +185,7 @@ These papers are good choices for learning about research in each of the major c
 
 * Frank, G.K.W., Reynolds, J.R., Shott, M.E. & O'Reilly, R.C. (2011). Altered temporal difference learning in bulimia nervosa. *Biological psychiatry, 70,* 728-735. [PDF](https://ccnlab.org/papers/FrankReynoldsShottEtAl11.pdf) | [URL](http://www.ncbi.nlm.nih.gov/pubmed/21718969)
 
-* O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 [Physics, Physics:Quant-Ph]. http://arxiv.org/abs/1109.0880 [PDF](https://ccnlab.org/papers/OReilly11.pdf) | [URL](http://arxiv.org/abs/1109.0880)
+* O’Reilly, R. C. (2011). Surely You Must All be Joking: An Outsider’s Critique of Quantum Physics. ArXiv:1109.0880 *Physics, Physics:Quant-Ph*. http://arxiv.org/abs/1109.0880 [PDF](https://ccnlab.org/papers/OReilly11.pdf) | [URL](http://arxiv.org/abs/1109.0880)
 
 ## 2010
 
