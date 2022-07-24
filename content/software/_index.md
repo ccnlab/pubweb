@@ -46,11 +46,19 @@ Notes for anyone using the CCNLab zotero setup:
 [authors3][shortyear]
 ```
 
+which now shows up translated as:
+
+```
+authors(n=3,etal=EtAl)+shortyear
+```
+
+and make sure the `Force citation key to plain text` flag is set.
+
 3. Install Zotfile: http://zotfile.com/ and set `Tools / ZotFile preferences / Renaming Rules` `Renaming format` to `{%b}` (for all item types except patents -- we don't care about patents so leave as is).
 
-4. Set `General / Preferences` to `Automatically rename attachment files using parent metadata` -- this in conjunction with Zotfile renames pdf's using citekey.
+4. Set `General / Preferences` to `Automatically rename attachment files using parent metadata` -- this in conjunction with Zotfile renames pdf's using citekey.  Be sure to check when you add an entry, by toggling it open to see the attachments, that the pdf is named after the citekey, and does NOT say something lke "Full Text PDF".  You can manually trigger the renaming by doing `Manage attachments / Rename and move` in the context menu on the item (control + mouse button on mac, right mouse button otherwise).
 
-5. Be sure to check for an existing entry before adding, and if you accidentally add a duplicate (it will end with `a` in the citekey as a clue) please delete it or merge it using `Duplicate items` section.
+5. **Be sure to check for an existing entry before adding**, and if you accidentally add a duplicate (it will end with `a` in the citekey as a clue) please delete it or merge it using `Duplicate items` section.  Zotero docs: https://www.zotero.org/support/duplicate_detection
 
 6. To organize the list of citations by most recently added, which is very handy for checking recent updates,  click on the tiny button on the far right of the list header to select the fields to show, and select Date Added and Citekey (e.g., use Title, Creator, Date Added, Citekey as the full set).  Then, click on Date Added to sort by that, so you can see the newest ones at the top.
 
