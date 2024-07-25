@@ -5,6 +5,10 @@ pluralizeListTitles = false
 paginate = 10
 EnableGitInfo = true
 
+[security]
+	[security.funcs]
+		getenv = ['HUGO_^', 'WC^', 'REPOSITORY_URL']
+
 [blackfriday]
   plainIDAnchors = true
   fractions = false
