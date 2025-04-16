@@ -5,8 +5,9 @@ title: "Randall C. O'Reilly, CV"
 # Curriculum Vitae
 # Randall C. O'Reilly
 
-Last updated: Nov 8, 2021
+Last updated: April 15, 2025
 
+[Astera Institute](https://astera.org)
 [Department of Psychology](https://psychology.ucdavis.edu)  
 [University of California, Davis](https://www.ucdavis.edu)  
 [Center for Neuroscience](https://neuroscience.sf.ucdavis.edu)  
@@ -17,7 +18,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 # Employment
 
-* Professor, Department of Psychology, Computer Science, and Center for Neuroscience, University of California Davis, 2019-present.
+* Adjunct Professor, Department of Psychology and Center for Neuroscience, University of California Davis, 2024-present.
+* Senior Scientist, Astera Institute, Berkeley, CA, 2021-present.
+* Professor, Department of Psychology, Computer Science, and Center for Neuroscience, University of California Davis, 2019-2023.
 * Professor, Department of Psychology & Neuroscience, Institute of Cognitive Science, Center for Neuroscience, University of Colorado Boulder, 2008-2019.
 * Associate Professor, Department of Psychology, Institute of Cognitive Science, Center for Neuroscience, University of Colorado Boulder, 2002-2008.
 * Assistant Professor, Department of Psychology, Institute of Cognitive Science, Center for Neuroscience, University of Colorado Boulder, 1997-2002.
@@ -25,7 +28,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 # Degrees
 
-* Ph.D., Psychology, Carnegie Mellon University, Aug 13, 1996. Thesis: *The Leabra Model of Neural Interactions and Learning in the Neocortex.* James L. McClelland advisor.
+* Ph.D., Psychology, Carnegie Mellon University, Aug 13, 1996. Thesis: _The Leabra Model of Neural Interactions and Learning in the Neocortex._ James L. McClelland advisor.
 * M.S., Psychology, Carnegie Mellon University, 1992.
 * A.B. Magna with Highest Honors in Psychology, Harvard University, 1989. Interdisciplinary Program in Cognitive Science.
 
@@ -111,7 +114,19 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Journal Papers
 
-* O’Reilly, R. C., Ranganath, C., & Russin, J. L. (2021 / in press). The Structure of Systematicity in the Brain. *Current Directions in Psychological Science*, ArXiv:2108.03387 *q-Bio*. http://arxiv.org/abs/2108.03387
+* Nishiyama, S., O’Reilly, R. C., & Saito, S. (2025). Slowdown vs. breakdown of memory recall by retrieval stopping. _Memory & Cognition,_ 1-13.
+
+* Antony, J., Liu, X. L., Zheng, Y., Ranganath, C., & O'Reilly, R. C. (2024). Memory out of context: Spacing effects and decontextualization in a computational model of the medial temporal lobe. _Psychological Review, 131(6),_ 1337–1372.
+
+* Liu, X. L., Ranganath, C., & O’Reilly, R. C. (2024). A complementary learning systems model of how sleep moderates retrieval practice effects. _Psychonomic Bulletin & Review, 31(5),_ 2022-2035.
+
+* Webb, T. W., Frankland, S. M., Altabaa, A., Segert, S., Krishnamurthy, K., Campbell, D., Russin, J., Giallanza, T., O’Reilly, R., Lafferty, J. & Cohen, J. D. (2024). The relational bottleneck as an inductive bias for efficient abstraction. _Trends in Cognitive Sciences._
+
+* Smucny, J., Hanks, T. D., Lesh, T. A., O’Reilly, R. C., & Carter, C. S. (2023). Altered associations between motivated performance and frontostriatal functional connectivity during reward anticipation in schizophrenia. _Schizophrenia Bulletin, 49(3),_ 717-725.
+
+* Zheng, Y., Liu, X. L., Nishiyama, S., Ranganath, C., & O’Reilly, R. C. (2022). Correcting the hebbian mistake: Toward a fully error-driven hippocampus. _PLoS computational biology, 18(10),_ e1010589.
+
+* O’Reilly, R. C., Ranganath, C., & Russin, J. L. (2022). The Structure of Systematicity in the Brain. _Current Directions in Psychological Science, 31(2)_, 124-130.
 
 * O'Reilly, R. C., Russin, J. L., Zolfaghar, M., & Rohrlich, J. (2021). Deep predictive learning in neocortex and pulvinar. *Journal of Cognitive Neuroscience, 33(6),* 1158–1196. https://doi.org/10.1162/jocn_a_01708
 
@@ -159,7 +174,7 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 * O'Reilly, R.C., Bhattacharyya, R., Howard, M. D., & Ketz, N. (2014).  Complementary learning systems.  *Cognitive Science, 38,* 1229-1248.
 
-*  Ketz, N., O'Reilly, R.C. & Curran, T. (2014). Classification aided analysis of oscillatory signatures in controlled retrieval. *NeuroImage, 85,* 749-760.
+* Ketz, N., O'Reilly, R.C. & Curran, T. (2014). Classification aided analysis of oscillatory signatures in controlled retrieval. *NeuroImage, 85,* 749-760.
 
 * Kriete T., Noelle, D.C., Cohen, J.D., & O'Reilly, R.C. (2013). Indirection and symbol-like processing in the prefrontal cortex and basal ganglia. *Proceedings of the National Academy of Science (USA), 110,* 16390-16395.
 
@@ -309,7 +324,13 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Peer Reviewed Conference Proceedings
 
-* Russin, J. L., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2021). Complementary Structure-Learning Neural Networks for Relational Reasoning. *Proceedings for the 43nd Annual Meeting of the Cognitive Science Society*.
+* Chakravarthy, A. K., Russin, J. L., & O’Reilly, R. (2022, July). Systematicity emerges in transformers when abstract grammatical roles guide attention. In _Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop_ (pp. 1-8).
+
+* Russin, J., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2022, July). A neural network model of continual learning with cognitive control. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 44, No. 44).
+
+* Zolfaghar, M., Russin, J., Park, S., Boorman, E. D., & O'Reilly, R. C. (2022). The Geometry of Map-Like Representations under Dynamic Cognitive Control. In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 44, No. 44).
+
+* Russin, J. L., Zolfaghar, M., Park, S. A., Boorman, E., & O’Reilly, R. C. (2021). Complementary Structure-Learning Neural Networks for Relational Reasoning. _Proceedings for the 43nd Annual Meeting of the Cognitive Science Society._
 
 * Webb, T., Dulberg, Z., Frankland, S., Petrov, A., O’Reilly, R.C., & Cohen, J. (2020). Learning representations that support extrapolation. International Conference on Machine Learning, 10136–10146. http://proceedings.mlr.press/v119/webb20a.html
 
@@ -339,7 +360,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ## Book Chapters
 
-* Liu, X., O’Reilly, R. C., & Ranganath, C. (2021). Effects of retrieval practice on tested and untested information: Cortico-hippocampal interactions and error-driving learning. In Federmeier, K.D. and Sahakyan, L. (Eds) *The Context of Cognition: Emerging Perspectives, Vol 75*. 125-155, Elsevier.
+* Liu, X., O’Reilly, R. C., & Ranganath, C. (2021). Effects of retrieval practice on tested and untested information: Cortico-hippocampal interactions and error-driving learning. In Federmeier, K.D. and Sahakyan, L. (Eds) _The Context of Cognition: Emerging Perspectives, Vol 75._ 125-155, Elsevier.
+
+* O’Reilly, R.C. & Hazy, T. E. (2022). Computational Contributions of the Thalamus to Learning and Memory. In: Halassa MM, ed. _The Thalamus._ Cambridge University Press. 416-431.
 
 * O'Reilly, R.C., Russin, J., & Herd, S. A. (2019).  Computational Models of Motivated Frontal Function. In D'Esposito, M. and Grafman, J. (Eds) *Handbook of Clinical Neurology: The Frontal Lobes, Vol. 163,* 317-332.  Elsevier.
 
@@ -378,6 +401,20 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * O'Reilly, R.C. (1994). Temporally local unsupervised learning: The MaxIn algorithm for maximizing input information. In M.C. Mozer, P. Smolensky, & A.S. Weigend (Eds) *Proceedings of the 1993 Connectionist Summer School,* Hove, England: Lawrence Erlbaum Associates.
 
 ## Preprints, Technical Reports
+
+* Zheng, Y., Wolf, N., Ranganath, C., O'Reilly, R. C., & McKee, K. L. (2025). Flexible Prefrontal Control over Hippocampal Episodic Memory for Goal-Directed Generalization. arXiv preprint arXiv:2503.02303.
+
+* Zheng, Y., Antony, J., Ranganath, C., & O’Reilly, R. C. (2024). Recurrent Inhibitory Dynamics in the Entorhinal Cortex Support Pattern Separation. bioRxiv, 2024-11.
+
+* Yoo, S. J., El-Srouji, L., Datta, S., Yu, S., Incorvia, J. A., Salleo, A., ... & O'Reilly, R. (2024). Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits. arXiv preprint arXiv:2403.19724.
+
+* Park, S. A., Zolfaghar, M., Russin, J., Miller, D. S., O’Reilly, R. C., & Boorman, E. D. (2023). The representational geometry of cognitive maps under dynamic cognitive control. bioRxiv, 2023-02.
+
+* McKee, K., Crandell, I., Chaudhuri, R., & O'Reilly, R. (2022). Adaptive Synaptic Failure Enables Sampling from Posterior Predictive Distributions in the Brain. arXiv preprint arXiv:2210.01691.
+
+* McKee, K. L., Crandell, I. C., Chaudhuri, R., & O'Reilly, R. C. (2021). Locally learned synaptic dropout for complete bayesian inference. arXiv preprint arXiv:2111.09780.
+
+* Rohrlich, J., & O'Reilly, R. C. (2021). Statistical Learning in Speech: A Biologically Based Predictive Learning Model. arXiv preprint arXiv:2108.06065.
 
 * Rohrlich, J., Huang, T.R., Hazy, T.E., O'Reilly, R.C. (2020). Object Recognition's Garden Path: Low Spatial Frequencies.  *PsyArXiv.*  https://psyarxiv.com/j45fb/
 
@@ -494,6 +531,10 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 * O'Reilly, R.C. (1999).  Conjunctive Representations in Learning and Memory: Principles of Cortical and Hippocampal Function.  Invited talk at the American Psychological Society Annual Meeting, Denver, CO.
 
 ### Conference Presentations: Contributed
+
+* Lesh, T., Rhilinger, J., Chen, T., Albuquerque, M., Pakzad, S., Gugava, L., ... & Carter, C. (2024). 442. Using a Fixed-Capacity Model of Working Memory to Understand Brain Activity During Motivated Behavior in Schizophrenia. _Biological Psychiatry, 95(10),_ S281.
+
+* Smucny, J., Hanks, T., Lesh, T., O'Reilly, R., & Carter, C. (2023). 8. Altered Associations Between Task Ability and Dorsolateral Prefrontal Activation During a Cognitive Control Task in Schizophrenia. _Biological Psychiatry, 93(9),_ S97.
 
 * Smucny, J., Hanks, T., Lesh, T., O’Reilly, R., & Carter, C.S. (2021). Relationships Between Reward-Based Decision Making and Activation in a Frontal-Striatal Network in Schizophrenia vs. Bipolar Disorder. *Biological Psychiatry, 89(9),* S176–S177. https://doi.org/10.1016/j.biopsych.2021.02.450
 
@@ -643,6 +684,9 @@ www: https://ccnlab.org/people/oreilly/cv/ -- [PDF](https://ccnlab.org/files/ore
 
 ### Colloquia and Other Invited Talks
 
+* A simulated rat pauses to contemplate its future, Washington University St. Louis, St. Louis, MO, February 2025.
+* A simulated rat contemplates its future, Stanford University, Palo Alto, CA, January, 2024.
+* Predictive Learning of the Structure of Space through Navigation, UC Berkeley, Berkeley, CA, October, 2021.
 * The Learning Salon, Online https://www.learningsalon.ai, March, 2021.
 * Department of Cognitive Science, UC Merced, Merced, CA, February, 2020.
 * Mathematics of Data and Decisions Seminar, UC Davis, Davis, CA, February, 2020.
