@@ -1,17 +1,11 @@
 ---
-title: "Main Page"
+title: "Home"
 ---
 
 {{< fig src="ccnlab_logo.png" width="500" >}}
 
-The public website for our lab is: https://ccnlab.org
+Our lab develops computational and formal models of the biological bases of cognition (**[computational cognitive neuroscience](https://compcogneuro.org)**), focusing on specialization of function in and interactions between hippocampus, prefrontal cortex/basal ganglia, and posterior neocortex in learning, memory, attention, vision, and controlled processing. We test predictions from these models using a range of behavioral and other experimental techniques. Current models are exploring the role of predictive learning based on cortico-thalamic connectivity to bootstrap learning in vision, motor control, and goal-driven cognition.
 
-We have just moved from CU Boulder to UC Davis, and are now based at the [Center for Neuroscience](https://neuroscience.sf.ucdavis.edu) at UC Davis.
+This work is now primarily supported by the [Astera Institute](https://astera.org/). See the [CompCogNeuro website](https://compcogneuro.org) for current information and research.
 
-Our lab develops computational and formal models of the biological bases of cognition (**computational cognitive neuroscience**), focusing on specialization of function in and interactions between hippocampus, prefrontal cortex/basal ganglia, and posterior neocortex in learning, memory, attention, vision, and controlled processing. We test predictions from these models using a range of behavioral and other experimental techniques. Current models are exploring the role of predictive learning based on cortico-thalamic connectivity to bootstrap learning in vision, motor control, and goal-driven cognition.
-
-We release our research projects, papers, etc in public repositories on our lab github page: https://github.com/CCNLab
-
-This webpage source is at: https://github.com/CCNLab/pubweb (powered by [Hugo](https://gohugo.io) and [Netlify](https://netlify.com))
-
-
+Past research projects, papers, etc are accessible in public repositories on our [lab GitHub](https://github.com/CCNLab). The source for this website is hosted [on GitHub](https://github.com/CCNLab/pubweb).
