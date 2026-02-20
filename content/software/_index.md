@@ -4,7 +4,9 @@ title: "Software"
 
 # Neural Network Simulations
 
-We develop and use the *emergent* neural network simulation system for our research and teaching.  As of March, 2020, we have largely completed a transition to a brand new framework written in the [Go](https://golang.org) language, which can be directly accessed via Python by using the [GoPy](https://github.com/go-python/gopy) tool that directly exposes the full Go interface transparently to Python.
+We develop and use the *emergent* neural network simulation system for our research and teaching.  As of March, 2020, we have largely completed a transition to the [Go](https://golang.org) language.
+
+* [compcogneuro.org](https://compcogneuro.org) -- primary updated site -- go here first!
 
 * [emergent](https://github.com/emer/emergent)
 
@@ -34,31 +36,6 @@ We have now migrated almost everything over to opensource and cloud-based servic
 
 # Zotero config
 
-Notes for anyone using the CCNLab zotero setup:
+See [https://randalloreilly.com/zotero](https://randalloreilly.com/zotero) for updated info!
 
-0. For first sync with the client to desktop, probably better to set Sync to `as needed` to get the library downloaded quickly, and then do `at sync time` if you want later and let it churn overnight with a good network connection.
-
-1. Install Better Bibtex: https://retorque.re/zotero-better-bibtex/  (install in `Tools/Add Ons`) -- this adds a `Citekey` field which we use to track all references and cite in bibtex -- provides a handy way to refer to a paper.
-
-2. Configure citation key in `Preferences / Better Bibtex` as:
-
-```
-[authors3][shortyear]
-```
-
-which now shows up translated as:
-
-```
-authors(n=3,etal=EtAl)+shortyear
-```
-
-and make sure the `Force citation key to plain text` flag is set.
-
-3. Install Zotfile: http://zotfile.com/ and set `Tools / ZotFile preferences / Renaming Rules` `Renaming format` to `{%b}` (for all item types except patents -- we don't care about patents so leave as is).
-
-4. Set `General / Preferences` to `Automatically rename attachment files using parent metadata` -- this in conjunction with Zotfile renames pdf's using citekey.  Be sure to check when you add an entry, by toggling it open to see the attachments, that the pdf is named after the citekey, and does NOT say something lke "Full Text PDF".  You can manually trigger the renaming by doing `Manage attachments / Rename and move` in the context menu on the item (control + mouse button on mac, right mouse button otherwise).
-
-5. **Be sure to check for an existing entry before adding**, and if you accidentally add a duplicate (it will end with `a` in the citekey as a clue) please delete it or merge it using `Duplicate items` section.  Zotero docs: https://www.zotero.org/support/duplicate_detection
-
-6. To organize the list of citations by most recently added, which is very handy for checking recent updates,  click on the tiny button on the far right of the list header to select the fields to show, and select Date Added and Citekey (e.g., use Title, Creator, Date Added, Citekey as the full set).  Then, click on Date Added to sort by that, so you can see the newest ones at the top.
 

@@ -4,8 +4,7 @@ title: "People"
 
 # Director
 
-* [Dr. Randall C. O'Reilly]({{< ref "/people/oreilly" >}})
-    + {{< page "people/oreilly/cv" >}} and {{< page "people/oreilly/bio" >}}
+* [Dr. Randall C. O'Reilly:](https://randalloreilly.com)
 
 # Senior Research Associates
 

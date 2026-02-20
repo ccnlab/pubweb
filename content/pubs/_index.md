@@ -4,7 +4,8 @@ title: "Pubs"
 
 # Curriculum Vitae (CV's)
 
-* {{< page "people/oreilly/cv" >}}
+See [https://randalloreilly.com/publications](https://randalloreilly.com/publications) for updated info!
+
 * [Google Scholar Profile](https://scholar.google.com/citations?user=tZpKKm4AAAAJ)
 * [Research Gate Profile](https://www.researchgate.net/profile/Randall_OReilly/?ev=hdr_xprf)
 * [NCBI NIH Biosketch]( https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/cv/538267/) and [Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/randall.o'reilly.1/bibliography/public/)
